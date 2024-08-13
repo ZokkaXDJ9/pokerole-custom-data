@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "All Foes",
-  "effect": "Reduce the user's Special by 1. Each use scatters 10 × Rank <:poke_coin:1120237132200546304> around the arena. This effect can only be triggered when the user is under stress. Inflicts Wounds.",
+  "effect": "Reduce the user's Special by 1. Each use scatters 10 × Rank <:pokecoin:1272536303430270986> around the arena. This effect can only be triggered when the user is under stress. Inflicts Wounds.",
   "description": "The Pokémon attacks by throwing out a mass of coins. These can be recovered after battle, if the victors don't mind picking them up individually.",
   "category": "Special"
 }

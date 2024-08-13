@@ -2,7 +2,5 @@
   "name": "Respec Potion",
   "description": "A very... questionable tincture with a very foul smell. Drinking this supposedly helps to clear your mind... and body?",
   "effect": "Resets your spent stat points, allowing you to freely reallocate them",
-  "recipes": [
-    "1000 <:poke_coin:1120237132200546304> -> 1 Full Use"
-  ]
+  "recipes": ["1000 <:pokecoin:1272536303430270986> -> 1 Full Use"]
 }

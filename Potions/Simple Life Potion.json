@@ -3,8 +3,8 @@
   "description": "A simple brew made with berries which soothes injuries. Doesn't really have much of a taste, and it's a bit thick.",
   "effect": "Heal 2 HP per charge",
   "recipes": [
-    "85 <:poke_coin:1120237132200546304> -> 1 Charge",
-    "200 <:poke_coin:1120237132200546304> -> 3 Charges",
+    "85 <:pokecoin:1272536303430270986> -> 1 Charge",
+    "200 <:pokecoin:1272536303430270986> -> 3 Charges",
     "4 Oran Berries -> 3 Charges",
     "1 Oran Berries + 1 Sitrus Berries -> 3 Charges"
   ]
