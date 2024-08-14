@@ -4,8 +4,8 @@
   "base_hp": 3,
   "strength": "2/4",
   "dexterity": "2/4",
-  "vitality": "2/4",
-  "special": "1/3",
+  "vitality": "2/5",
+  "special": "1/2",
   "insight": "2/4",
   "moves": {
     "bronze": ["Tackle", "Growl", "Tail Whip", "Covet"],
