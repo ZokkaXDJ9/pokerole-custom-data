@@ -1,12 +1,12 @@
 {
   "number": 724,
   "name": "Decidueye (Hisuian Form)",
-  "base_hp": 6,
+  "base_hp": 5,
   "strength": "3/7",
   "dexterity": "2/4",
   "vitality": "2/5",
-  "special": "2/5",
-  "insight": "2/5",
+  "special": "3/6",
+  "insight": "3/6",
   "moves": {
     "bronze": ["Leaf Storm", "U-turn", "Tackle", "Growl", "Leafage", "Triple Arrows", "Peck"],
     "silver": ["Shadow Sneak", "Razor Leaf", "Synthesis", "Pluck", "Bulk Up"],
