@@ -3,10 +3,10 @@
   "name": "Perrserker",
   "evolves_from_override": 10161,
   "base_hp": 4,
-  "strength": "3/6",
+  "strength": "3/7",
   "dexterity": "2/4",
   "vitality": "3/6",
-  "special": "2/4",
+  "special": "1/3",
   "insight": "2/4",
   "moves": {
     "bronze": ["Metal Burst", "Iron Defense", "Fake Out", "Growl", "Hone Claws", "Scratch", "Iron Head"],
