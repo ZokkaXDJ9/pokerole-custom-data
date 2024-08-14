@@ -2,10 +2,10 @@
   "number": 902,
   "api_id": 902,
   "name": "Basculegion (Male)",
-  "base_hp": 6,
-  "strength": "3/6",
+  "base_hp": 7,
+  "strength": "3/7",
   "dexterity": "2/5",
-  "vitality": "2/5",
+  "vitality": "2/4",
   "special": "2/5",
   "insight": "2/5",
   "moves": {
