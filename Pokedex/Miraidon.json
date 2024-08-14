@@ -3,10 +3,10 @@
   "name": "Miraidon",
   "base_hp": 6,
   "strength": "5/5",
-  "dexterity": "7/7",
+  "dexterity": "8/8",
   "vitality": "6/6",
-  "special": "7/7",
-  "insight": "6/6",
+  "special": "8/8",
+  "insight": "7/7",
   "moves": {
     "bronze": [],
     "silver": [],
