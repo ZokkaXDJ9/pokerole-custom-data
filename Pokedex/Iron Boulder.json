@@ -1,11 +1,11 @@
 {
   "number": 1022,
   "name": "Iron Boulder",
-  "base_hp": 5,
+  "base_hp": 6,
   "strength": "3/7",
   "dexterity": "3/7",
   "vitality": "2/5",
-  "special": "2/4",
+  "special": "2/5",
   "insight": "3/6",
   "moves": {
     "bronze": [],
