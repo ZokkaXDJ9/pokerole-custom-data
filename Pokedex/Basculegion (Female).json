@@ -2,10 +2,10 @@
   "number": 902,
   "api_id": 10248,
   "name": "Basculegion (Female)",
-  "base_hp": 6,
-  "strength": "2/5",
+  "base_hp": 7,
+  "strength": "3/6",
   "dexterity": "2/5",
-  "vitality": "2/5",
+  "vitality": "2/4",
   "special": "3/6",
   "insight": "2/5",
   "moves": {
