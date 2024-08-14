@@ -2,11 +2,11 @@
   "number": 900,
   "name": "Kleavor",
   "base_hp": 4,
-  "strength": "3/7",
+  "strength": "4/8",
   "dexterity": "2/5",
   "vitality": "3/6",
   "special": "1/3",
-  "insight": "2/4",
+  "insight": "2/5",
   "moves": {
     "bronze": ["Quick Attack", "Leer", "Stone Axe", "Fury Cutter", "False Swipe"],
     "silver": ["Smack Down", "Double Team", "Double Hit", "Slash", "Focus Energy", "Agility", "Rock Slide"],
