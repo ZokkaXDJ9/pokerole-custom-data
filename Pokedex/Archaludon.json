@@ -1,10 +1,10 @@
 {
   "number": 1018,
   "name": "Archaludon",
-  "base_hp": 5,
+  "base_hp": 6,
   "strength": "3/6",
   "dexterity": "2/5",
-  "vitality": "3/7",
+  "vitality": "4/8",
   "special": "3/7",
   "insight": "2/4",
   "moves": {
