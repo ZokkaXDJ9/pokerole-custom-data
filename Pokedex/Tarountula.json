@@ -3,10 +3,10 @@
   "name": "Tarountula",
   "base_hp": 3,
   "strength": "1/3",
-  "dexterity": "1/3",
+  "dexterity": "1/2",
   "vitality": "1/3",
   "special": "1/3",
-  "insight": "1/2",
+  "insight": "1/3",
   "moves": {
     "bronze": ["Tackle", "String Shot", "Struggle Bug", "Assurance"],
     "silver": ["Feint", "Bug Bite", "Block", "Counter", "Headbutt", "Sticky Web", "Gastro Acid", "Circle Throw"],
