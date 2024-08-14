@@ -1,11 +1,11 @@
 {
   "number": 700,
   "name": "Sylveon",
-  "base_hp": 5,
+  "base_hp": 6,
   "strength": "2/4",
   "dexterity": "2/4",
-  "vitality": "2/5",
-  "special": "3/6",
+  "vitality": "2/4",
+  "special": "3/7",
   "insight": "3/7",
   "moves": {
     "bronze": ["Fairy Wind", "Helping Hand", "Sand Attack", "Tackle", "Tail Whip"],
