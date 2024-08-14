@@ -4,9 +4,9 @@
   "base_hp": 5,
   "strength": "2/4",
   "dexterity": "2/5",
-  "vitality": "2/5",
-  "special": "3/7",
-  "insight": "2/5",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "3/6",
   "moves": {
     "bronze": ["Astonish", "Tackle","Night Shade"],
     "silver": ["Confuse Ray","Substitute","Metal Sound","Shadow Ball"],
