@@ -2,10 +2,10 @@
   "number": 975,
   "name": "Cetitan",
   "base_hp": 9,
-  "strength": "3/6",
+  "strength": "3/7",
   "dexterity": "2/5",
   "vitality": "2/4",
-  "special": "2/4",
+  "special": "1/3",
   "insight": "2/4",
   "moves": {
     "bronze": ["Tackle", "Powder Snow", "Growl", "Echoed Voice"],
