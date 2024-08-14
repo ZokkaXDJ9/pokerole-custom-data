@@ -4,9 +4,9 @@
   "base_hp": 3,
   "strength": "1/3",
   "dexterity": "2/5",
-  "vitality": "1/3",
+  "vitality": "1/2",
   "special": "2/4",
-  "insight": "1/3",
+  "insight": "1/2",
   "moves": {
     "bronze": ["Peck", "Growl", "Confusion", "Baby-Doll Eyes"],
     "silver": ["Disarming Voice", "Quick Attack", "Psybeam", "Pluck", "Agility", "Uproar"],
