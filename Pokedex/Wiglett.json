@@ -1,12 +1,12 @@
 {
   "number": 960,
   "name": "Wiglett",
-  "base_hp": 2,
+  "base_hp": 1,
   "strength": "2/4",
-  "dexterity": "2/5",
-  "vitality": "1/3",
+  "dexterity": "3/6",
+  "vitality": "1/2",
   "special": "1/3",
-  "insight": "1/3",
+  "insight": "1/2",
   "moves": {
     "bronze": ["Water Gun", "Sand Attack", "Mud Slap", "Wrap"],
     "silver": ["Aqua Jet", "Slam", "Water Pulse", "Headbutt", "Dig", "Sucker Punch", "Throat Chop"],
