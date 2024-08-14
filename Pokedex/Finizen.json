@@ -1,11 +1,11 @@
 {
   "number": 963,
   "name": "Finizen",
-  "base_hp": 4,
-  "strength": "2/4",
+  "base_hp": 5,
+  "strength": "1/3",
   "dexterity": "2/5",
   "vitality": "1/3",
-  "special": "2/4",
+  "special": "1/3",
   "insight": "1/3",
   "moves": {
     "bronze": ["Water Gun", "Supersonic", "Astonish", "Focus Energy"],
