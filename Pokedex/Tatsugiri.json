@@ -6,7 +6,7 @@
   "dexterity": "2/5",
   "vitality": "2/4",
   "special": "3/7",
-  "insight": "2/5",
+  "insight": "3/6",
   "moves": {
     "bronze": ["Water Gun", "Splash", "Harden"],
     "silver": ["Helping Hand", "Water Pulse", "Soak", "Taunt", "Memento"],
