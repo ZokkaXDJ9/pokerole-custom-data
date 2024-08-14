@@ -2,11 +2,11 @@
   "number": 990,
   "name": "Iron Treads",
   "base_hp": 5,
-  "strength": "3/6",
+  "strength": "3/7",
   "dexterity": "3/6",
   "vitality": "3/7",
   "special": "2/5",
-  "insight": "2/4",
+  "insight": "2/5",
   "moves": {
     "bronze": [],
     "silver": [],
