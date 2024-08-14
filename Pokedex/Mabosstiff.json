@@ -4,9 +4,9 @@
   "base_hp": 5,
   "strength": "3/7",
   "dexterity": "2/5",
-  "vitality": "2/5",
+  "vitality": "3/6",
   "special": "2/4",
-  "insight": "2/5",
+  "insight": "2/4",
   "moves": {
     "bronze": ["Tackle", "Leer", "Scary Face", "Lick", "Snarl", "Hone Claws", "Comeuppance"],
     "silver": ["Bite", "Roar", "Headbutt", "Payback", "Crunch", "Swagger"],
