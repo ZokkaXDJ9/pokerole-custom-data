@@ -1,10 +1,10 @@
 {
   "number": 197,
   "name": "Umbreon",
-  "base_hp": 5,
-  "strength": "2/5",
+  "base_hp": 6,
+  "strength": "2/4",
   "dexterity": "2/4",
-  "vitality": "3/6",
+  "vitality": "3/7",
   "special": "2/4",
   "insight": "3/7",
   "moves": {
