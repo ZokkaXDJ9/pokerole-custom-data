@@ -1,10 +1,10 @@
 {
   "number": 998,
   "name": "Baxcalibur",
-  "base_hp": 6,
+  "base_hp": 7,
   "strength": "4/8",
   "dexterity": "2/5",
-  "vitality": "2/5",
+  "vitality": "3/6",
   "special": "2/5",
   "insight": "2/5",
   "moves": {
