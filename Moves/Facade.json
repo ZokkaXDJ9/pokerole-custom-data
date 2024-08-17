@@ -1,0 +1,11 @@
+{
+  "name": "Facade",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the user has a Status Ailment, add 3 Extra Dice to the Damage pool. While using this move, ignore the Strength reduction of Burn.",
+  "description": "The Pokemon will make an upfront attack. If the user is suffering, the attack will be stronger.",
+  "category": "Physical"
+}

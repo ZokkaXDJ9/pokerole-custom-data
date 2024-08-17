@@ -1,0 +1,11 @@
+{
+  "name": "Cover An Ally",
+  "type": "None",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "One Ally",
+  "effect": "Reaction. Shield Move. The user will provide cover to the target, redirecting all moves targeting the target of this move to the user until their next turn.",
+  "description": "",
+  "category": "Support"
+}

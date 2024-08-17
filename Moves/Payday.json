@@ -4,7 +4,7 @@
   "power": 2,
   "damage": "Strength",
   "accuracy": "Dexterity",
-  "target": "Self",
+  "target": "Foe",
   "effect": "Ranged. Each use scatters 10 × Rank <:pokecoin:1272536303430270986> around the arena. This effect can only be triggered when the user is under stress.",
   "description": "The user hurls coins at the target, scattering them on the battlefield.",
   "category": "Physical"

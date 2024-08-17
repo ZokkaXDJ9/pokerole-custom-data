@@ -1,0 +1,11 @@
+{
+    "name": "Sticky Web",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe's Battlefield",
+    "effect": "Sets up Sticky Webs on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, roll 3 chance dice to lower the victim's Dexterity by 1. This effect can trigger multiple times, but cannot bring a pokemon below a -3 dex modifier. Has no effect on Flying types or Pokemon with the ability Levitate.",
+    "description": "The pokemon sets up a layer of sticky webs, which irritatingly cling to fur, and scales, making it much harder to move around.",
+    "category": "Support"
+}

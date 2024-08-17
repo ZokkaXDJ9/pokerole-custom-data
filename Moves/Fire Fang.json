@@ -1,0 +1,11 @@
+{
+  "name": "Fire Fang",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance to Flinch the Foe. Roll 1 Chance Dice to Burn the foe. -1 Accuracy",
+  "description": "The user breathes fire from its mouth while biting the target.",
+  "category": "Physical"
+}

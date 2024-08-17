@@ -1,0 +1,5 @@
+{
+  "name": "Sharpness",
+  "description": "This pokemon uses blades that can only be called truly razor sharp!",
+  "effect": "Slicing moves gain 1 additional damage dice. These moves include:\n- Aerial Ace\n- Air Cutter\n- Air Slash\n- Aqua Cutter\n- Ceaseless Edge\n- Fury Cutter\n- Leaf Blade\n- Night Slash\n- Psycho Cut\n- Razor Shell\n- Sacred Sword\n- Slash\n- Stone Axe\n- X-Scissor"
+}

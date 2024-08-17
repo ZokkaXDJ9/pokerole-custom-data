@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Fang",
+  "type": "Electric",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Flinch the foe. Roll 1 Chance Dice to Paralyze the foe. -1 Accuracy.",
+  "description": "The user lands an electrified bite on the foe. The direct current may affect the foe greatly.",
+  "category": "Physical"
+}

@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Insight",
   "target": "Self",
-  "effect": "Creates Snow Weather on the battlefield.",
+  "effect": "Snow Weather is activated for the next 4 rounds.",
   "description": "The user summons a flurry of soft, delicate snow onto the battlefield.",
   "category": "Support"
 }

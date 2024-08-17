@@ -1,0 +1,11 @@
+{
+    "name": "Spikes",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe's Battlefield",
+    "effect": "Sets up Spikes on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, they deal 1 dice of damage. Add 1 damage dice for every layer of spikes placed. Up to three layers can be placed. Has no effect on Flying types or Pokemon with the ability Levitate.",
+    "description": "The pokemon sets up a layer of sharp caltrops on the field, serving as a sufficient trap to inhibit movement.",
+    "category": "Support"
+}

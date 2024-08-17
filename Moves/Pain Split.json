@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Will",
   "target": "Foe",
-  "effect": "Costs 1 Will to use. Roll 1 dice of damage on the foe for every point of difference between the user's current HP and the foe's current HP. The user regains HP equal to half the damage dealt, rounded down. Ignores defenses.",
+  "effect": "Costs 1 Will to use. Roll dice equal to the difference between the user's and the foe's current HP (up to 10). Whoever has the higher amount of current HP will take the damage, while whoever has the lower amount will heal half the damage dealt, rounded down. Ignores defenses.",
   "description": "The user shares it's pain with the foe.",
   "category": "Support"
 }

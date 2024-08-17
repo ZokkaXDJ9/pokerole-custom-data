@@ -1,0 +1,11 @@
+{
+  "name": "Ice Fang",
+  "type": "Ice",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Flinch the foe. Roll 1 Chance Dice to Frostbite the foe. -1 Accuracy.",
+  "description": "The user bites the foe and releases a gelid breath through its mouth.",
+  "category": "Physical"
+}
