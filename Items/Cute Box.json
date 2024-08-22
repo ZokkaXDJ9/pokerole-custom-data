@@ -1,0 +1,8 @@
+{
+    "name": "Cute Box",
+    "price": 200,
+    "description": "A box that is amazingly adorable. It likely contains something but won't give up its secrets easily.",
+    "category": "Boxes",
+    "single_use": true
+}
+

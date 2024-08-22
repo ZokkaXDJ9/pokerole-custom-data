@@ -1,6 +1,0 @@
-{
-  "name": "Orre Character Import",
-  "flavor": "Celebi did another woopsiedoodle!",
-  "text": "While everything that happened over in the Orre Region is considered non-canon since this is taking place in a different timeline and in the far future, you can import one of your characters from Orre over to this system with a little boost!\nIf you where at least Silver Rank, your character may start with Level 2 here.\nIf you where Gold or higher, your character may start with Level 3.\nAll of these are optional, of course! And no items or other unlocks can be carried over.\nIt is fine to start out as an evolved mon here, just check `/rule name:Evolution` for the details.\nJust follow the character creation guide and let us know that it's supposed to be an Orre import so we can apply those level ups. You may import your character even if you are already at your character limit, but this will *not* give you a free extra character slot, so you'll be at 2/1 slots until you reach the required levels to get more.",
-  "example": ""
-}
