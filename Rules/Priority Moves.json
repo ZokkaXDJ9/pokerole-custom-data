@@ -1,6 +1,6 @@
 {
   "name": "Priority",
   "flavor": "Even when you're as slow as a rock, all it takes is a little speed boost!",
-  "text": "Moves marked with the term 'Priority' have their initiative set differently and must be called out before the round fully starts. Most are moves that set the user's priority to the top as it's faster while some move the user to the very bottom, even below those Stalling. The higher the number of priority, the higher up the initiative order the user goes. On the other hand, moves with negative initiative go lower the *lower* that number is. In the case of two pokemon using moves with the same priority, who goes first between them depends on the usual Initiative rules.",
-  "example": "The GM calls for Initiative and a Scyther, Eevee and Lucario proclaim the use of Priority moves. All three players reveal their moves, the Scyther and Eevee using a Priority 1 Quick Attack while the Lucario reveals Priority 2 Extreme Speed. With a higher priority , the Lucario is at the top of initiative while the Scyther and Eevee roll initiative to see who goes first between the two of them.\nLucario (Priority 2)\nScyther (Priority 1/Initiative 7\nEevee (Priority 1/Initiative 3)\n*Everyone else*"
+  "text": "- Moves with 'Priority' must be declared before the round starts and affect initiative order.\n- Higher priority numbers act first; lower or negative numbers act later.\n- If two Pokémon use moves with the same priority, normal initiative rules determine who goes first.",
+  "example": ""
 }

@@ -1,6 +1,6 @@
 {
   "name": "Z-Moves",
   "flavor": "Time to unleash my most powerful attack!",
-  "text": "Utilizing the power of a Z-Crystal of the corresponding type, one can use an upgraded version of a move to really turn the tides of battle. Using a Z-move costs 2 will. The strength and powers of your Z-moves can be customized, but should be discussed with an admin beforehand. We'll use a 5-point based system to build them, with the following stipulations:\n\n- A power boost costs 1 Point\n- 2 extra chance dice costs 1 Points\n- A pure stat drops or increase costs 2 points\n- A pure status affliction costs 2 points\n- Any other changes will need to be discussed.\n\nZ-Crystals can be replicated, allowing you to bring a one-time-use replicant Z-crystal as an item... But only one Z-Crystal can be taken on a quest! If you plan to use a Z-Crystal in a combat, that must be your held item for the *entire* combat.",
-  "example": "Heatmor grabs a Fire-Type Z-Crystal on an upcoming Mystery Dungeon Quest. Electing to save it for the probable boss at the end. His guess was right, and using his Z-Crystal for his held item that encounter, unleashes his Z-Move on the first turn, *Z-Flaming Whip*. This moves uses *Fire Lash* for its base. It further decreases Defense by an additional point, and has three extra points of Power compared to normal *Fire Lash*."
+  "text": "- You need a Z-Crystal of the corresponding type to use a Z-Move.\n- Using a Z-Move costs 2 will points.\n- The Z-Crystal must be your held item for the entire combat if you use a Z-Move.\n- Only one Z-Crystal can be taken on a quest.",
+  "example": ""
 }

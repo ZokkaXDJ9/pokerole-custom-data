@@ -1,6 +1,6 @@
 {
   "name": "EotS Character Import",
-  "flavor": "Celebi did another woopsiedoodle!",
-  "text": "Needs rework! If you see this message, please leave a note in the Admin-Channel!",
+  "flavor": "No need to start a new adventure!",
+  "text": "- **Bringing Your Character Here:** You can bring your existing character to this server to maintain progress, but some balancing is required.\n- **Money and Experience:** You can keep your money and experience. Make sure to write them down after completing your character sheet.\n- **Items:** You can bring as many items as your backpack can hold, but you won't receive any new items. Consider bringing healing items and personal items.\n- **Transfer Process:** If you transfer your character here, they enter through the nexus, as explained in the channel description. You can return to your home world, but items brought over are locked, so you can't bring anything new after the first transfer or take anything out.\n- **Character Sheet Submission:** You no longer need to submit your character sheet twice. We will enable your character after posting it if everything looks good.\n- **Tupperbox Usage:** If you already have a Tupper, you don't need to create another one. Tupperbox stores your Tuppers globally for use on every server the bot is on.",
   "example": ""
 }

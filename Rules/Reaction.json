@@ -1,6 +1,6 @@
 {
   "name": "Reaction",
   "flavor": "Just wait for the right time aaaaaand... WHAM!",
-  "text": "Moves with the tag Reaction do not interact with initiative normally. At the start of a turn, someone can call the use of a Reaction move. Depending on the move, there'll be different criteria to trigger it. When the trigger happens in battle, you use the move before that trigger can complete. If said trigger never happens, you are forced to the bottom of initiative, however not below players with Negative Priority or players Stalling their turn.",
-  "example": "As everyone is rolling initiative, a Meowscarada calls Reaction. They are now placed at the bottom of initiative but noted to be using a Reaction move. An Absol attacks the Meowscarada and triggers their Reaction: the move Sucker Punch. The Meowscarada quickly attacks the Absol before they can hit them and faints as a result.\n\nAs for a second example, the Absol instead decides to Stall, leaving the Meowscarada unable to use their reaction."
+  "text": "- A 'Reaction' must be declared at the start of a turn to use a move when a specific trigger occurs.\n- If the trigger occurs, the move is used immediately before the trigger completes.\n- If the trigger does not occur, the user moves to the bottom of the initiative, but above players with Negative Priority or who are Stalling.",
+  "example": ""
 }
