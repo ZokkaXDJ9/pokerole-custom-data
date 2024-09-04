@@ -1,6 +1,6 @@
 {
   "name": "Rerolls",
   "flavor": "Lady Luck isn't smiling on you today, huh?",
-  "text": "Once per round, a player may expend one point of their Will to reroll an accuracy or chance dice roll. The reroll must be taken (Certain held items may change this) over the original roll.",
+  "text": "- Once per round, a player may expend one point of their Will to reroll an accuracy or chance dice roll.\n- The reroll must be taken over the original roll. Certain held items may change this.",
   "example": ""
 }

@@ -1,6 +1,6 @@
 {
   "name": "Successive Actions",
   "flavor": "And another one! And another one! And...",
-  "text": "Moves with Successive Actions hit multiple times. Every successive hit has a -2 accuracy reduction.\nKeep rolling accuracy until the hit fails, then roll damage as often as you had successful accuracy rolls.",
-  "example": "Let's say you have a Dexterity of 5, are at Silver Rank and want to use Fury Swipes. That means you get 7 accuracy dice. We roll the following:\n- Accuracy roll#1: 3 Successes! -> Hit (-1 base Accuracy from the move, but we still have 2 successes!)\n- Accuracy roll#2: 4 Successes! -> Hit (Since this is the second action, we have an additional -2 accuracy here, but barely land the attack!)\n- Accuracy roll#3: 3 Successes! -> Miss (The third roll has -4 Accuracy, so the attack doesn't connect.)\n\nNow we roll damage twice, once for each hit. With a strength of 3, that means we'd just use `/roll` for 4d6 two times."
+  "text": "- Moves with Successive Actions hit multiple times. Every successive hit has a -2 accuracy reduction.\n- Keep rolling accuracy until the hit fails, then roll damage as often as you had successful accuracy rolls.",
+  "example": ""
 }
