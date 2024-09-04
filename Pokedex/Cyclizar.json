@@ -8,8 +8,16 @@
   "special": "2/5",
   "insight": "2/4",
   "moves": {
-    "bronze": ["Tackel", "Growl", "Rapid Spin"],
-    "silver": ["Taunt", "Breaking Swipe", "Quick Attack", "Bite", "U-turn", "Shed Tail", "Dragon Claw"],
+    "bronze": ["Tackle", "Growl", "Rapid Spin"],
+    "silver": [
+      "Taunt",
+      "Breaking Swipe",
+      "Quick Attack",
+      "Bite",
+      "U-turn",
+      "Shed Tail",
+      "Dragon Claw"
+    ],
     "gold": ["Shift Gear", "Dragon Pulse", "Double-Edge", "Dragon Rush"],
     "platinum": ["Aqua Tail", "Iron Tail", "Power Whip"],
     "diamond": []
