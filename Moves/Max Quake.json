@@ -1,11 +1,10 @@
 {
   "name": "Max Quake",
   "type": "Ground",
-  "power": "Source Move + 1",
   "damage": "Strength/Special",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "This move replaces all ground type moves when Dynamaxed. Increase User and all allies Special Defense by 1.",
+  "effect": "This move replaces all ground type moves when Dynamaxed. Deals the source move's damage + 1 to a single enemy and increase user and all allies Special Defense by 1.",
   "description": "A super-sized attack that has the Dynamaxed Pokemon quaking yhe earth below the foe's feet.",
   "category": "Special/Physical"
 }

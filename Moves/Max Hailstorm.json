@@ -1,11 +1,10 @@
 {
   "name": "Max Hailstorm",
   "type": "Ice",
-  "power": "Source Move + 2",
   "damage": "Strength/Special",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "This move replaces all ice type moves when Dynamaxed. Summons Hail weather for 5 turns",
+  "effect": "This move replaces all ice type moves when Dynamaxed. Deals the source move's damage + 2 to a single enemy and summons Hail weather for 5 turns",
   "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a furious blizzard that engulfs the foe.",
   "category": "Special/Physical"
 }

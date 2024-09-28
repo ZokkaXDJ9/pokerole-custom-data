@@ -1,11 +1,10 @@
 {
   "name": "Max Strike",
   "type": "Normal",
-  "power": "Source Move + 2",
   "damage": "Strength/Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "This move replaces all normal type moves when Dynamaxed. Reduce all opponents Dexterity by 1",
+  "effect": "This move replaces all normal type moves when Dynamaxed. Deals the source move's damage + 2 to a single enemy and reduces all opponents Dexterity by 1",
   "description": "A super-sized attack that has the Dynamaxed Pokemon slamming their full force into the foe.",
   "category": "Special/Physical"
 }
