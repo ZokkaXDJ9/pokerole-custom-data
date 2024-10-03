@@ -1,0 +1,11 @@
+{
+  "name": "Gust",
+  "type": "Flying",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Automatic Critical Hit on Aerial opponents using Fly, Bounce or Sky Drop.",
+  "description": "The Pokemon flaps its wings to strike the foe with wind.",
+  "category": "Special"
+}
