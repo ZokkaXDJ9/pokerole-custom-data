@@ -1,0 +1,5 @@
+{
+    "name": "Shields Down",
+    "description": "The Pokemon's core is protected by a sturdy shield, if the shield is shattered the Pokemon starts acting crazy.",
+    "effect": "Only Minior can use this Ability. After reaching half or less of its max HP in battle, the pokemon receives + 1 to base Strength and Special, +2 to base Dexterity, and -1 to base Defense and Special Defense. If it were to be restored to more than half its max HP, remove the effects of this ability."
+}
