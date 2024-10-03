@@ -1,0 +1,11 @@
+{
+  "name": "Crush Claw",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 5 chance dice to reduce the target's defense by 1. Inflicts Wounds.",
+  "description": "The user crushes its claws against the foe; it may pierce the skin of the foe.",
+  "category": "Physical"
+}
