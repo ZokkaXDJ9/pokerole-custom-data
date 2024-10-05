@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foes",
-  "effect": "Restores HP to the user equal to half the highest danage value dealt, rounded down. Roll 2 chance dice to inflict Burn 1 on each foe hit.",
+  "effect": "Restores HP to the user equal to half the highest danage value dealt, rounded down. Roll 2 chance dice to inflict Burn on each foe hit.",
   "description": "The user spits out sone recently brewed tea. Said tea is incredibly scalding.",
   "category": "Special"
 }

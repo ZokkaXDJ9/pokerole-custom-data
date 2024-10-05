@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Roll 3 chance dice to apply Burn 1. Instantly thaws targeted pokemon if frozen.",
+  "effect": "Roll 3 chance dice to apply Burn. Instantly thaws targeted pokemon if frozen.",
   "description": "The Pokémon kicks up a torrent of superheated sand. Prolonged contact can leave painful burns. Don't let it get in your eyes.",
   "category": "Special"
 }

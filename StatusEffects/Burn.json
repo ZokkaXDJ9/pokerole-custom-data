@@ -1,5 +1,5 @@
 {
-    "name": "Burn 2",
+    "name": "Burn",
     "description": "A part of your body is in flames!",
     "resist": "Cannot be resisted.",
     "effect": "Inflict 1 point of wound damage at the end of each Round and reduce the subjects Strength by 1. Fire-type Pokémon are immune.",

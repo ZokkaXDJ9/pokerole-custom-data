@@ -1,7 +1,7 @@
 {
     "name": "Confused",
     "description": "You can't tell friend from foe. They are just looking all the same to you!",
-    "resist": "See duration.",
-    "effect": "The subject has to pick their target(s) randomly after picking a move, which includes themselves.",
-    "duration": "Roll Insight at the start of the turn. Once you have a total of 6 successes, your character snaps out of it."
+    "resist": "Before using a move, roll 1d6. On a 1, you fail to execute it and hit yourself in confusion (roll Str + 3 as damage dice against themselves, resisted by their def. Minimum of 1 damage).",
+    "effect": "If the subject makes an attack, after final damage calculation the subject hits themselves in confusion.",
+    "duration": "Roll Insight at the start of the turn. Once you have a total of 6 successes or 4 rounds have passed, your character snaps out of it."
 }

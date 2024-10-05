@@ -2,6 +2,6 @@
     "name": "Flinched",
     "description": "You want to react but your body disagrees!",
     "resist": "Can’t be resisted.",
-    "effect": "The subject's next move has -2 Accuracy.",
+    "effect": "The subject's next move does not add their rank bonus to Accuracy and cannot crit. (Damage, stat/field changes are resolved as if they had succeeded normally.)",
     "duration": "1 Action."
 }

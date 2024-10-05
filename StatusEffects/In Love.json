@@ -1,7 +1,7 @@
 {
     "name": "In Love",
     "description": "You’ll protect your beloved! ...what was her name again?",
-    "resist": "Roll Insight at the beginning of the Round, if the subject scores 2 or more successes, it may act normally during this Round.",
+    "resist": "Roll 1 dice. On a 1-3, you are effected by In Love. On a 4-6, you ignore the effects until next round.",
     "effect": "The subject Holds Back (inflicts half damage) against the foe and the foe’s allies.",
     "duration": "One scene."
 }
