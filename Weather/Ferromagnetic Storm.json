@@ -1,0 +1,5 @@
+{
+    "name": "Ferromagnetic Storm",
+    "description": "The magnetism in this area is heightened beyond belief. You can almost feel yourself being pulled to the nearest metallic object.",
+    "effect": "- All Steel-type moves gain Never Miss.\n- Steel-types gain the effects of Magnet Rise\n- Electric type moves targeting steel types gain Never Miss."
+}

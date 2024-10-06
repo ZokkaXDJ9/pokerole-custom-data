@@ -1,7 +1,7 @@
 {
   "name": "Infernal Parade",
   "type": "Ghost",
-  "power": 3,
+  "power": 2,
   "damage": "Special",
   "accuracy": "Special",
   "target": "Foe",

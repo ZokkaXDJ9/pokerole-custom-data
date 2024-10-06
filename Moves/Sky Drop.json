@@ -1,0 +1,11 @@
+{
+    "name": "Sky Drop",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Charge Move. While charging this move, the Target is blocked and both the User and Target are out of range. The target is still able to target the user or self while in the air. Flying Type Pokemon are immune to the Damage of this move. A target greater than 200kgs immune to this move completely.",
+    "description": "The user carries the opponent to the sky, then drops the target from that altitude.",
+    "category": "Physical"
+  }

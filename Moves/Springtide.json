@@ -1,0 +1,11 @@
+{
+    "name": "Springtide",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Pollen Storm Weather is activated for the next 4 Rounds.",
+    "description": "The user enriches the plant life around them, forcing them all to bloom and let their pollen loose ",
+    "category": "Support"
+  }

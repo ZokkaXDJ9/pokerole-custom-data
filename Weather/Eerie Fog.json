@@ -1,0 +1,5 @@
+{
+    "name": "Eerie Fog",
+    "description": "A fog has rolled in that makes hair stand on end. Those within it almost seem to phase out of existence at times, or is that just a trick of the eye?",
+    "effect": "- All Ghost-Types gain +1 Evasion.\n- Normal-Types lose their immunity to Ghost moves and are hit for Super Effective damage"
+}

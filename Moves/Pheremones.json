@@ -1,0 +1,11 @@
+{
+    "name": "Pheromones",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Locust Swarm Weather is activated for the next 4 Rounds.",
+    "description": "The user let's off phermones that call a swarm of irritating locusts to the battlefield.",
+    "category": "Support"
+  }

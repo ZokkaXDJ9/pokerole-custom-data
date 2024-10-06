@@ -1,0 +1,5 @@
+{
+    "name": "Unnatural Darkness",
+    "description": "A creeping darkness has covered the battlefield. During the daytime it almost seems as if night had fallen, the sun resembling more a full moon then a star.",
+    "effect": "- All Dark-Types gain +1 Priority.\n- All attacks not originating from Dark, Fire or Ground-types reduce accuracy by 2.\n- All moves that are Complete Heals in Sunny weather now only heal 1 HP."
+}

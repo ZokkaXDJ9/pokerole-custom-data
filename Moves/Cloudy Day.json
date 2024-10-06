@@ -1,0 +1,11 @@
+{
+    "name": "Cloudy Day",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Overcast Weather is activated for the next 4 Rounds.",
+    "description": "A large cloud moves overhead slightly blocking out the sun. Sad isn't it?",
+    "category": "Support"
+  }

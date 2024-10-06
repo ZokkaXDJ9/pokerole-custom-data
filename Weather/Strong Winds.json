@@ -1,5 +1,5 @@
 {
   "name": "Strong Winds",
   "description": "Strong wind currents lift and swirl everything in the air, from a tiny pebble to a giant truck. You are either being swept around or falling straight to the floor at a great speed.",
-  "effect": "- All Flying-Type moves have 1 Extra Die to their Damage Pools.\n- Electric, Ice and Rock Type Moves deal neutral damage to Flying-Type Pokémon.\n- Entry Hazards (Spikes, etc.), Barriers (Light Screen etc.), and Block Fail to activate.\n- Sunny, Rain, Sandstorm and Hail Weather conditions fail to activate through any means."
+  "effect": "- Flying-Types can Roost without having to Land.\n- Electric, Ice and Rock Type Moves deal neutral damage to Flying-Type Pokémon.\n- Hazards are cleared on set and cannot be set during the duration."
 }

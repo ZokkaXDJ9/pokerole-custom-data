@@ -1,0 +1,6 @@
+{
+    "name": "Black Sludge",
+    "description": "At the start of the Round, you heal 1 HP and use up one of the charges if you are hurt. Additionally on your turn, you can use your free action to use another charge and regain 1 additional HP. This item has 10 charges that restores at the end of the quest. /n Non-poison-tupes take 2 damage at the end of the round instead while holding this.",
+    "category": "HeldItem",
+    "single_use": false
+}

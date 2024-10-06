@@ -1,0 +1,5 @@
+{
+    "name": "Duststorm",
+    "description": "A dust devil is sending fine debris and dirt everywhere, blotting out the sky.",
+    "effect": "- Ground-Type moves can hit Flying-Type Pokemon and Pokemon with the ability Levitate.\n- Pokemon moves and abilities that interact with Sandstorm also interact with Duststorm.\n- Ground-types gain +1 Special Defense."
+}

@@ -1,0 +1,17 @@
+{
+    "number": 134,
+    "name": "Vaporeon",
+    "base_hp": 7,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "3/6",
+    "insight": "3/6",
+    "moves": {
+      "bronze": ["Helping Hand", "Sand Attack", "Tackle", "Tail Whip", "Water Gun"],
+      "silver": ["Acid Armor", "Aqua Ring", "Aurora Beam", "Haze", "Quick Attack", "Water Pulse"],
+      "gold": ["Hydro Pump", "Last Resort", "Muddy Water"],
+      "platinum": ["Icy Wind", "Wish", "Yawn"],
+      "diamond": []
+    }
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Tempest",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Strong Winds Weather is activated for the next 4 Rounds.",
+    "description": "The user swirls the wind around the battlefield until it's out of even their own control.",
+    "category": "Support"
+  }

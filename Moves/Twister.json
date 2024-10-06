@@ -1,0 +1,11 @@
+{
+    "name": "Twister",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Roll 2 Chance Dice to Flinch the foes. Automatic Critical Hit on Aerial opponents using Fly, Bounce or Sky Drop.",
+    "description": "The Pokemon lets out a spiral current that surrounds the foes. They can't move until they free themselves from this terrible whirlwind.",
+    "category": "Special"
+  }

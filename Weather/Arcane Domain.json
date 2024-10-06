@@ -1,0 +1,5 @@
+{
+    "name": "Arcane Domain",
+    "description": "The pure energy coursing through this area leaves battles yielding unexpected effects",
+    "effect": "- Dragon-type attacks gain 2 Chance Dice to apply either Burn 2, Frostbite or Paralysis. Which status is applied is random amongst those three. Dragon-type pokemon may choose instead.\n- Fairy-types are now only resistant to Dragon-type attacks rather then Immune."
+}

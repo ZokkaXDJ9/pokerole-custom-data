@@ -1,0 +1,6 @@
+{
+    "name": "Leftovers",
+    "description": "At the start of the Round, you heal 1 HP and use up one of the charges if you are hurt. Additionally on your turn, you can use your free action to use another charge to heal another 1 HP.  The item has 10 charges the restores at the end of the quest.",
+    "category": "HeldItem",
+    "single_use": false
+}

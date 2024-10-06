@@ -1,0 +1,5 @@
+{
+    "name": "Cosmic Rays",
+    "description": "Energy from space itself is spread onto the battlefield making latent psychic energy bolster and third eyes open wider.",
+    "effect": "- All Barrier timers are paused for the duration of this weather.\n- Weather Control rolls to keep this weather activated or overtake another weather are increased by 2 Successes."
+}

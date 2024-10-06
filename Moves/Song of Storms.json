@@ -1,0 +1,11 @@
+{
+    "name": "Song of Storms",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Thunderstorm Weather is activated for the next 4 Rounds.",
+    "description": "The user cries out as they channel an immense amount of electricity, heralding a Thunderstorm.",
+    "category": "Support"
+  }

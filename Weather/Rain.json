@@ -1,5 +1,5 @@
 {
   "name": "Rain",
   "description": "A heavy downpour. You are soaking wet. There’s deep puddles and it feels like this will grow into a raging storm any second.",
-  "effect": "- All Water-Type moves have 1 Extra Die to their Damage Pools.\n- All Fire-Type moves get their total damage reduced by 1.\n- Moves that become Complete Heal with Sunny weather will only restore 1 HP instead.\n- Reduce the number of successes you need to heal a Burn Status Condition by 3."
+  "effect": "- All Water-Type moves gain 1 base damage.\n- All Fire-Type moves get their total damage reduced by 1.\n- Moves that become Complete Heal with Sunny weather will only restore 1 HP instead.\n- Reduce the number of successes you need to heal a Burn Status Condition by 3."
 }

@@ -1,5 +1,5 @@
 {
   "name": "Sunny",
-  "description": "A bright sunlight shines through the arena. It’s hot, you feel thirsty and\ntired, the light is hurting your eyes.",
-  "effect": "- All Fire-Type moves have 1 Extra Die to their Damage Pools.\n- All Water-Type moves get their total damage reduced by 1.\n- No one can be affected by the Frozen Status Condition."
+  "description": "A bright sunlight shines through the arena. It’s hot, you feel thirsty and tired, the light is hurting your eyes.",
+  "effect": "- All Fire-Type moves gain 1 base damage.\n- All Water-Type moves get their total damage reduced by 1.\n- No one can be affected by the Frostbite Status Condition."
 }

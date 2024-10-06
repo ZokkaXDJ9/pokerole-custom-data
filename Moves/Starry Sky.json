@@ -1,0 +1,11 @@
+{
+    "name": "Starry Sky",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Cosmic Rays Weather is activated for the next 4 Rounds.",
+    "description": "The user opens up the atmosphere slightly, making the sky overhead peer into the stars and rain down cosmic rays.",
+    "category": "Support"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Ground Zero",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Pollution Weather is activated for the next 4 Rounds.",
+    "description": "The floor below the user seeps with poison, soon evaporating and filling the area in noxious fumes.",
+    "category": "Support"
+  }

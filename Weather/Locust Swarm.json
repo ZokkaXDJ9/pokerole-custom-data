@@ -1,0 +1,5 @@
+{
+    "name": "Locust Swarm",
+    "description": "A swarm of bugs that get into every nook and cranny of the battlefield. Some even move any stones laid out or spin thicker webs to make them harder to avoid",
+    "effect": "- Hazard Moves that deal damage now always deal 1 minimum. In addition, Hazards that have a Chance Dice effect gain +2 Damage.\n- Barriers instead increase Damage taken for the duration for those that aren't Bug or Fairy-Type\n- Bug-Type pokemon gain +1 Dexterity for the duration."
+}

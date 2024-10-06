@@ -1,0 +1,11 @@
+{
+    "name": "Dust Devil",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Duststorm Weather is activated for the next 4 Rounds.",
+    "description": "The user kicks up wind that trails along fine sand and dirt that irritates the eyes.",
+    "category": "Support"
+  }

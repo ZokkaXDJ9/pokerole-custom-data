@@ -1,0 +1,11 @@
+{
+    "name": "Hold Hands",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "HP",
+    "target": "Ally",
+    "effect": "User and target feel happy.",
+    "description": "Hold Hands with your friend!",
+    "category": "Support"
+  }

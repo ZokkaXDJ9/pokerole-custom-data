@@ -1,0 +1,11 @@
+{
+    "name": "Leech Seed",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "If successful spend 1 Will point to activate. At the end of each Round, Deal 1 damage to the foe, and heal the User for 1 HP for every damage dealt this way. Grass Type Pokemon are immune to this Move. -1 Accuracy. ",
+    "description": "The user plants some seeds on the target, the seeds sprout and restore the user's health by absorbing the foe's vital energy.",
+    "category": "Support"
+  }

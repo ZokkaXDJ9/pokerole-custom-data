@@ -1,0 +1,5 @@
+{
+    "name": "Pollution",
+    "description": "A noxious smog has flowed onto the battle field, just a sniff and it already leaves your body feeling weak.",
+    "effect": "- Add 2 Chance Dice to rolls that use them to poison a target.\n- Moves that guarantee the Poison status gain 1 Chance Dice to Badly Poison the target instead. Bug and Fighting types are immune to this effect."
+}

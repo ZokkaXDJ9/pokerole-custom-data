@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Dexterity",
   "target": "Foe's Battlefield",
-  "effect": "Sets up Poison Spikes on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, roll 3 chance dice to Poison the victim. This is upgraded to Badly Poisoned if two layers are placed. Has no effect on Flying types, Steel types, Poison Types or Pokemon with the ability Levitate. Poison types may also use and action to instantly clear Toxic Spikes from their side of the battlefield.",
+  "effect": "Sets up Poison Spikes on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, Poison the victim. This is upgraded to Badly Poisoned if two layers are placed. Has no effect on Flying types, Steel types, Poison Types or Pokemon with the ability Levitate. Poison types may also use an action to instantly clear Toxic Spikes from their side of the battlefield.",
   "description": "The pokemon sets up a layer of caltrops coated in poison. Accidentally stepping on one serves as a surefire way to get poisoned.",
   "category": "Support"
 }

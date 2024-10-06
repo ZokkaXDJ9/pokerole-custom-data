@@ -1,0 +1,11 @@
+{
+    "name": "Pole Shift",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality/Insight",
+    "target": "Battlefield",
+    "effect": "Ferromagnetic Storm Weather is activated for the next 4 Rounds.",
+    "description": "The user's magnetic field spreads across the battleground, attracting everything to it or other metallic objects.",
+    "category": "Support"
+  }

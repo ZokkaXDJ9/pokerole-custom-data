@@ -1,0 +1,5 @@
+{
+    "name": "Pollen Storm",
+    "description": "A swirl of pollen has taken over the battlefield. Any mons that aren't used to the stuff might get caught up on sneezing fits.",
+    "effect": "- Pokemon that aren't Grass, Poison or Bug-Type have a -3 penalty to Initiative.\n- Powder Moves gain Never Fail. If a pokemon has Mycelium Might, they instead have increased Priority for the duration.\n- Grass-Types restore 1 HP a turn during the duration."
+}

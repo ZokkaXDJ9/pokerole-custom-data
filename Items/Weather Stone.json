@@ -1,0 +1,6 @@
+{
+    "name": "Climate Stone",
+    "description": "Weather moves set their respective Weather for 7 Rounds.",
+    "category": "HeldItem",
+    "single_use": false
+}

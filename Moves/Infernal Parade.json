@@ -1,0 +1,16 @@
+{
+  "name": "Infernal Parade",
+  "type": "Ghost",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+<<<<<<<< HEAD:Moves/Infernal Paradise.json
+  "effect": "Roll 3 chance dice to inflict Burn. If the user has a status condition, add 2 dice to the damage roll.",
+  "description": "The user commands the spirits of the afterlife to assault and overwhelm the opponent. These flaming spirits love to torment those that are afflicted.",
+========
+  "effect": "Roll 3 Chance Dice to inflict Burn 2. If the user has a status condition, add 2 dice to the damage roll.",
+  "description": "The user commands the spirits of the afterlife to assault and overwhelm the opponent. These flaming spirits love to torment those that are addicted.",
+>>>>>>>> cbb0b70 (Many edits to moves. Also added lotsa weathers and weather moves.):Moves/Infernal Parade.json
+  "category": "Special"
+}
