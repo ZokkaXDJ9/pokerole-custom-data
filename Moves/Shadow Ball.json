@@ -1,0 +1,11 @@
+{
+    "name": "Shadow Ball",
+    "type": "Ghost",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to reduce foe's Sp. Defense.",
+    "description": "The pokemon hurls a sphere made of shadow and dark matter to harm the foe.",
+    "category": "Special"
+  }

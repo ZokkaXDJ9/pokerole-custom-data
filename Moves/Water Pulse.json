@@ -1,0 +1,11 @@
+{
+    "name": "Water Pulse",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to apply Confusion.",
+    "description": "The pokemon attacks with a pulsing blast of water, this possibly leaves the foe feeling dizzy.",
+    "category": "Special"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Razor Shell",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 5 Chance Dice to reduce the foe's Defense.",
+    "description": "The Pokemon uses its sharp shell as a weapon to cut the target's fur, armor or anything protecting its body.",
+    "category": "Physical"
+  }

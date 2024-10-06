@@ -1,0 +1,11 @@
+{
+    "name": "Blaze Kick",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "High Critical. Roll 1 Chance Dice to apply Burn 2. -1 Accuracy.",
+    "description": "The user throws a mighty kick engulfed in fire that may leave a bad looking burn.",
+    "category": "Physical"
+  }

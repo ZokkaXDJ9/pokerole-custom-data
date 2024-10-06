@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "This move deals Super Effective and Wounding Damage to Water types.",
-  "description": "The user freezes all moisture in the air, causing water types to suffer.",
+  "effect": "This move deals Super Effective and Wounding damage to Water-types. Roll 1 Chance Dice to apply Frostbite.",
+  "description": "The user freezes all moisture in the air, causing Water-types to suffer.",
   "category": "Special"
 }

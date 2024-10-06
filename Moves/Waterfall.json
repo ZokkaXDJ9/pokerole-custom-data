@@ -1,0 +1,11 @@
+{
+    "name": "Waterfall",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to Flinch the foe.",
+    "description": "The pokemon may swim with such strength that it may even swim upwards in a waterfall.",
+    "category": "Physical"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Mirror Shot",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 3 Chance Dice to lower Accuracy by 1. -1 Accuracy",
+    "description": "The user dazes the foe with a beam of light. Those who have have experienced it describe is as... Who knows. oOOoOo.",
+    "category": "Special"
+  }

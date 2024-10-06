@@ -1,0 +1,11 @@
+{
+    "name": "Block",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Never Fail. Blocks.",
+    "description": "The user moves swiftly, blocking the escape routes of the foe.",
+    "category": "Support"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Knock Off",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If the target has a Held Item, remove it from said target and this move gains +2 damage dice.",
+    "description": "The pokemon makes a quick tackle that knocks off anything the foe was holding.",
+    "category": "Physical"
+  }

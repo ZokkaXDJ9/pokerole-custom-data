@@ -1,0 +1,11 @@
+{
+    "name": "Zen Headbutt",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to Flinch the foe. -1 Accuracy.",
+    "description": "The user focuses it's energy on it's head to strike with a headbutt",
+    "category": "Physical"
+  }

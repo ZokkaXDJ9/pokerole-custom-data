@@ -1,0 +1,11 @@
+{
+    "name": "Mean Look",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Never Fail. Blocks.",
+    "description": "The pokemon gives a menacing look that freezes the foe on the spot with an intense fear.",
+    "category": "Support"
+  }

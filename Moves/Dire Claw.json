@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "High Critical. Inflicts Wounds. Roll 2 chance dice to Poison the foe. Roll 1 chance dice to Paralyze the foe. Roll 1 chance dice to put the foe to sleep.",
-  "description": "The user launches a brutal attack with their claws, which always aims to debilitate their opposition in some way.",
+  "effect": "Inflicts Wounds. Roll 5 Chance Dice to apply one of three random effects between Poison, Drowsy and Paralysis using the `/select_random` command.",
+  "description": "The user launches a brutal attack with their claws which always aims to debilitate their opposition in some way.",
   "category": "Physical"
 }

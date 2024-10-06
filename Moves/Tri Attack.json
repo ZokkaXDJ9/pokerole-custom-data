@@ -1,0 +1,11 @@
+{
+    "name": "Tri Attack",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 3 Chance Dice to apply one of three random effects between Burn 2, Frostbite and Paralysis using the `/select_random` command.",
+    "description": "The user shoots three beams. Each one is charged with a different kind of energy.",
+    "category": "Special"
+  }

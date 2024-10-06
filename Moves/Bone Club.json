@@ -1,0 +1,11 @@
+{
+    "name": "Bone Club",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Roll 1 Chance Dice to Flinch the foe. -2 Accuracy.",
+    "description": "The user throws a bone like a boomerang to hit the foe, causing them to possibly flinch.",
+    "category": "Physical"
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "Crunch",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. Roll 2 Chance Dice to reduce foe's Defense.",
+    "description": "The pokemon uses it's fangs to viciously tear whatever it is biting.",
+    "category": "Physical"
+  }
