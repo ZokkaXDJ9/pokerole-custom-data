@@ -1,0 +1,16 @@
+{
+    "Name": "Z-Ultimate Defense",
+    "Type": "Steel",
+    "Power": 0,
+    "Damage1": "",
+    "Damage2": "",
+    "Accuracy1": "Vitality",
+    "Accuracy2": "Rank",
+    "Target": "User",
+    "Effect": "Increases the User’s Defense and Sp. Defense by 2.",
+    "Description": "Through training and diligence this Pokemon has harnessed mind and body.",
+    "_id": "Iron Defense",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Support"
+}
