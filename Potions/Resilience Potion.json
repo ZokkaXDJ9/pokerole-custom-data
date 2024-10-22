@@ -1,0 +1,9 @@
+{
+    "name": "Resilience Potion",
+    "description": "It's a green potion, it's got the symbol of a glowing shell.",
+    "effect": "Gain 1 Vitality per charge",
+    "recipes": [
+      "50 <:pokecoin:1272536303430270986> -> 1 Charge"
+        ]
+  }
+  

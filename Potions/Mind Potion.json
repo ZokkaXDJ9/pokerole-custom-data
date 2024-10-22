@@ -1,0 +1,9 @@
+{
+    "name": "Mind Potion",
+    "description": "A deep, glitter purple potion, you swear that you could hear it whisper it to you when it's open.",
+    "effect": "Gain 1 Special per charge",
+    "recipes": [
+      "50 <:pokecoin:1272536303430270986> -> 1 Charge"
+        ]
+  }
+  

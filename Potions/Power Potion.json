@@ -1,0 +1,9 @@
+{
+    "name": "Power Potion",
+    "description": "A red potion, that if swirled will cause the image of a tauros to appear.",
+    "effect": "Gain 1 Strength per charge",
+    "recipes": [
+      "50 <:pokecoin:1272536303430270986> -> 1 Charge"
+        ]
+  }
+  

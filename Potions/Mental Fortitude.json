@@ -1,0 +1,9 @@
+{
+    "name": "Mental Fortitude",
+    "description": "The deep blue of the potion keeps your mind calm, no matter what you're going through.",
+    "effect": "Gain 1 Insight per charge",
+    "recipes": [
+      "50 <:pokecoin:1272536303430270986> -> 1 Charge"
+        ]
+  }
+  

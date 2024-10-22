@@ -1,0 +1,9 @@
+{
+    "name": "Nimble Potion",
+    "description": "A light blue potion, the liquid seems to be always moving, even if just slightly.",
+    "effect": "Gain 1 Dexterity per charge",
+    "recipes": [
+      "50 <:pokecoin:1272536303430270986> -> 1 Charge"
+        ]
+  }
+  
