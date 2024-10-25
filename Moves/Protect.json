@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Will",
   "target": "Ally",
-  "effect": "Reaction. Shield Move. Redirect all moves targeting the target of this move to the user until their next turn. Reduce damage based on your Rank + 1, minus the consecutive number of rounds you are using this move.",
+  "effect": "Reaction. Shield Move. Redirect all moves targeting the target of this move to the user until their next turn. Reduce damage based on your Rank + 1, minus the consecutive number of rounds you are using this move and reduce minimum damage to 0..",
   "description": "The user creates an energy shield to deflect blows meant for an ally.",
   "category": "Support"
 }
