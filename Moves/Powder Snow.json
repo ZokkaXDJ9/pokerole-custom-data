@@ -1,0 +1,11 @@
+{
+    "name": "Powder Snow",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Roll 3 Chance Dice to Frostbite those affected.",
+    "description": "The user sends out a wind current full of snowflakes that freeze whatever they touch. This powder can easily turn a room to ice.",
+    "category": "Special"
+}
