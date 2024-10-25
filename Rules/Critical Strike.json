@@ -1,6 +1,6 @@
 {
   "name": "Critical Strike",
   "flavor": "Hit 'em right between the legs!",
-  "text": "A critical strike occurs when you roll at least three 6 during an accuracy check (You need only 2 for 'High Critical' moves). After adding STAB, super effective and item modifiers, multiply the Total by 1.5 and round up; resistance and defenses are calculated after multiplication. If the move applies stat boosts or reductions, those will be increased by 1.",
-  "example": "An Oshawott gets a critical on their use of Water Gun against a Chimchar with 1 Special Defense. They roll 4 successes on their damage roll, so add +1 from STAB and +1 for SE damage for a total of 6. Then they multiply that total by 1.5.\n6 × 1.5 = 9\nAfter defense and resistance, the Chimchar will take 8 damage from that critical Water Gun."
+  "text": "- A critical strike occurs when you roll at least three 6s during an accuracy check (you need only 2 for 'High Critical' moves).\n- Add STAB, super effective, and item modifiers; multiply the total by 1.5 and round up; apply resistance and defenses afterward.\n- For non-damaging moves, increase one stat boost or reduction by 1.\n- If a critical strike would miss due to accuracy reduction or evasion, it becomes a regular hit instead.",
+  "example": ""
 }

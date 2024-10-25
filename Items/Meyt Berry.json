@@ -1,0 +1,7 @@
+{
+    "name": "Meyt Berry",
+    "price": 150,
+    "description":"A hearty Berry, blasted with oumami flavors. Eating this Berry restores a Pokémons max HP from wounds (without restoring any HP).",
+    "category": "Consumable",
+    "single_use": true
+}

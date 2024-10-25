@@ -5,7 +5,7 @@
     "damage": "",
     "accuracy": "Beauty",
     "target": "Foe",
-    "effect": "If Successful, Target is now In Love. This Move fails if user doesn't fit into the targets sexuality.",
-    "description": "The user makes use of its good looks and attitude to infatuate its foe.",
+    "effect": "If succesful, the target is now In Love",
+    "description": "The user makes use of its good looks and attitude to fluster the foe.",
     "category": "Support"
-}
+  }

@@ -1,0 +1,7 @@
+{
+    "name": "Reviver Seed",
+    "price": 800,
+    "description": "**Health Restored:** Half your Max HP, rounded up.\nFeed this seed to a Pokemon that just lost consciousness to get it back on its feet. These seeds are incredibly rare. Restore Half your Total Max HP and return awareness. Half your total Wound Damage taken will also be healed by half (also rounded up).\nCan be used as a Reaction when defeated.",
+    "category": "HeldItem",
+    "single_use": true
+}
