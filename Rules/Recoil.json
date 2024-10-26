@@ -1,6 +1,6 @@
 {
   "name": "Recoil",
   "flavor": "No pain, no gain!",
-  "text": "Moves labeled with Recoil are moves that will hurt the user when they deal damage to the enemy. You start with calling out the move and rolling accuracy as normal. If you miss, then nothing happens as normal.\n\nIf you hit, and when you deal damage to your target, roll a number of damage dice equal to Half of the Total Damage Dealt to the target, rounded down. You take an amount of damage equal to the amount of successes you roll, ignoring defenses.",
-  "example": "An Emboar is fighting a Cranidos. The Emboar uses Head Smash, but misses their attack due to failing their accuracy rolls. Nothing happens to the Emboar as normal.\n\nThe Cranidos then also uses Head Smash, and hits! They roll their damage and roll 10 Successes. The Emboar has 3 Defense, and in total take 7 damage.\n\nNow the Cranidos needs to roll for Recoil damage. Because the Emboar took 7 damage, they round down to 3 damage dice for recoil. The Cranidos rolls 2 successes, taking 2 total damage despite having 2 defense."
+  "text": "- Moves labeled with Recoil hurt the user when they deal damage to the enemy\n- Call out the move and roll accuracy as normal; if you miss, nothing happens\n- If you hit and deal damage, roll damage dice equal to half of the total damage dealt (rounded down)\n- Take damage equal to the number of successes rolled, ignoring defenses",
+  "example": ""
 }

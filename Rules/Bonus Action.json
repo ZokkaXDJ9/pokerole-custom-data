@@ -1,6 +1,6 @@
 {
   "name": "Bonus Actions",
   "flavor": "Some things simply don't take as long as using an attack.",
-  "text": "You have one Bonus Action per Round, which can be used to use a consumable item that isn't targeted on someone else, like eating a berry or consuming a type gem to boost the power of a move. Using a held berry still uses up the bonus action of your next turn.\nAn exception is the blast seed, which still uses a full action to consume. Because your mouth is too spicy afterward.",
+  "text": "- You have one Bonus Action per round, usable for consumables that aren't targeted on others (e.g., eating a berry or using a type gem to boost a move)\n- Using a held berry still uses the Bonus Action of your next turn\n- Blast Seed is an exception, requiring a full action to consume due to its spiciness",
   "example": ""
 }

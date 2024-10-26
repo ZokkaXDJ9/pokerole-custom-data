@@ -1,6 +1,6 @@
 {
   "name": "Wound Damage",
   "flavor": "It's just a flesh wound!",
-  "text": "Wound damage reduces your maximum HP and needs to be healed over time in base and/or by visiting a doctor. Your only way to heal wounds during a quest is by using Potion Items! If your max HP falls to 0, you lose consciousness and really need some medical assistance!",
+  "text": "- Wound damage reduces maximum HP and requires healing over time in base or by visiting a doctor\n- During quests, wounds can only be healed using Potion items\n- If max HP falls to 0, you lose consciousness and need medical assistance",
   "example": ""
 }

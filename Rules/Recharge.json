@@ -1,6 +1,6 @@
 {
   "name": "Recharge",
   "flavor": "You got to rest after doing your best!",
-  "text": "Moves labeled with Recharge are so strong, whomever uses them will need to wait a turn to recharge before they can act again - as in, they have to completely skip their next turn. No actions or free action whatsoever. And this happens even if they miss, so better don't miss! Besides that, they function just like any other move.",
-  "example": "A Snorlax is fighting against a Tauros. The Snorlax uses Body Slam but misses their attack. The opposing Tauros then uses Giga Impact, and hits! It deals a good chunk of damage with that attack.\n\nTauros needs to spend their turn recharging, unable to act whatsoever. Now, in an act of revenge (and maybe to show off a little), the Snorlax uses Giga Impact as well, but sadly, they miss again! They'll still have to skip their next turn in order to recharge, watching with a sad expression on their face whilst the Tauros gets another go at them. How unfortunate."
+  "text": "- Moves labeled with Recharge require the user to skip their next turn entirely to recharge\n- No actions or free actions can be taken during the recharge turn, even if the move misses\n- Aside from this, Recharge moves function like any other move",
+  "example": ""
 }

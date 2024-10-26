@@ -1,6 +1,6 @@
 {
   "name": "Switcher Moves",
   "flavor": "Wait, weren't you just over there a second ago?",
-  "text": "Moves labeled with the word Switcher have two different effects depending on what type of battle the user is taking place in. In the case of having backup pokemon, the user can choose to switch out with said pokemon using this move. In the case that there aren't any backup pokemon, they gain a +1 to evasion until their next turn.",
+  "text": "- Moves labeled Switcher have two effects depending on the battle type\n- With backup Pokémon: the user can switch out with a backup using this move\n- Without backup Pokémon: the user gains +1 evasion until their next turn",
   "example": ""
 }

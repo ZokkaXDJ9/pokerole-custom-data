@@ -1,6 +1,6 @@
 {
   "name": "Accuracy Reduction",
   "flavor": "Got a little bit of dirt in your eye?",
-  "text": "Characters afflicted by accuracy reduction (either as a stat change or through a move effect) still roll the regular amount of accuracy dies, but then subtract -X from the amount of successes this roll had.",
-  "example": "Let's say you want to use Rock Slide. The move has a -1 Accuracy effect. You roll your regular Dex+Rank amount of dies for your accuracy and land two successes. Now we reduce those successes by -1... which leaves us with one success, so the attack still hits, yay!"
+  "text": "- Characters with accuracy reduction (from stat changes or move effects) roll the usual accuracy dice\n- Subtract -X from the number of successes after rolling",
+  "example": ""
 }

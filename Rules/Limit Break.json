@@ -1,6 +1,6 @@
 {
   "name": "Limit Break",
   "flavor": "By investing an extraordinary amount of effort, some pokemon can surpass their natural limits!",
-  "text": "You may spend (2 + Amount of previous Limit Breaks) stat points in order to increase your stats past your species' stat cap. For balancing reasons, you can never have more than 10 points in any particular stat, even by using this mechanic.",
-  "example": "Let's say your max Dexterity is 3. If you want to increase it to 4, you'll need to use two stat points.\nNext up, you want to increase your Vitality past its limit. Since you've already used one limit break in the past, this would now cost 3 stat points.\nIf you stat is already at 10, you cannot limit break it any further."
+  "text": "- Spend (2 + number of previous Limit Breaks) stat points to increase your stats beyond your species' stat cap",
+  "example": ""
 }
