@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Hit Moves",
+  "flavor": "And another one! And another one! And...",
+  "text": "- Moves with Successive, Double or Triple Action hit multiple times. Every successive hit has a -2 accuracy reduction.\n- Double Action moves hit up to 2 times, Triple Action moves up to 3 times maximum.\n- Keep rolling accuracy until the hit fails, then roll damage as often as you had successful accuracy rolls.\n- Only your first strike can critical hit.",
+  "example": ""
+}
