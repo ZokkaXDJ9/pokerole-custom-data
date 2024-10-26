@@ -1,6 +1,6 @@
 {
   "name": "Reaction",
   "flavor": "Just wait for the right time aaaaaand... WHAM!",
-  "text": "- A 'Reaction' must be declared at the start of a turn to use a move when a specific trigger occurs.\n- If the trigger occurs, the move is used immediately before the trigger completes.\n- If the trigger does not occur, the user moves to the bottom of the initiative, but above players with Negative Priority or who are Stalling.",
+  "text": "- A 'Reaction' must be declared at the start of a turn to use a move when a specific trigger occurs.\n- You do not have to call the specific move, but say you're using a reaction move.\n- If the trigger occurs, the move is used immediately before the trigger completes.\n- If the trigger does not occur, the user moves to the bottom of the initiative, but above players with Negative Priority or who are Stalling.",
   "example": ""
 }

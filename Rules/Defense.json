@@ -1,6 +1,6 @@
 {
   "name": "Defense",
   "flavor": "How much of a beating can you really take?",
-  "text": "- Your Physical Defense is `Vitality / 2`.\n- Your Special Defense is `Insight / 2`.\n- Minimum damage is always 1, unless you resist the attack's type - this is the only case where it gets reduced to 0.",
+  "text": "- Your Physical Defense is `Vitality / 2` rounded up.\n- Your Special Defense is `Insight / 2` rounded up.\n- Minimum damage is always 1, unless you resist the attack's type - this is the only case where it gets reduced to 0.",
   "example": ""
 }

@@ -1,6 +1,6 @@
 {
   "name": "SFW / NSFW Channels",
   "flavor": "Keep it in your pants/sheath!",
-  "text": "Needs rework! If you see this message, please leave a note in the Admin-Request Channel!",
+  "text": "- We use different categories for NSFW and SFW channels to protect users who don't want to interact with NSFW.\n- Visual NSFW should never be posted inside the SFW sections.\n- If you are unsure about if your message contains NSFW, please contact an admin or post it in an NSFW channel instead.",
   "example": ""
 }

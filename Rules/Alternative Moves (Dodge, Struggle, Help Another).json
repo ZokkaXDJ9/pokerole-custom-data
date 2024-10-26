@@ -1,6 +1,6 @@
 {
   "name": "Alternative Moves (Dodge, Struggle, Help Another, Cover an Ally, Run Away, Grapple)",
   "flavor": "Gotta know the basics if you wanna be an adventurer!",
-  "text": "Every Character has access to the following moves at any time:\n- Cover an Ally\n- Dodge\n- Help Another\n- Run Away\n- Struggle\n",
+  "text": "Every Character has access to the following moves at any time:\n- Cover an Ally\n- Dodge\n- Help Another\n- Run Away\n- Stabilize an Ally\n- Struggle\n",
   "example": ""
 }
