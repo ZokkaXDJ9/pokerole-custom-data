@@ -1,5 +1,5 @@
 {
   "name": "Protosynthesis",
   "description": "This pokemon is especially comfortable when somewhere similar to it's old hot environment.",
-  "effect": "If Harsh Sunlight Weather is active or this pokemon is holding Booster Energy, their highest attribute is increased by 1 unless it's Dexterity in which case, it increases by 2."
+  "effect": "If Sunny Weather is active or this pokemon is holding Booster Energy, their highest attribute is increased by 1 unless it's Dexterity in which case, it increases by 2."
 }
