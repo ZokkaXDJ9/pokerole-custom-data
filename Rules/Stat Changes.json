@@ -1,6 +1,6 @@
 {
   "name": "Stat Changes",
   "flavor": "Feeling weak... or... strong? I don't know how to feel.",
-  "text": "- Stat changes done by different moves stack up to a maximum of +/- 3.\n- Critical hits on stat change moves apply/reduce one additional stat point, but not past the limit! If it would boost multiple stats, you get to choose one which will receive the crit bonus.\n- Defense cannot go below 0, combat stats can't go below 1.\n- A Pokémon can only be influenced by a buff once per source. This includes the move AND the source.\n- Buffs to hit rate add +1 to the hit rolls total value. You do not roll additional hit dice.",
+  "text": "- Stat changes done by different moves stack up to a maximum of +/- 3.\n- Critical hits on stat change moves apply/reduce one additional stat point, but not past the limit! If it would boost multiple stats, you get to choose one which will receive the crit bonus.\n- Defense cannot go below 0, combat stats can't go below 1.\n- A Pokémon can only be influenced by a buff/debuff once per source. This includes the move AND the source.\n- Buffs/debuffs to hit rate add +1/-1 to the hit rolls total value. You do not roll additional hit dice.",
   "example": ""
 }
