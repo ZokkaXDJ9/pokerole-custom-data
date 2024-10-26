@@ -1,7 +1,7 @@
 {
     "name": "Nomel Berry",
     "price": 150,
-    "description": "Eating this Berry will grant Sleep immunity for 1 scene.",
+    "description": "Eating this Berry will grant drowsy immunity for 1 scene.",
     "category": "Berry",
     "single_use": true
 }
