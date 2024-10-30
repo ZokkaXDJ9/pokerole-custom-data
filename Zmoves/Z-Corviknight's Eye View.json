@@ -8,7 +8,7 @@
     "Accuracy2": "Rank",
     "Target": "Foe",
     "Effect": "Strikes at the end of the next Round. It bypasses any Shield Move and cover. If the target retires or switches out from battle the damage will be dealt to the next opponent or to one of its allies. Lowers the Opponent Dexterity by 2.",
-    "Description": "The user relaxes and lightens its body to move faster. His Aura starts flowing out, flowing into the whole.",
+    "Description": "The Pokemon observes the target's next position, moving towards him to stab the Crystal against the opponent.",
     "_id": "Future Sight",
     "Attributes": {},
     "AddedEffects": {},
