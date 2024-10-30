@@ -1,0 +1,16 @@
+{
+    "Name": "Z-Life is a Gamble",
+    "Type": "Normal",
+    "Power": 2,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Rank",
+    "Target": "Foe",
+    "Effect": "Ranged. High Critical. Inflicts Confusion. Grants 10 × Rank :poke_coin~1: to all Partymembers. This effect can only be triggered when the user is under stress.",
+    "Description": "Haru taps into the realms of probability to create a barrage of coins and throw them at the foe's head, before, by pure chance, all of them bounce right back to his party's hands/paws. This will leave the foe a bit dizzy.",
+    "_id": "Agility",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Z-Dire Showtime",
+    "Type": "Poison",
+    "Power": 1,
+    "Damage1": "Strength",
+    "Damage2": "",
+    "Accuracy1": "Dexterity",
+    "Accuracy2": "Rank",
+    "Target": "Foe",
+    "Effect": "Inflicts Wounds. Roll 4 chance dice to Badly Poison the foe. Roll 4 chance dice to Paralyze the foe. Roll 4 chance dice to make the foe drowsy. Can inflict multiple status effects in one use.",
+    "Description": "Flynt launches a very flashy attack with his claws, which aims to debilitate his opposition in as many ways as possible, so they can't do anything but sit there and watch Flynt take the spotlight.",
+    "_id": "Agility",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}
