@@ -1,0 +1,11 @@
+{
+  "name": "Spite",
+  "type": "Ghost",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Reduce Target's Will by 2 points.",
+  "description": "The target feels overwhelmed by feelings of dread.",
+  "category": "Special"
+}
