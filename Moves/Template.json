@@ -1,11 +1,11 @@
 {
-    "name": "Template",
-    "type": "Typeless",
-    "power": 1,
-    "damage": "",
-    "accuracy": "",
-    "target": "",
-    "effect": "``` {\n    \"name\": \"Template\",\n    \"type\": \"Typeless/any Type\",\n    \"power\": 0,\n    \"damage\": \"\",    \"accuracy\": \"\",\n    \"target\": \"Foe/User/etc\",\n    \"effect\": \"Effect Description\",\n    \"description\": \"Some roleplay description\",\n    \"category\": \"Physical/Special/Status\"}```",
-    "description": "This is how you set up move changes in the bot.",
-    "category": "Physical"
+  "name": "Template",
+  "type": "Typeless",
+  "power": 1,
+  "damage": "",
+  "accuracy": "",
+  "target": "",
+  "effect": "``` {\n    \"name\": \"Template\",\n    \"type\": \"Typeless/any Type\",\n    \"power\": 0,\n    \"damage\": \"\",\n    \"accuracy\": \"\",\n    \"target\": \"Foe/User/etc\",\n    \"effect\": \"Effect Description\",\n    \"description\": \"Some roleplay description\",\n    \"category\": \"Physical/Special/Status\"\n}```",
+  "description": "This is how you set up move changes in the bot.",
+  "category": "Physical"
 }
