@@ -1,0 +1,11 @@
+{
+  "name": "Fire Spin",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+  "description": "The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrap",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
+  "description": "The Pokemon traps its foe with its body or vines, causing some damage.",
+  "category": "Physical"
+}

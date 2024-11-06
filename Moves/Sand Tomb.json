@@ -1,0 +1,11 @@
+{
+  "name": "Sand Tomb",
+  "type": "Ground",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+  "description": "The Pokemon creates a shifting sand pit around the foe, leaving it unable to escape.",
+  "category": "Physical"
+}

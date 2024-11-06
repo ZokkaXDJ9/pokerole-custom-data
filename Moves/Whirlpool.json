@@ -1,0 +1,11 @@
+{
+  "name": "Whirlpool",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.",
+  "description": "Trap the foe inside a violent swirling whirlpool that makes the foe unable to escape the battle.",
+  "category": "Special"
+}
