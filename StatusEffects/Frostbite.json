@@ -3,5 +3,5 @@
   "description": "Like a burn... But the opposite!",
   "resist": "Cannot be resisted.",
   "effect": "Inflict 1 point of wound damage at the end of each Round and reduce the subject's Special by 1. Ice-type Pokémon are immune.",
-  "duration": "Use an action to make a Roll of Vitality + Rank. Add up the successes of these rolls until you get 8, upon which the status is purged.!!"
+  "duration": "Use an action to make a Roll of Vitality + Rank. Add up the successes of these rolls until you get 8, upon which the status is purged."
 }
