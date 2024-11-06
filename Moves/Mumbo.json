@@ -2,7 +2,7 @@
   "name": "Mumbo",
   "type": "Psychic",
   "power": 3,
-  "damage": "Tough",
+  "damage": "Special",
   "accuracy": "Cool",
   "target": "All Foes",
   "effect": "Roll 3d6 to inflict confusion, only to the first person in line",
