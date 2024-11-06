@@ -1,0 +1,11 @@
+{
+  "name": "Water Pledge",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Creates a rainbow on the users side of the field that adds 2 Dice to all Chance Dice rolls for the User and Allies. This effect lasts 4 turns.",
+  "description": "The Pokemon chants to invoke the power of Water. Moisture in the air bends the light to create an inspiring rainbow. The users team is sure to give its best.",
+  "category": "Special"
+}

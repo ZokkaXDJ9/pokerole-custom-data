@@ -1,0 +1,11 @@
+{
+    "name": "Cha Cha Cha",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "",
+    "description": "Intergalactic Cha cha cha that hurts your mind if you only perceive the 3rd Dimension.",
+    "category": "Special"
+} 

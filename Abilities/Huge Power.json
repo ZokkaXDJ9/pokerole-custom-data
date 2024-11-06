@@ -1,0 +1,5 @@
+{
+  "name": "Huge Power",
+  "description": "The Pokemon makes use of its psychic powers to move objects several times bigger.",
+  "effect": "This Pokemon has a base 1 increase to their Strength. If the pokemon with this ability is at silver rank or higher raise the base increase to 2. At platinum rank or higher, increase to 3. This increase does not inhibit the standard +-3 restriction for stat changes."
+}

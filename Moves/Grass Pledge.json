@@ -1,0 +1,11 @@
+{
+  "name": "Grass Pledge",
+  "type": "Grass ",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "At the end of each Round, heal the User and Allies for 1 HP. This effect lasts 4 Rounds.",
+  "description": "The Pokemon chants to invoke the power of Grass. Its pledge is heard then then soil trembles and the ground crumbles as vegetation rises to grapple every enemy in the field.",
+  "category": "Special"
+}
