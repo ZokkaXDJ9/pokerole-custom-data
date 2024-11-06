@@ -1,0 +1,11 @@
+{
+  "name": "Mumbo",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Tough",
+  "accuracy": "Cool",
+  "target": "All Foes",
+  "effect": "Roll 3d6 to inflict confusion, only to the first person in line",
+  "description": "inter galactic Mumbo line that hurts your mind if you only perceive the 3rd Dimension",
+  "category": "Special"
+}

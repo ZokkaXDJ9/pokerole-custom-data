@@ -1,0 +1,5 @@
+{
+  "name": "Shadowy Aura",
+  "description": "A shadowy aura descents upon the battlefield. Violent bursts of light start breaking out of it.",
+  "effect": "- Shadow Moves deal 1 additional point of damage.\n- Deal 1 wound damage to all non Shadow Pokemon at the end of the round."
+}
