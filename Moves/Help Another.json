@@ -1,0 +1,11 @@
+{
+  "name": "Help Another",
+  "type": "None",
+  "power": 0,
+  "damage": "",
+  "accuracy": "",
+  "target": "One Ally",
+  "effect": "Accuracy equals a fitting attribute or trait, without rank. High Critical. Add dice equal to your rank bonus to the target's action. On a critical success, increase the amount of dice added by 2. Can only be used outside of battle.",
+  "description": "The Pokemon assists an ally to help fulfill a task",
+  "category": "Support"
+}
