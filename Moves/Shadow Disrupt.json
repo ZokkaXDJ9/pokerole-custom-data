@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Disrupt",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Reduce the Special Defense of all foes by 2.",
+  "description": "The user unleashes a wave of shadow energy, to weaken it's foes.",
+  "category": "Support"
+}

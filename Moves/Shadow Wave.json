@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Wave",
+  "type": "Shadow",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Inflicts Wounds.",
+  "description": "The user unleashes a wave of painful shadow energy at it's foes.",
+  "category": "Special"
+}

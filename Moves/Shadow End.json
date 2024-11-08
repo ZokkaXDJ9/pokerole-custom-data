@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Strength",
   "target": "Foe",
-  "effect": "Recoil dice equal to damage taken. Inflicts Wounds",
+  "effect": "Recoil dice equal to damage taken. Inflicts Wounds.",
   "description": "The user recklessly charges at the foe in an all out assault, trying to end them. This move is extremely dangerous for the user.",
   "category": "Physical"
 }
