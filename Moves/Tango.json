@@ -1,0 +1,11 @@
+{
+  "name": "Tango",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Beauty",
+  "target": "Foes",
+  "effect": "Double Action",
+  "description": "Intergalactic Tango that makes you dip two times. hurts your mind if you only perceive the 3rd Dimension.",
+  "category": "Special"
+}
