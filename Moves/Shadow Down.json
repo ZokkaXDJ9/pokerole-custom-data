@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Down",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Reduces Defense by 2",
+  "description": "A shadowy aura sharply cuts the foe's Defense.",
+  "category": "Support"
+}

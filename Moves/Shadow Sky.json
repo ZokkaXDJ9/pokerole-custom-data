@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Sky",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Causes Shadowy Aura Weather for 4 Rounds.",
+  "description": "Darkness hurts all but Shadow Pokémon for 4 rounds.",
+  "category": "Support"
+}

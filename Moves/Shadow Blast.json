@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Blast",
+  "type": "Shadow",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds.",
+  "description": "A wicked blade of air is formed using a shadowy aura.",
+  "category": "Physical"
+}

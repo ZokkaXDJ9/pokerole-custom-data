@@ -1,0 +1,7 @@
+{
+  "name": "Bleed",
+  "description": "A vicious attack hit you and you are bleeding...",
+  "resist": "An ally can dress your wounds and stop Bleed for an action, by rolling at least 3 successes on a clever check.",
+  "effect": "You take 1 Wound Damage at the end of each of your turns. If you are missing HP, you lose an additional max HP, each time this happens.",
+  "duration": "Until dressed."
+}

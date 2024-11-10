@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Hold",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Blocks. Deal 1 Wound Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
+  "description": "The opponent Pokémon cannot escape.",
+  "category": "Support"
+}

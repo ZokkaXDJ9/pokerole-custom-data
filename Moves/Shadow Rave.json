@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Rave",
+  "type": "Shadow",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Inflicts Wounds.",
+  "description": "A shadowy aura in the ground is used to launch spikes.",
+  "category": "Special"
+}

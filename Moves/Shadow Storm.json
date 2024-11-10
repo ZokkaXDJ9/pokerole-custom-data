@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Storm",
+  "type": "Shadow",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "All Foes",
+  "effect": "Inflicts Wounds.",
+  "description": "A shadowy aura is used to whip up a vicious tornado.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Rush",
+  "type": "Shadow",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil. Inflicts Wounds.",
+  "description": "An attack that is so harsh, it also hurts the attacker",
+  "category": "Physical"
+}

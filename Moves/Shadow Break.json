@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Break",
+  "type": "Shadow",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds.",
+  "description": "A shattering ram attack with a shadowy aura.",
+  "category": "Physical"
+}

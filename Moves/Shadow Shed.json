@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Shed",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Removes the effects of Safeguard, Aurora Veil, Lucky Chant, Reflect, Light Screen and other alike effects from the opponent's side of the field.",
+  "description": "A shadowy aura eliminates Reflect and similar moves.",
+  "category": "Support"
+}

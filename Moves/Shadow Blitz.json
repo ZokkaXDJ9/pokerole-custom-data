@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Blitz",
+  "type": "Shadow",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds.",
+  "description": "A Pokémon throws this tackle while casting a shadowy aura.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Mist",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "All Foes",
+  "effect": "Those affected cannot evade moves performed by the user. -1 Dexterity.",
+  "description": "A shadowy aura sharply cuts the foe's evasiveness.",
+  "category": "Support"
+}

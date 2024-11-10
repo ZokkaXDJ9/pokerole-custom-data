@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Half",
+  "type": "Shadow",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Area and User",
+  "effect": "Damage Roll is Half of everyone's remaining HP (up to 10) rounded down. If the remaining HP of the target is 1 this move fails. Ignore Defenses. Recharge. Inflicts Wounds.",
+  "description": "A shadowy aura's energy cuts everyone's HP by half.",
+  "category": "Support"
+}
