@@ -4,7 +4,7 @@
   "power": 0,
   "damage": "",
   "accuracy": "Insight",
-  "target": "Foe",
+  "target": "All Foes",
   "effect": "Inflicts Confused. Sound Based.",
   "description": "The user unleashes disruptive waves of shadow energy, that make it hard to focus.",
   "category": "Support"

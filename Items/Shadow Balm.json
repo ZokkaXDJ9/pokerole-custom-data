@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Balm",
+  "description": "A mysterious purple serum that makes you resistant to Shadow Moves.\nAfter consumption, Shadow Moves no longer inflict Wounds on you and are no longer super effective against you, for the remainder of the scene. Consuming this item takes an action.",
+  "category": "BattleItem",
+  "single_use": true
+}

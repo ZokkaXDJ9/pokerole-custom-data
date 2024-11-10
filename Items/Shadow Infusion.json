@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Infusion",
+  "description": "A mysterious purple serum that harnesses Shadow energy to fill you with some of their power.\nAfter consumption, all of your moves count as Shadow Type for the purpose of Weaknesses and Resistances (STAB still applies as usual), for the remainder of the scene. Consuming this item takes an action.",
+  "category": "BattleItem",
+  "single_use": true
+}

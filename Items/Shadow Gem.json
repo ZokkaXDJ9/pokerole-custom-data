@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Gem",
+  "description": "A gemstone that contains some Shadow energy.\nConsume on move use, to make the move count as Shadow Type for the purpose of Weaknesses and Resistances (STAB still applies as usual).",
+  "category": "BattleItem",
+  "single_use": true
+}
