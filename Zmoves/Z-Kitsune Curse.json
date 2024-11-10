@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Kitsune Curse",
+  "Type": "Ice",
+  "Power": 7,
+  "Damage1": "",
+  "Damage2": "Special",
+  "Accuracy1": "Special",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Priority 1. Accuracy -2. Afflict Frostbite and Burn to the Target. If performed under Hail or Snow Weather, Ignore this moves Reduced Accuracy and the Move can't be evaded. (If performed under Sunny Weather Accuracy becomes -3 instead.)",
+  "Description": "Salem splays her tails and howls to the sky. Summoning countless wisps of foxfire to barrage her target and afflict them with a deadly curse.",
+  "_id": "Burning Jealousy",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Special"
+}

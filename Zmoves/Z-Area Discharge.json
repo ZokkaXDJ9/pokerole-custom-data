@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Area Discharge",
+  "Type": "Electric",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "",
+  "Accuracy1": "Insight",
+  "Accuracy2": "Rank",
+  "Target": "Battlefield",
+  "Effect": "Priority 1. The battlefield becomes Electric Terrain for 6 rounds. The weather changes to Thunderstorm for 4 rounds. The User gains 1 Strength and 1 Special.",
+  "Description": "With a massive amount of electricity that gets discharged into the area in every direction, the field is pulsating with electricity. Clouds get hit as well, as they turn dangerously grey. The electric environment charges the user and gives him more power.",
+  "_id": "Electric Terrain",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Support"
+}

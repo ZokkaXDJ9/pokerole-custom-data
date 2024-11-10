@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Egocentrism",
+  "Type": "Normal",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "User",
+  "Effect": "Create two decoys with 2hp and the same defenses as the user. If the decoy's HP is depleted, it dissapears. Decoys can only be effected by damaging moves. Nauss can not be targeted until all decoys are destroyed.",
+  "Description": "Nauss forms several clones of himself, constructed out of water. Despite this, they feel just like the real thing making it nearly impossible to distinguish them from the real thing.",
+  "_id": "Substitute",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Support"
+}
