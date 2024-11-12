@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Insight",
   "target": "All Foes",
-  "effect": "",
+  "effect": "Inflicts Wounds.",
   "description": "Intergalactic Cha cha cha that hurts your mind if you only perceive the 3rd Dimension.",
   "category": "Special"
 }
