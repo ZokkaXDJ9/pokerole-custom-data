@@ -2,5 +2,5 @@
   "name": "Size Change Potion",
   "description": "Once a Pokemon drinks this brown potion, they are able to adjust their size at will",
   "effect": "Outside of Quests, the user can adjust their size within the usual allowed bounds, at all.",
-  "recipes": ["500 :pokecoin: -> 1 Charge"]
+  "recipes": ["500 <:pokecoin:1272536303430270986> -> 1 Charge"]
 }

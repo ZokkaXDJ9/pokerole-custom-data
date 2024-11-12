@@ -1,6 +1,6 @@
 {
   "name": "Adrenaline Potion",
-  "description": "Light, gimme descriptions, dangit!",
+  "description": "A cyan potion which has a weak sound of an alarm - what kind of ingredients it has been made? Who knows!",
   "effect": "Outside of Combat, you can feed this dark red potion to a pokemon who lost consciousness. The drinker gets back up with 1 HP and heals 1  Wound Damage.",
-  "recipes": ["150 :pokecoin: -> 1 Charge"]
+  "recipes": ["150 <:pokecoin:1272536303430270986> -> 1 Charge"]
 }
