@@ -1,0 +1,6 @@
+{
+  "name": "Shell Bell",
+  "description": "Once per turn, restores 2 HP any time the user inflicts damage using an attacking move. Activating this item consumes the user's free action for the round",
+  "category": "HeldItem",
+  "single_use": false
+}

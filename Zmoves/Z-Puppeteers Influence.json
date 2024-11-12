@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Puppeteer's Influence",
+  "Type": "Psychic",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "",
+  "Accuracy1": "Insight",
+  "Accuracy2": "Rank",
+  "Target": "User",
+  "Effect": "Priority 1. Increase the User's Special by 3 and Sp. Defense by 1. Grant the user High Critical.",
+  "Description": "A weird foreign influence takes hold of Jak's body, guiding his motions to a degree, which helps him hit a lot more competently.",
+  "_id": "Calm Mind",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Support"
+}

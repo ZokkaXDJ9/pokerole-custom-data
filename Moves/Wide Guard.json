@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Vitality",
   "target": "User and Allies",
-  "effect": "Reaction. Shield Move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0.",
-  "description": "The Pokemon uses its whole body to provide coverage and protection to its allies against an incoming attack.",
+  "effect": "Reaction. Shield Move. Reduce the damage the User and Allies would take from \"All Foes\" or \"Area\" moves by an amount equal to the User's Rank. Reduce minimum damage to 0. Prevent all secondary effects that would trigger on the User and Allies by guarded moves. Wide Guard may also be used to negate an \"All Foes\" targeting support move.  Applies only to the instigating move. Z-Moves resolve normally, only taking into account the damage reduction of Wide Guard.",
+  "description": "The user provides shelter for its allies, spreading itself out to protect from spread attacks.",
   "category": "Support"
 }

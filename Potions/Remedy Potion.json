@@ -1,0 +1,6 @@
+{
+  "name": "Remedy Potion",
+  "description": "This bright white potion, heals one status afflicting the drinker",
+  "effect": "Heals 1 Status Effect per charge consumed.",
+  "recipes": ["150 :pokecoin: -> 1 Charge"]
+}

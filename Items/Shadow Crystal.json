@@ -1,6 +1,6 @@
 {
   "name": "Shadow Crystal",
-  "description": "A large chunk of crystalized Shadow energy. It may be useful for something...",
+  "description": "A large chunk of crystalized Shadow energy. While held, you can draw energy from this Crystal once per battle, while using an Attack, to make the move count as Shadow Type for the purpose of Weaknesses and Resistances (STAB still applies as usual) and add +2 power and the Rampage tag to it. The effect applies until the Rampage ends.",
   "category": "BattleItem",
   "single_use": false
 }

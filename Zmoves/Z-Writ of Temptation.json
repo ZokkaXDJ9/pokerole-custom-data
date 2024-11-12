@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Writ of Temptation",
+  "Type": "Psychic",
+  "Power": 1,
+  "Damage1": "",
+  "Damage2": "Special",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Roll 1 Chance Dice to Reduce the foe's Sp. Defense. Inflicts Paralyzed, Confused and In Love. ",
+  "Description": "Lacus transmits a subtle Cognitohazard straight into the mind of a target. While not particularly powerful, the forbidden knowledge imparted will surely scramble the wits of anyone exposed to it.",
+  "_id": "Psychic",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Special"
+}

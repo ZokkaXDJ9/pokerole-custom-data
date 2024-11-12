@@ -1,11 +1,11 @@
 {
-  "name": "Temper Flare",
-  "type": "Fire",
+  "name": "Stomping Tantrum",
+  "type": "Ground",
   "power": 3,
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "If the user failed to perform an action or failed to deal damage with an attack last turn, add 3 dice to the damage roll.",
-  "description": "The user's anger flares after a failure, spurring it to lash out at its surroundings.",
+  "description": "The Pokemon throws a tantrum all over the place, it becomes worse if something has frustrated it earlier.",
   "category": "Physical"
 }

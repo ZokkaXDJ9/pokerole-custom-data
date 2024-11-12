@@ -1,0 +1,5 @@
+{
+  "name": "Rivalry",
+  "description": "The Pokemon will be very competitive with others to prove its position as the alpha of the group, however, it will try to gain the favor of possible mates.",
+  "effect": "This Pokemon has +1 Strength while targeting a foe of the same gender. If the target is the opposite gender, it has -1 Strength instead."
+}
