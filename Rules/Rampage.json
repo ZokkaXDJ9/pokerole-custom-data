@@ -1,7 +1,7 @@
 {
     "name": "Rampage",
     "flavor": "OOOOUUUUT OF MYYYY WAAAAAAY!!",
-    "text": "- Rampage moves usually target a random foe, unless otherwise mentioned by the move itself.\n- While in rampage, the user has to repeat the same move for the next 2 turns, to a total of 3 uses of the move.\n- Once the rampage ends with the conclusion of the 3rd usage of the move, the user becomes confused.",
+    "text": "- Rampage moves usually target a random foe, unless otherwise mentioned by the move itself.\n- While in rampage, the user may repeat the same move up to 2 turns, to a total of 3 uses of the move.\n- Once the rampage ends after the last use, the user becomes confused.",
     "example": ""
   }
   
