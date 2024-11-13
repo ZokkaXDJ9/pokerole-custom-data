@@ -1,0 +1,11 @@
+{
+  "name": "Light Screen",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "User and Allies will receive 1 less Damage from Special Attacks. If the user is Silver Rank or higher, User and Allies instead receive 2 less damage from Special attacks. At Diamond Rank or higher, 3 less. Lasts 4 Rounds.",
+  "description": "The user manifests its mental power on the world, creating walls and floors of light that help prevent the passing of energies.",
+  "category": "Support"
+}
