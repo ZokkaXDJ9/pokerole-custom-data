@@ -1,0 +1,5 @@
+{
+  "name": "Refrigerate",
+  "description": "This Pokemon's body works akin to a freezer, it can freeze things just by touching them.",
+  "effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Ice-Type. Affecting STAB, weakness and resistance. Add 1 Damage to Ice moves."
+}

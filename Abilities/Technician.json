@@ -1,0 +1,5 @@
+{
+  "name": "Technician",
+  "description": "This Pokemon is meticulous and precise in tasks that everyone else would perform roughly and without care.",
+  "effect": "Add 2 dice to the Damage pool of all Moves with Power 2 or less."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Pixilate",
+  "description": "This Pokemon scatters fairy dust that brings happy thoughts to the mind. Everything it does is incredibly adorable.",
+  "effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Fairy-Type. Affecting STAB, weakness and resistance. Add 1 Damage to Fairy Moves."
+}

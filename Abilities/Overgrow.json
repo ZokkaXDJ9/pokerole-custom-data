@@ -1,0 +1,5 @@
+{
+  "name": "Overgrow",
+  "description": "When this Pokemon is hurt, it will grow huge plants in its body to defend itself, these plants are very strong but wither quickly.",
+  "effect": "When this Pokemon's HP is at half or less, Restore 1 point of will (the first time this threshold is reached in combat), and the user's grass type attacks deal 1 additional damage."
+}

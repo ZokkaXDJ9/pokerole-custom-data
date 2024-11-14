@@ -1,0 +1,5 @@
+{
+  "name": "Galvanize",
+  "description": "The body of this Pokemon is surrounded by electrical currents, this makes it very energized in everything it does.",
+  "effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Electric-Type, affecting STAB, weakness and resistance. Add 1 Damage to Electric Moves."
+}

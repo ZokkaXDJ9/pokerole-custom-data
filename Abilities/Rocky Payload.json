@@ -1,5 +1,5 @@
 {
   "name": "Rocky Payload",
   "description": "Now this is a pokemon who knows how to play with rocks.",
-  "effect": "Rock-type moves used by this pokemon gain 1 extra damage dice"
+  "effect": "Rock-Type Attacks used by this Pokemon gain 1 damage."
 }

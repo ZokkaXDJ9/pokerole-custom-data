@@ -1,0 +1,5 @@
+{
+  "name": "Steelworker",
+  "description": "The Pokemon is capable of molding and eating steel, giving shape and a sharper edge to whatever metal it touches.",
+  "effect": "Steel-Type Attacks used by this Pokemon gain 1 damage."
+}

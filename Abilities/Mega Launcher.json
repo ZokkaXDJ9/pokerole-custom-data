@@ -1,0 +1,5 @@
+{
+  "name": "Mega Launcher",
+  "description": "The cannons on this Pokemon's body allow it to fire extremely powerful attacks.",
+  "effect": "Add 2 Extra Dice to the Damage pool of moves with the keyword “Pulse” and “Aura” on their name. Heal Pulse moves used by this pokemon Heal 2 additional HP."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Swarm",
+  "description": "The Pokemon enters a hive mind state when its life is on the line, becoming more feral and aggressive.",
+  "effect": "When this Pokemon's HP is at half or less, Restore 1 point of will (the first time this threshold is reached in combat), and the user's bug type attacks deal 1 additional damage."
+}

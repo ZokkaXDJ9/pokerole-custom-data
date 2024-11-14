@@ -1,0 +1,5 @@
+{
+  "name": "Aerilate",
+  "description": "The Pokemon never touches the ground, a neverending wind current can be felt swirling around it.",
+  "effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Flying-Type, affecting STAB, weakness and resistance. Add 1 Damage to Flying moves."
+}

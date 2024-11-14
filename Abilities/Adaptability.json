@@ -1,0 +1,5 @@
+{
+  "name": "Adaptability",
+  "description": "The Pokemon will easily adapt to its surroundings, it will travel with ease no matter the terrain.",
+  "effect": "This Pokemon's attacks deal 1 additional damage when using a Move that matches its Type."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Torrent",
+  "description": "This Pokemon builds up pressure to shoot water streams. When that pressure cannot be held in, it is released through uncontrollable torrents.",
+  "effect": "When this Pokemon's HP is at half or less, Restore 1 point of will (the first time this threshold is reached in combat), and the user's water type attacks deal 1 additional damage."
+}
