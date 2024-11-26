@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Nova Bomb",
+  "Type": "Ghost",
+  "Power": 3,
+  "Damage1": "",
+  "Damage2": "Special",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Roll 3 Chance Dice to Reduce foe's Sp. Defense. Reduce foe's physical defense. Inflicts Drowsy Status",
+  "Description": "Elliot manifests a ball made of shadow and void matter to shatter the foes defenses and exhaust them.",
+  "_id": "Shadow Ball",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Special"
+}

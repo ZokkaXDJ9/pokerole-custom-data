@@ -1,0 +1,11 @@
+{
+  "name": "Struggle Bug",
+  "type": "Bug",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Lower each affected target's Special by 1.",
+  "description": "The Pokemon lays on its back and struggles with the foe, disrupting the foe's concentration.",
+  "category": "Special"
+}
