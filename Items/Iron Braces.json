@@ -1,0 +1,6 @@
+{
+  "name": "Iron Braces",
+  "description": "Boosts the power of biting moves by 1 and prevents them to make contact with the target.",
+  "category": "HeldItem",
+  "single_use": false
+}

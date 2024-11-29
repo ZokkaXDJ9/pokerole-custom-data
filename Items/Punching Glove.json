@@ -1,0 +1,6 @@
+{
+  "name": "Punching Glove",
+  "description": "Boosts the power of Fist Based moves by 1 and prevents them to make contact with the target.",
+  "category": "HeldItem",
+  "single_use": false
+}

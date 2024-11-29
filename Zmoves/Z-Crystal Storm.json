@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Crystal Storm",
+  "Type": "Flying",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "",
+  "Accuracy1": "Strength",
+  "Accuracy2": "Rank",
+  "Target": "Battlefield",
+  "Effect": "Priority 1. For the Next 6 Rounds, set up Strong Winds and increase the Dexterity of the User and All Allies in the field by 2. Additionally raise the Special of the user by 1.",
+  "Description": "Dusk sets up a heavy storm that will boost his team to unimaginable heights.",
+  "_id": "Tailwind",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Support"
+}

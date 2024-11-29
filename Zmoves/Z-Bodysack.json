@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Bodysack",
+  "Type": "Ground",
+  "Power": 2,
+  "Damage1": "",
+  "Damage2": "Strength",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Double Action. Increases Strenght by 2. Inflicts Flinch.",
+  "Description": "The user quickly strikes the foe with a bone in the shape of a Sack, one blow after another while showering his anger.",
+  "_id": "Bone Rush",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}

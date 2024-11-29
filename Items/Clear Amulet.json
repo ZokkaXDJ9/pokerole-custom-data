@@ -1,6 +1,6 @@
 {
-    "name": "Clear Amulet",
-    "description": "The user is immune to stat debuffs.",
-    "category": "HeldItem",
-    "single_use": false
+  "name": "Clear Amulet",
+  "description": "The user is immune to stat debuffs inflicted by others.",
+  "category": "HeldItem",
+  "single_use": false
 }

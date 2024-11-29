@@ -1,0 +1,11 @@
+{
+  "name": "Acid Spray",
+  "type": "Poison",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the foe's Special Defense by 2.",
+  "description": "The user spits a corrosive substance, the burning sensation doesn't allow it to focus on attacking.",
+  "category": "Special"
+}

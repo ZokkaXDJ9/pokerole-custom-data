@@ -1,6 +1,6 @@
 {
   "name": "Covert Cloak",
-  "description": "User is immune to secondary effects of attacking moves.",
+  "description": "User is immune to secondary effects of attacking moves used by others.",
   "category": "HeldItem",
   "single_use": false
 }

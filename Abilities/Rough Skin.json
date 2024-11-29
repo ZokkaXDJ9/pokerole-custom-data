@@ -1,0 +1,5 @@
+{
+  "name": "Rough Skin",
+  "description": "Use Protection on your hands when touching this Pokemon. Its body is covered by sharp scales or barbs that get hooked into the skin.",
+  "effect": "Whenever this Pokemon is hit with a Non-Ranged Physical Attack, deal 1 damage to the attacker. "
+}

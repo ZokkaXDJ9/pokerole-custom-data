@@ -1,0 +1,11 @@
+{
+  "name": "Encore",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool",
+  "target": "Foe",
+  "effect": "Reaction. For the duration of this effect at the start of round before rolling for initiative, the target rolls 1 dice. On a 1-3 the target will repeat the same action that instigated Encore. For the purposes of support moves and stat increases their action is treated as a separate move (allowing for encored support/status moves to stack with themselves once). On a 4-6 the target may act as normal. Last 4 Rounds.",
+  "description": "The user claps and cheers at the target to encourage it to repeat what it just did.",
+  "category": "Support"
+}

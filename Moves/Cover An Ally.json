@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Dexterity",
   "target": "One Ally",
-  "effect": "Reaction. Shield Move. The user will provide cover to the target, redirecting all moves targeting the target of this move to the user until their next turn.",
+  "effect": "Shield Move. The user will provide cover to the target, redirecting one attack targeting an ally to the user. For damage calculation any type immunities the user may have are treated as Very Ineffective (-2) against the instigating move. This may be used to redirect one instance of damage from an attacking move for the purposes of All Foes or Area targeting attacks. This can be executed at any time provided the user has not yet acted in the round.",
   "description": "",
   "category": "Support"
 }

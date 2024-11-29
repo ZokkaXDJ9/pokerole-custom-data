@@ -1,0 +1,11 @@
+{
+  "name": "Assurance",
+  "type": "Dark",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the Target has already received damage from this Round add 2 Extra Dice to the Damage Pool.",
+  "description": "The user retaliates against the foe, the rush of adrenaline allows it to hit harder.",
+  "category": "Physical"
+}

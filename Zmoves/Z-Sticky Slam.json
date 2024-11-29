@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Sticky Slam",
+  "Type": "Rock",
+  "Power": 4,
+  "Damage1": "",
+  "Damage2": "Strength",
+  "Accuracy1": "Strength",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Ranged. High Critical. Inflicts Wounds. Sets up Sticky Webs on the opponents side of the battlefield. The user may distribute 4 temporary HP among themself and allies. If this move fails to deal damage, distribute 6 instead. -3 Accuracy.",
+  "Description": "How did Amalthea manage to cover an entire Obelisk in Honey? And why is she picking it up, oh god run it's gonna get everywhere!",
+  "_id": "Stone Edge",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}

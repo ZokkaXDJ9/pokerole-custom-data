@@ -1,0 +1,16 @@
+{
+  "Name": "Z-What is Cast...",
+  "Type": "Dark",
+  "Power": 7,
+  "Damage1": "",
+  "Damage2": "Strength",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Inflicts Wounds. High Critical. Inflicts Confusion.",
+  "Description": "The user quickly slashes through the target as soon as it gets the chance. Often making him bleed through the wound, something that hurts with every move.",
+  "_id": "Night Slash",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}
