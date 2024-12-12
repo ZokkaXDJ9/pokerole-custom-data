@@ -1,0 +1,17 @@
+{
+    "number": 804,
+    "name": "Naganadel",
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "3/7",
+    "vitality": "2/5",
+    "special": "3/7",
+    "insight": "2/5",
+    "moves": {
+      "bronze": ["Air Cutter", "Air Slash", "Dragon Pulse", "Peck", "Growl", "Helping Hand", "Acid", "Fury Attack"],
+      "silver": ["Fell Stinger", "Charm", "Venoshock"],
+      "gold": ["Venom Drench", "Nasty Plot", "Poison Jab", "Gastro Acid", "Toxic", "Dragon Rush"],
+      "platinum": ["Outrage", "Sky Attack"],
+      "diamond": []
+    }
+  }

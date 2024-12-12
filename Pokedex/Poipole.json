@@ -1,0 +1,17 @@
+{
+    "number": 803,
+    "name": "Poipole",
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+      "bronze": ["Dragon Pulse", "Peck", "Growl", "Helping Hand", "Acid", "Fury Attack"],
+      "silver": ["Fell Stinger", "Charm", "Venoshock"],
+      "gold": ["Venom Drench", "Nasty Plot", "Poison Jab", "Gastro Acid", "Toxic"],
+      "platinum": ["Signal Beam", "Snatch", "Covet"],
+      "diamond": []
+    }
+  }
