@@ -1,0 +1,11 @@
+{
+  "name": "Sky Attack",
+  "type": "Flying",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. High Critical. Charge move. On the charge turn, the user raises their Strength by 1. The charge turn can be skipped during Arcane Domain and Strong Winds Weather. Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.",
+  "description": "The Pokemon darts from the sky with a graceful and lethal strike, propelling with the wind, crushing the foe to the ground.",
+  "category": "Physical"
+}

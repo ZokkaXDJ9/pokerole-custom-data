@@ -1,5 +1,5 @@
 {
-    "name": "Aura Field",
-    "description": "An adrenaline pumping Aura permeates the battlefield, pumping everyone up and making those in tune with their bodies sharper.",
-    "effect": "- All moves gain High Critical while this weather is in effect.\n- Fighting types are immune to attribute decreases."
+  "name": "Aura Field",
+  "description": "An adrenaline pumping Aura permeates the battlefield, pumping everyone up and making those in tune with their bodies sharper.",
+  "effect": "- Fighting type attacks gain high critical (which stacks with other high critical sources).\n- Fighting types ignore the effects of all attribute decreases while Aura Field is active (they can still be inflicted on them)."
 }

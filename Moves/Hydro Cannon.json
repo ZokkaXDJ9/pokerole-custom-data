@@ -1,0 +1,11 @@
+{
+  "name": "Hydro Cannon",
+  "type": "Water",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Recharge Move. -1 Accuracy. At the start of the recharge round, the User or an Ally gains a damage reduction equal to the Rank Bonus of the User (Applied after final damage calculations) for the entire duration of the round.",
+  "description": "The Pokemon blasts the foe with a water surge that could bring down a house. The user needs to rest afterwards.",
+  "category": "Special"
+}

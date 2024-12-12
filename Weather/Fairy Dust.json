@@ -1,5 +1,5 @@
 {
-    "name": "Fairy Dust",
-    "description": "The battlefield is swirling with fairy dust that soothes the chaos of a fight. Especially the chaos of any dragons nearby.",
-    "effect": "- Dragon-Types lose their resistances.\n- Reduce the amount of Chance Dice from moves that aren't Fairy, Bug or Grass types by 2.\n- Fairy-Types gain +1 Special Defense in the duration."
+  "name": "Fairy Dust",
+  "description": "The battlefield is swirling with fairy dust that soothes the chaos of a fight. Especially the chaos of any dragons nearby.",
+  "effect": "- Add 2 chance dice to any move involving chance dice.\n- Fairy types succeed on chance dice with a 5 or 6."
 }

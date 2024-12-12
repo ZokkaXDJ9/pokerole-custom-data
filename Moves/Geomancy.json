@@ -1,0 +1,11 @@
+{
+  "name": "Geomancy",
+  "type": "Fairy",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Charge move. On the charge turn, the user raises their Special Defense by 2. Raises the User's Dexterity and Special by 2. The charge turn can be skipped during Cosmic Rays and Fairy Dust Weather.",
+  "description": "Through a mystical connection this Pokemon absorbs the life force of earth itself to increase its power.",
+  "category": "Support"
+}

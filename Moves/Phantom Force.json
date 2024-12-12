@@ -1,0 +1,11 @@
+{
+  "name": "Phantom Force",
+  "type": "Ghost",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Charge Move. While charging this move, the User will be out of range. If the Target made a Shielding Action the shield is destroyed and won't have any effect.",
+  "description": "The Pokemon disappears into a dark dimension to infiltrate even the most impenetrable defenses. It may reappear during its next action.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Force",
+  "type": "Ghost",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Charge Move. While charging this move, the User will be out of range. If the Target made a Shielding Action the shield is destroyed and won't have any effect.",
+  "description": "The Pokemon disappears into a dark dimension to strike its foe at the next opportunity. The blow will hurt the target not on their body but directly on their soul.",
+  "category": "Physical"
+}

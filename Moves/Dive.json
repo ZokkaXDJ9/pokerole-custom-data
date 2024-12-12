@@ -1,0 +1,11 @@
+{
+  "name": "Dive",
+  "type": "Water",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge Move. While charging this move, the User will be out of range, with the exception of the attacks Surf and Whirlpool.",
+  "description": "The user submerges into the water and continues diving at an insane speed.",
+  "category": "Physical"
+}

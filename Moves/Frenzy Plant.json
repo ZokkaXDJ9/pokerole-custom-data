@@ -1,0 +1,11 @@
+{
+  "name": "Frenzy Plant",
+  "type": "Grass",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Recharge Move. -1 Accuracy. During the recharge turn, the User can pay 1 Will, to make a chosen Ally or the User recovers HP equal to the Rank Bonus of the User.",
+  "description": "The user roots down and calls the plants to grow in a frenzy around the foe, though it leaves the user exhausted.",
+  "category": "Special"
+}

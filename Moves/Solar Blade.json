@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Strength",
   "target": "Foe",
-  "effect": "Charge Move. If there is a Sunny Weather, you skip this Move's Charge action. If performed under Rain, Sandstorm, Hail or Snow Weather, this Move takes two actions to Charge.",
+  "effect": "Charge move. On the charge turn, the user raises their Strength by 2. The charge turn can be skipped during Sunny and Pollen Storm Weather.",
   "description": "The Pokemon focuses the sunlight on its sharp leaves, then releases the energy with a shattering block.",
   "category": "Physical"
 }

@@ -1,5 +1,5 @@
 {
   "name": "Hail",
   "description": "Heavy ice shards are falling from the sky. It’s cold, it’s snowy and one of those ice pieces may fall right in your head.",
-  "effect": "- Deal 1 damage to all non Ice-Type Pokémon in the field at the end of the round.\n- Moves that become Complete Heal with Sunny weather will only restore 1 HP instead."
+  "effect": "- Deal 1 damage to all non Ice-Type Pokémon in the field at the end of the round.\n- Increase 1 Point to the Special Defense of all Ice Pokémon in the field.\n- Ice types gain +1 Spec Def."
 }

@@ -1,5 +1,5 @@
 {
   "name": "Snow",
-  "description": "A snowstorm is blowing a chilling wind throughout the battlefield and coating it snow.",
-  "effect": "- Increase 1 Point to the Defense of all Ice Pokémon in the field.\n- Moves that become Complete Heal with Sunny weather will only restore 1 HP instead."
+  "description": "A snowstorm is blowing a chilling wind throughout the battlefield and coating it in snow.",
+  "effect": "- Increase 1 Point to Defense of all Ice Pokémon in the field.\n- Add 1 damage to ice type attacks."
 }

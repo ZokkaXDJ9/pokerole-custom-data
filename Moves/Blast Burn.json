@@ -1,0 +1,11 @@
+{
+  "name": "Blast Burn",
+  "type": "Fire",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Recharge Move. -1 Accuracy. At the end of the recharge round, the target loses HP equal to the Rank Bonus of the User.",
+  "description": "The Pokemon uses all of its power to deliver an infernal blast to the foe. The user is left exhausted.",
+  "category": "Special"
+}

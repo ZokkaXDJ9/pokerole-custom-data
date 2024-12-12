@@ -1,11 +1,11 @@
 {
-    "name": "Meteor Beam",
-    "type": "Rock",
-    "power": 5,
-    "damage": "Special",
-    "accuracy": "Special",
-    "target": "Foe",
-    "effect": "Charge move. On the first round, the user raises their Special by one stage.",
-    "description": "The user gathers space power to unleash it in a massive beam. -1 Accuracy.",
-    "category": "Special"
+  "name": "Meteor Beam",
+  "type": "Rock",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge move. On the charge turn, the user raises their Special by 2. The charge turn can be skipped during Ferromagnetic Storm and Sandstorm/Duststorm Weather. -1 Accuracy.",
+  "description": "The user gathers space power to unleash it in a massive beam.",
+  "category": "Special"
 }

@@ -1,6 +1,6 @@
 {
   "name": "Charge Move",
-  "flavor": "True power takes time!",
-  "text": "- Moves labeled with Charge need a turn to get ready. Start by calling the move and rolling accuracy to see if it hits\n- If you fail, your turn is skipped as normal; if you succeed, you must wait until the next turn\n- At the start of the next round, use the same initiative result as the prior round\n- You cannot stall during the charge of a Charge Move and take priority over anyone who rolls the same number\n- Once your turn comes up, roll the damage as normal and that turn is finished",
+  "flavor": "True power takes time... or good preparation!",
+  "text": "Moves labeled with Charge need a turn to get ready.\n- Start by calling the move and rolling accuracy to see if it hits\n- If you fail, your turn is skipped as normal; if you succeed, you get the on charge turn effect and must wait until the next round\n- At the start of the next round, use the same initiative result as the prior round\n- You cannot stall during the charge of a Charge Move and take priority over anyone who rolls the same number\n- Once your turn comes up, roll the damage as normal and that turn is finished\n- If you skip the Charging Turn of a Charge Move (e.g. due to the corresponding weather being active), you also don't gain the charge turn benefits.",
   "example": ""
 }

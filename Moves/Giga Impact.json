@@ -1,0 +1,11 @@
+{
+  "name": "Giga Impact",
+  "type": "Normal",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Recharge Move. -1 Accuracy. At the end of the recharge round, all foes lose HP as evenly split as possible among them, equal the damage the target took from this move.",
+  "description": "The Pokemon strikes with a brutal force using all its body. The impact leaves the user somewhat stunned.",
+  "category": "Physical"
+}

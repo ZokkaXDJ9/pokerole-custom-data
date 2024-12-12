@@ -1,0 +1,11 @@
+{
+  "name": "Fly",
+  "type": "Flying",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge Move. While charging this move, the User will be out of range, with the exception of the attacks Gust, Thunder, Twister, Sky Uppercut, Hurricane, Smack Down and Thousand Arrows.",
+  "description": "The user flies up high in one action, then drops and strikes in the next one. The Pokemon can fly for extremely long periods of time without getting tired.",
+  "category": "Physical"
+}

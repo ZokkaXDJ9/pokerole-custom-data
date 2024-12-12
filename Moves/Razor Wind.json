@@ -1,0 +1,11 @@
+{
+  "name": "Razor Wind",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "High Critical. Charge move. On the charge turn, the user raises their Dexterity and Special by 1. The charge turn can be skipped during Strong Winds and Overcast Weather.",
+  "description": "A sharp wind current is unleased against anyone standing against this Pokemon.",
+  "category": "Special"
+}

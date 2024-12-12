@@ -1,0 +1,11 @@
+{
+  "name": "Dig",
+  "type": "Ground",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge Move. While charging this move, the User will be out of range, with the exception of the attacks Earthquake, Magnitude and Fissure.",
+  "description": "The user digs a tunnel on the ground and attacks while coming out from below.",
+  "category": "Physical"
+}

@@ -1,5 +1,5 @@
 {
   "name": "Sandstorm",
   "description": "A raging wind is blowing sand all over. You can barely open your eyes, it’s hard to breath and little sharp rocks pierce your skin.",
-  "effect": "- Deal 1 damage to all non Rock, Ground or Steel Type Pokémon in the field at the end of the round.\n- Increase 1 Point to the Special Defense of all Rock-Type Pokémon in the field.\n- Moves that become Complete Heal with Sunny weather will only restore 1 HP instead."
+  "effect": "Deal 1 damage to all non Rock, Ground or Steel Type Pokémon in the field at the end of the round.\n- Increase 1 Point to the Special Defense of all Rock-Type Pokémon in the field."
 }

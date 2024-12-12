@@ -1,0 +1,11 @@
+{
+  "name": "Hyper Beam",
+  "type": "Normal",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. Recharge Move. -1 Accuracy. At the end of the recharge round, all foes lose HP as evenly split as possible among them, equal the damage the target took from this move.",
+  "description": "The Pokemon casts an incredible beam that leaves a giant trail of destruction behind. The user is left exhausted.",
+  "category": "Special"
+}

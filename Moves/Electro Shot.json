@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Special",
   "target": "Foe",
-  "effect": "Charge move. On the first round, the user raises their Special by one stage. Fully charges in the rain.",
+  "effect": "Charge move. On the charge turn, the user raises their Special by 2. The charge turn can be skipped during Rain and Thunderstorm Weather",
   "description": "The user spends some time gathering electrical energy, before releasing it as a massive thunderstorm.",
   "category": "Special"
 }

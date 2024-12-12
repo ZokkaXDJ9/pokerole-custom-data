@@ -1,5 +1,5 @@
 {
     "name": "Overcast",
     "description": "A cloudy day leaving most feeling down. Only the most normal of souls can fully bare it.",
-    "effect": "- Normal Type pokemon become typeless but retain STAB.\n- Normal Type moves gain +1 damage."
+    "effect": "- Normal type pokemon ignore the effects of all status effects and attributes reductions for the duration.\n- Normal type moves ignore type interactions."
 }

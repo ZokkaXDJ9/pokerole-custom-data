@@ -1,0 +1,11 @@
+{
+  "name": "Skull Bash",
+  "type": "Normal",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Charge move. On the charge turn, the user raises their Defense by 1. The charge turn can be skipped during Aura Field and Overcast Weather.",
+  "description": "The Pokemon withdraws to its shell then charges against the foe.",
+  "category": "Physical"
+}
