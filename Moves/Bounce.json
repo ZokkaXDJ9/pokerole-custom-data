@@ -1,6 +1,6 @@
 {
   "name": "Bounce",
-  "type": "Fly",
+  "type": "Flying",
   "power": 3,
   "damage": "Strength",
   "accuracy": "Dexterity",
