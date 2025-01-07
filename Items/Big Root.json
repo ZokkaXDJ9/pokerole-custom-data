@@ -1,6 +1,6 @@
 {
     "name": "Big Root",
-    "description": "When using HP leeching moves, add 1 to the total amount of HP restored.",
+    "description": "When using HP leeching moves, add 2 to the total amount of HP restored.",
     "category": "HeldItem",
     "single_use": false
 }

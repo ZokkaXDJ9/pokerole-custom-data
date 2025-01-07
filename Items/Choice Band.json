@@ -1,0 +1,6 @@
+{
+  "name": "Choice Band",
+  "description": "Increases the Strength by 2 but the Pokemon loses 2 move slots.",
+  "category": "HeldItem",
+  "single_use": false
+}

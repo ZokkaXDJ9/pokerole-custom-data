@@ -1,6 +1,6 @@
 {
   "name": "Nullify Orb",
-  "description": "Nullifies all abilities of targets. Can target either all enemies or all allies.",
-  "category": "Orb",
+  "description": "Nullifies all abilities of targets. Can target either all enemies or all allies. Might not work against strong enemies like Bosses and Legendary Pokemon.",
+  "category": "BattleItem",
   "single_use": true
 }

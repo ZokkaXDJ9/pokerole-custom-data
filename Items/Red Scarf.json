@@ -1,0 +1,6 @@
+{
+  "name": "Red Scarf",
+  "description": "Increases Cool by 1.",
+  "category": "HeldItem",
+  "single_use": false
+}

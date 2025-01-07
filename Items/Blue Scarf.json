@@ -1,0 +1,6 @@
+{
+  "name": "Blue Scarf",
+  "description": "Increases Beauty by 1.",
+  "category": "HeldItem",
+  "single_use": false
+}

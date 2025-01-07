@@ -1,0 +1,6 @@
+{
+  "name": "Binding Band",
+  "description": "Double the effect damage of all Binding moves.",
+  "category": "HeldItem",
+  "single_use": false
+}

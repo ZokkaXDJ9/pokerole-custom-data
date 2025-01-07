@@ -1,0 +1,6 @@
+{
+  "name": "Metronome",
+  "description": "The holder's moves deal 1 extra damage for each consecutive time they have been used before, up to a maximum of +3.",
+  "category": "HeldItem",
+  "single_use": false
+}

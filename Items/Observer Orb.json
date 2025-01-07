@@ -1,0 +1,6 @@
+{
+  "name": "Observer Orb",
+  "description": "Flinch all foes.",
+  "category": "BattleItem",
+  "single_use": true
+}

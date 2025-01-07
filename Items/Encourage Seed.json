@@ -1,0 +1,6 @@
+{
+  "name": "Encourage Seed",
+  "description": "The next time the user lands a hit it will be treated as if it were a Critical Hit.",
+  "category": "Seeds",
+  "single_use": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Choice Scarf",
+  "description": "Increases the Dexterity by 2 but the Pokemon loses 2 move slots.",
+  "category": "HeldItem",
+  "single_use": false
+}
