@@ -1,6 +1,6 @@
 {
     "name": "Loaded Dice",
-    "description": "User's Successive Action moves gain +2 accuracy dice.",
+    "description": "User's Successive Action moves gain +2 accuracy.",
     "category": "HeldItem",
     "single_use": false
 }

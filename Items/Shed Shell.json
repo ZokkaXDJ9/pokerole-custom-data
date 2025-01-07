@@ -1,0 +1,6 @@
+{
+  "name": "Shed Shell",
+  "description": "The user is immune to blocked.",
+  "category": "HeldItem",
+  "single_use": false
+}

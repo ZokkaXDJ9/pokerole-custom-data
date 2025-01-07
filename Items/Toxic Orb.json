@@ -1,6 +1,6 @@
 {
   "name": "Toxic Orb",
-  "description": "When carried as an held item, this inflicts the user with Badly Poisoned, including out of battle.",
+  "description": "Inflicts the user with Poisoned when held and grants immunity to the secondary effects of status effects and Badly Poisoned.",
   "category": "HeldItem",
-  "single_use": true
+  "single_use": false
 }

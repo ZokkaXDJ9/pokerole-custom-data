@@ -1,6 +1,6 @@
 {
   "name": "Evasion Orb",
-  "description": "Adds +1 evasion to the user.",
+  "description": "Adds +2 evasion to the user.",
   "category": "Orb",
   "single_use": true
 }

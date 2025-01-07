@@ -1,0 +1,6 @@
+{
+  "name": "Yellow Scarf",
+  "description": "Increases Tough by 1.",
+  "category": "HeldItem",
+  "single_use": false
+}

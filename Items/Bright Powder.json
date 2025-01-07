@@ -1,0 +1,6 @@
+{
+  "name": "Bright Powder",
+  "description": "Opponent’s Moves against the Holder have -1 Accuracy.",
+  "category": "HeldItem",
+  "single_use": false
+}

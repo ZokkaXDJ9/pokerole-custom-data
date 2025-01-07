@@ -1,0 +1,6 @@
+{
+  "name": "Jaboca Berry",
+  "description": "Whenever this Pokemon is hit with a Physical Attack, inflict 4 damage against the attacker. Consumed on use.",
+  "category": "Consumable",
+  "single_use": true
+}

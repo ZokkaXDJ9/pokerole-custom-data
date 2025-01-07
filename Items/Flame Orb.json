@@ -1,0 +1,6 @@
+{
+  "name": "Flame Orb",
+  "description": "Inflicts the user with Burn when held and grants immunity to the secondary effects of status effects. When inflicted with Badly Poisoned, reduce the status to Poisoned. The pokemon does not get wound damage from Burn.",
+  "category": "HeldItem",
+  "single_use": false
+}

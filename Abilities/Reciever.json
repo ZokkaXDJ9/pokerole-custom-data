@@ -1,0 +1,5 @@
+{
+  "name": "Receiver",
+  "description": "This Pokemon is used to learning the tactic behavior of other Pokemon with which they have a bond, even adversarial ones.",
+  "effect": "For the next 24 Hours the Pokemon copies the ability of a fainted Pokemon. Multiple Abilities may be copied this way, but only one may be active during combat. Active ability can be changed in combat only when another Pokemon faints to match the most recently acquired ability, or by expending an action to swap to a previously copied ability. (Certain Abilities cannot be copied at Storyteller's Discretion)."
+}

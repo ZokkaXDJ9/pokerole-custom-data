@@ -1,0 +1,5 @@
+{
+  "name": "Power of Alchemy",
+  "description": "This Pokemon can absorb the essence of everything it touches, fusing with the chemical composition and even the genes of discarded trash",
+  "effect": "For the next 24 Hours the Pokemon copies the ability of a fainted Pokemon. Multiple Abilities may be copied this way, but only one may be active during combat. Active ability can be changed in combat only when another Pokemon faints to match the most recently acquired ability, or by expending an action to swap to a previously copied ability. (Certain Abilities cannot be copied at Storyteller's Discretion)."
+}

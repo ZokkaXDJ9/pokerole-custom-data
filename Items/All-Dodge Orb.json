@@ -1,6 +1,6 @@
 {
   "name": "All-Dodge Orb",
-  "description": "Adds +2 Evasion to the user and allies.",
+  "description": "Adds +1 Evasion to the user and allies.",
   "category": "Orb",
   "single_use": true
 }

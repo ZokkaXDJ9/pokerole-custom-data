@@ -1,6 +1,0 @@
-{
-  "name": "Deposit Orb",
-  "description": "User can send 1 item from their bag to their storage.",
-  "category": "Orb",
-  "single_use": true
-}

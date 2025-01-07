@@ -1,0 +1,6 @@
+{
+  "name": "Frost Orb",
+  "description": "Inflicts the user with Frostbite when held and grants immunity to the secondary effects of status effects. When inflicted with Badly Poisoned, reduce the status to Poisoned. The pokemon does not get wound damage from Frostbite.",
+  "category": "HeldItem",
+  "single_use": false
+}

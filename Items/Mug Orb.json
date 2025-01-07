@@ -1,6 +1,0 @@
-{
-  "name": "Mug Orb",
-  "description": "Takes one item from the target's inventory and adds it to the user's inventory.",
-  "category": "Orb",
-  "single_use": true
-}
