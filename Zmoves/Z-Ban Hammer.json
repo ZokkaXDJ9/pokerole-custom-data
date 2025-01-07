@@ -1,0 +1,16 @@
+{
+    "Name": "Z-Ban Hammer",
+    "Type": "Steel",
+    "Power": 999,
+    "Damage1": "",
+    "Damage2": "Strength",
+    "Accuracy1": "Strength",
+    "Accuracy2": "Rank",
+    "Target": "All Foes",
+    "Effect": "Removes the targets from this dimension - so long, suckers!",
+    "Description": "The power unleashed, the ancient beast unshackled, banishing you into my realm will be the first step to finally earn freedom and claim this world as mine.",
+    "_id": "Gigaton Hammer",
+    "Attributes": {},
+    "AddedEffects": {},
+    "Category": "Physical"
+}
