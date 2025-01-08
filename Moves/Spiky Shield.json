@@ -1,0 +1,11 @@
+{
+  "name": "Spiky Shield",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round, the first time any Foe makes contact with the user, they receive 2 damage, and reduce minimum damage for received attacks by the User to 0 (attacks still benefit from the base damage of type efficiency).",
+  "description": "The Pokemon covers itself with a thorn filled shell, the foe will be damaged if it hits directly into it.",
+  "category": "Support"
+}

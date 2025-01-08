@@ -1,0 +1,11 @@
+{
+  "name": "Howl",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cool ",
+  "target": "User and Allies",
+  "effect": "Increase the User and their Allies' Strength by 1.",
+  "description": "The Pokemon lets out an impressive howl, making it appear a lot more menacing.",
+  "category": "Support"
+}

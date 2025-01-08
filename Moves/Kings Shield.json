@@ -1,0 +1,11 @@
+{
+  "name": "King's Shield",
+  "type": "Steel",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round lower Foes that make contact with the user Strength by 2 stages, and reduce minimum damage for received attacks by the User to 0 (attacks still benefit from the base damage of type efficiency).",
+  "description": "The Pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of its lifeforce.",
+  "category": "Support"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Targeting Entries",
+  "flavor": "The way is the target(ing entry)",
+  "text": "- Moves targeting **One Ally**: Can also be used against consenting Foes.\n- Moves targeting **Foe**: Can also be used against allies, but not against yourself.\n- Moves targeting **All Allies**: Do not affect yourself\n- Moves targeting **All Foes**: Declare the order in which your character focuses on enemies. For each successive target, reduce the damage die count by 1.\n- Moves targeting **Area**: Select one opponent as your primary target.; these moves target everyone except the user. Only roll damage once against all targets, but deal half damage (rounded up) against your allies.\n- Only the first target on multi-target moves can receive a critical hit.",
+  "example": ""
+}

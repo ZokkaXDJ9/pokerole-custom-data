@@ -1,0 +1,11 @@
+{
+  "name": "Shell Trap",
+  "type": "Fire",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reaction. This Move may be used after the user is hit with a contact move against the instigating attacker.",
+  "description": "It apparently just buries underground, but secretly the Pokemon prepares its shell to detonate; anyone who steps on it will be blown to pieces.",
+  "category": "Special"
+}

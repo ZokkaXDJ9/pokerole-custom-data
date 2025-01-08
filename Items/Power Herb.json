@@ -1,0 +1,6 @@
+{
+  "name": "Power Herb",
+  "description": "Allows the user to skip the Charge turn of a Charge Move or the Recharge turn of a Recharge Move, while still getting the benefit of the secondary turn.",
+  "category": "Herb",
+  "single_use": true
+}

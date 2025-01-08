@@ -1,0 +1,6 @@
+{
+  "name": "Shield Move",
+  "flavor": "Always use protection!",
+  "text": "Shield Moves gain a stacking -2 accuracy penalty for each subsequent successful Shield Move you have used in your prior turns.",
+  "example": ""
+}

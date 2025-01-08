@@ -1,0 +1,6 @@
+{
+  "name": "Mental Tea",
+  "description": "Halves the duration of conditions like: Taunt, Torment, Encore, or Disable. In Love only lasts on you until it activated twice.",
+  "category": "HeldItem",
+  "single_use": false
+}

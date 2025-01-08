@@ -1,0 +1,11 @@
+{
+  "name": "Floral Healing",
+  "type": "Fairy",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "One Ally",
+  "effect": "Heal 5 HP. If performed over Grassy Terrain this move is a Heal 10 HP. If successful spend 1 Will to activate.",
+  "description": "The user emits a pulse of energy that heals the wounds of its allies.",
+  "category": "Support"
+}

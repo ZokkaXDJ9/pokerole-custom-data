@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Will",
   "target": "Ally",
-  "effect": "User targets a fainted ally, if successful, they're brought back with 3 HP. Reduce the user's current Will to 1. Cannot be used unless at full Will. If the user's max Will is 1 for any reason, this move fails.",
+  "effect": "User targets a fainted ally, if successful, they're brought back with 50% HP (rounded up). If successful, spend 3 Will points to activate. Can only be successfully used once per Battle. The initiative of the revived ally is equal to their dexterity, if they haven't acted this round yet.",
   "description": "The Pokémon bestows a loving blessing, reviving a party Pokémon that has fainted. This leaves it feeling pensive and drained for quite awhile.",
   "category": "Support"
 }

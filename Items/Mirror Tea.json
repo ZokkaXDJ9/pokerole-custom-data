@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Tea",
+  "description": "Whenever an enemy gains a stat increase, gain +1 to the same stat. Maximum +1 per stat. Maximum 1 increase per activation.",
+  "category": "HeldItem",
+  "single_use": false
+}

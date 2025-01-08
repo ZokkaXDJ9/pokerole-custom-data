@@ -1,0 +1,6 @@
+{
+  "name": "Mental Herb",
+  "description": "Removes a condition like: In Love, Taunt, Torment, Encore, or Disable.",
+  "category": "Herb",
+  "single_use": true
+}

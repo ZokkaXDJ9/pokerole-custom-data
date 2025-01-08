@@ -1,0 +1,6 @@
+{
+  "name": "White Tea",
+  "description": "Reduces the stat reduction cap on the holder from -3 to -1 while held.",
+  "category": "HeldItem",
+  "single_use": false
+}

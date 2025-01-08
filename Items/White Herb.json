@@ -1,0 +1,6 @@
+{
+  "name": "White Herb",
+  "description": "Allows the user to remove all reductions to a single stat and gain immunity to further reductions to this stat for the remaining battle. Only one such immunity can be in effect at a time and a new application will overwrite the previous one.",
+  "category": "Herb",
+  "single_use": true
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Gorilla Tactics",
+  "description": "The Pokemon's manners leave a lot to be desired, it is brutish and uncivilized, its only approach to facing problems",
+  "effect": "This Pokemon has a base 2 increase to their Strength. This increase does not inhibit the standard +-3 restriction for stat changes. This Pokemon must use the same Move it used during the last Round at least once consecutively, or perform an Alternative action (Dodge, Struggle, etc.) before using a different move from their active move list."
+}

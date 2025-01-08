@@ -1,0 +1,6 @@
+{
+  "name": "Power Tea",
+  "description": "Allows the user to skip the Charge turn of Charge Moves and the Recharge turn of Recharge Moves.",
+  "category": "HeldItem",
+  "single_use": false
+}

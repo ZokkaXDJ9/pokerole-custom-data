@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Insight",
-  "target": "Self",
-  "effect": "Reaction. Shield Move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0. If the User would be hit by a physical move, lower the Dexterity of the attacker by 1.",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round lower Foes that make contact with the user Dexterity by 1 stage, and reduce minimum damage for received attacks by the User to 0 (attacks still benefit from the base damage of type efficiency).",
   "description": "The user sets up a shield of webbing in front of themself; a sneaky trap made to inhibit their foes.",
   "category": "Support"
 }

@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Vitality",
-  "target": "Self",
-  "effect": "Reaction. Shield move. Reduce the damage the pokemon would take from a damaging move by 3. Reduces minimum damage to 0. If the user would be struck by a move that makes contact, inflict Burn 2 on the foe.",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round inflict Foes that make contact with the user with Burn, and reduce minimum damage for received attacks by the User to 0 (attacks still benefit from the base damage of type efficiency).",
   "description": "The user superheats their own body to prevent incoming attacks from dealing damage. Touching their burning body may hurt.",
   "category": "Support"
 }

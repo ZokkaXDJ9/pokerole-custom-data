@@ -1,0 +1,11 @@
+{
+  "name": "Low Sweep",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce Foe's Dexterity by 1.",
+  "description": "The Pokemon strikes the foe's legs, leaving it unable to walk normally or run.",
+  "category": "Physical"
+}

@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Dexterity",
-  "target": "Self",
-  "effect": "Reaction. Shield Move. If the Foe used a Non-Ranged Physical Move against the user, Reduce the Foes Defense by 2. Reduce 3 Dice from the foe's Damage Pool.",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round lower Foes that make contact with the user Defense by 2 stages, and reduce minimum damage for received attacks by the User to 0 (attacks still benefit from the base damage of type efficiency).",
   "description": "In a reckless action, the user charges against the foe to stop its momentum and block an incoming attack. Being so close allows the user to reach for weak spots.",
   "category": "Support"
 }

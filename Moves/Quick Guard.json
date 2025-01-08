@@ -1,0 +1,11 @@
+{
+  "name": "Quick Guard",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. May only be used in response to Moves with \"Priority\". Reduce any damage taken by the user and allies equal to the User's Rank bonus against the instigating attack and ignore any of the move's secondary effects if applicable. Quick Guard may also negate the effects of one \"Priority\" support move that target's the user or one of it's allies.",
+  "description": "The Pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of its lifeforce.",
+  "category": "Support"
+}

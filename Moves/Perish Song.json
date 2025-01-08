@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Beauty",
-  "target": "Foe",
-  "effect": "After three rounds, the target is dealt damage equal to its remaining HP plus 1 Wound. -2 Accuracy. Sound Based.",
+  "target": "Battlefield",
+  "effect": "At the end of the second next round, all targets take wound damage dice equal to their maximum HP (up to 20). Sound Based. This effect can be removed and the damage prevented by using an action to perform the Dodge action before the timer runs out.",
   "description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
   "category": "Support"
 }

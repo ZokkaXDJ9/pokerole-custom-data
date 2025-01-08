@@ -1,0 +1,11 @@
+{
+  "name": "Baneful Bunker",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus against the instigating attack. Until end of round, Foes that make contact with the user become poisoned and reduce minimum damage for received attacks to 0 (attacks still benefit from the base damage of type efficiency).",
+  "description": "The user encloses itself inside its sturdy shell, which is covered by poisonous barbs. If a barb pinches the foe's skin the wound will start to fester.",
+  "category": "Support"
+}
