@@ -1,0 +1,17 @@
+{
+    "number": 897,
+    "name": "Spectrier",
+    "base_hp": 6,
+    "strength": "2/4",
+    "dexterity": "4/8",
+    "vitality": "2/4",
+    "special": "4/8",
+    "insight": "2/5",
+    "moves": {
+      "bronze": ["Tackle", "Tail Whip", "Double Kick"],
+      "silver": ["Hex", "Stomp", "Confuse Ray", "Haze"],
+      "gold": ["Shadow Ball", "Take Down", "Agility", "Thrash", "Disable", "Double Edge", "Nasty Plot"],
+      "platinum": ["Phantom Force", "Curse", "Foul Play"],
+      "diamond": []
+    }
+}
