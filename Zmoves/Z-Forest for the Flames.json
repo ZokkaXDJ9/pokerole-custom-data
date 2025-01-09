@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Forest for the Flames",
+  "Type": "Fire",
+  "Power": 3,
+  "Damage1": "Strength",
+  "Damage2": "",
+  "Accuracy1": "Insight",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "High Critical, The user restores HP equal to half the damage dealt, rounded down. Inflicts Wounds. Inflicts Burn, Inflicts Drowsy. -2 Accuracy.",
+  "Description": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The attack might leave and equally bitter wound and Burning, creating a weak spot.",
+  "_id": "Bitter Blade",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}

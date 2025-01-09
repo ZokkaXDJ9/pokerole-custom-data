@@ -1,0 +1,6 @@
+{
+  "name": "Razor Fang",
+  "description": "All contact moves gain 2 chance dice to flinch.",
+  "category": "HeldItem",
+  "single_use": false
+}

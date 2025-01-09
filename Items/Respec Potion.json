@@ -1,7 +1,0 @@
-{
-    "name": "Respec Potion",
-    "price": 1000,
-    "description": "A vial containing a... questionable tincture with a very foul smell. Drinking this might have a strange effect on both your body and mind. Resets your spent stat points, thus allowing you to freely reallocate them.",
-    "category": "Consumable",
-    "single_use": true
-}

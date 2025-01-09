@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Soulsilver Caliber",
+  "Type": "Ghost",
+  "Power": 3,
+  "Damage1": "",
+  "Damage2": "Rank",
+  "Accuracy1": "Insight",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Ignores defense. Reduce the targets Defense and Special Defense by 1. Roll 4 chance die to inflict Drowsy.",
+  "Description": "Pheo loads his Z Ghost-Crystal into his rifle, taking aim and firing. Like a cloud streaking through the sky, the spectral bullet inflicts no pain yet shreds the targets focus and fortitude, leaving them in a constant state of daydreaming that makes it hard to defend from physical and mental attacks.",
+  "_id": "Covet",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}

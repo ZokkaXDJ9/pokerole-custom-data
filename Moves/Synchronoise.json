@@ -1,11 +1,11 @@
 {
-    "name": "Synchronoise",
-    "type": "None",
-    "power": 5,
-    "damage": "Special",
-    "accuracy": "Special",
-    "target": "Area",
-    "effect": "Sound Based. Can only affect those with the same type(s) as the user.",
-    "description": "The user vibrates with an odd energy matching its type(s). All nearby creatures and objects sharing at least one type with the user are hurt.",
-    "category": "Special"
+  "name": "Synchronoise",
+  "type": "Psychic",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Area",
+  "effect": "Sound Based. Can only affect those with the same type(s) as the user.",
+  "description": "The user vibrates with an odd energy matching its type(s). All nearby creatures and objects sharing at least one type with the user are hurt.",
+  "category": "Special"
 }

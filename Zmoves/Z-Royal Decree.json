@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Royal Decree",
+  "Type": "Rock",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "",
+  "Accuracy1": "Vitality",
+  "Accuracy2": "Rank",
+  "Target": "User and Allies",
+  "Effect": "Reaction. Shield Move. Reduce the damage the User and Allies would take from \"All Foes\" or \"Area\" moves by an amount equal to the User's Rank. Reduce minimum damage to 0. Prevent all secondary effects that would trigger on the User and Allies by guarded moves. Applies only to the instigating move. Z-Moves resolve normally, only taking into account the damage reduction of Z - Royal Decree. The instigating attack becomes a Physical and loses the Ranged move effect if applicable. (Becomes resisted by User and Allies Defense, and makes contact with the whole party.) Raise the User's Accuracy by 1 stage. Sets up Stealth Rocks on the opponent's battlefield, which triggers every time a victim switches targets from the one they had on the previous turn. When triggered, they deal 2d6 dice of damage. Add or subtract 1d6 for every weakness or resistance the victim has to Rock type, respectively.",
+  "Description": "Drawing strength from her divine right to rule, Neith shatters the ground to create a barrier for her allies drawing in the enemy for a gruesome counter attack, and leaving painfully sharp debris across the battlefield.",
+  "_id": "Wide Guard",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Support"
+}
