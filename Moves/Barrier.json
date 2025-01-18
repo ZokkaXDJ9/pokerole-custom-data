@@ -1,0 +1,11 @@
+{
+  "name": "Barrier",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "Increase the User's Defense by 2.",
+  "description": "The user casts a protective field around itself.",
+  "category": "Support"
+}
