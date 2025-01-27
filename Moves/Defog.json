@@ -1,0 +1,11 @@
+{
+  "name": "Defog",
+  "type": "Flying",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Battlefield",
+  "effect": "Remove all active Screens Moves (ie. Light Screen, Reflect), Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.",
+  "description": "A strong current of wind that blows away any fog and even invisible barriers.",
+  "category": "Support"
+}

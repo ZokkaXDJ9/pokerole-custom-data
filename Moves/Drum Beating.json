@@ -1,0 +1,11 @@
+{
+  "name": "Drum Beating",
+  "type": "Grass",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Reduce the Dexterity of those affected.",
+  "description": "The Pokemon has a perfectly good drum and you'd think it would use it. But it doesn't. It uses it's foe.",
+  "category": "Physical"
+}

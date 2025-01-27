@@ -1,0 +1,11 @@
+{
+  "name": "Brick Break",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Destroy all active Screens Moves on the target's side of the battlefield. If any are removed add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.",
+  "category": "Physical"
+}

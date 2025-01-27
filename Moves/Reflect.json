@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Special",
   "target": "Battlefield",
-  "effect": "User and Allies will receive 1 less Damage from Physical Attacks. If the user is Silver Rank or higher, User and Allies instead receive 2 less damage from Physical attacks. At Diamond Rank or higher, 3 less. Lasts 4 Rounds.",
+  "effect": "Screen Move. User and Allies will receive 1 less Damage from Physical Attacks. If the user is Silver Rank or higher, User and Allies instead receive 2 less damage from Physical attacks. At Diamond Rank or higher, 3 less. Lasts 4 Rounds.",
   "description": "The user manifests its mental power on the world, creating invisible walls and floors that prevent the passing of objects.",
   "category": "Support"
 }

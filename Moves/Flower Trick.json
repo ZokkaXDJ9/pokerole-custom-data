@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "This move is always a critical hit. Never Fail.",
+  "effect": "Ranged. This move is always a critical hit. Never Fail.",
   "description": "The Pokémon throws a rigged bouquet of flowers at the target. The target is so stunned at baffled by this action, they have no time to act!",
   "category": "Physical"
 }

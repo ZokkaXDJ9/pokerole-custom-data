@@ -1,0 +1,11 @@
+{
+  "name": "Bone Rush",
+  "type": "Ground",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Successive Actions. -1 Accuracy.",
+  "description": "The user quickly strikes the foe with a bone, one blow after another.",
+  "category": "Physical"
+}

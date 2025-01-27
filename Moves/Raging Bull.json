@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Removes screens on the foe's side. If the user is Paldean Tauros, this move matches their secondary type.",
+  "effect": "Destroy all active Screens Moves on the target's side of the battlefield. If any are removed add 2 Extra Dice to the Damage Pool. If the user has more than one type, this move matches their secondary type.",
   "description": "The Pokémon performs a tackle like a raging bull, smashing anything in its way to the target.",
   "category": "Physical"
 }

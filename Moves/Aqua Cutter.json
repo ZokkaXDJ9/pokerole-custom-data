@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "High Critical. Inflicts Wounds.",
+  "effect": "Ranged. High Critical. Inflicts Wounds",
   "description": "The Pokémon expels pressurized water to cut at the target like a blade. The wounds the water leaves in its wake can be quite severe.",
   "category": "Physical"
 }

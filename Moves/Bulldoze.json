@@ -1,0 +1,11 @@
+{
+  "name": "Bulldoze",
+  "type": "Ground",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Ranged. Reduce the Dexterity of those affected.",
+  "description": "The user stomps and tramples the place, breaking stones, trees, and everything nearby.",
+  "category": "Physical"
+}

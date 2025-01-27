@@ -1,0 +1,11 @@
+{
+  "name": "Safeguard",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "Screen Move. For the next 4 Rounds, the User and its Allies are immune to Status Ailments (Burn. Poison. Drowsy. Confuse. Frostbite. Paralysis). Lasts 4 Rounds. Previously inflicted Status Ailments remain.",
+  "description": "The Pokemon creates an energy shield that protects everyone from harm.",
+  "category": "Support"
+}

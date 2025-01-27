@@ -7,7 +7,7 @@
   "Accuracy1": "Dexterity",
   "Accuracy2": "Rank",
   "Target": "User and Battlefield",
-  "Effect": "Priority 1. Increase the User's Dexterity by 2, Evasion and Strenght by 1. Sets up Aura Burst for 4 Rounds.",
+  "Effect": "Priority 1. Increase the User's Dexterity by 2, Evasion and Strength by 1. Sets up Aura Burst for 4 Rounds.",
   "Description": "The user relaxes and lightens its body to move faster. His Aura starts flowing out, flowing into the whole.",
   "_id": "Agility",
   "Attributes": {},

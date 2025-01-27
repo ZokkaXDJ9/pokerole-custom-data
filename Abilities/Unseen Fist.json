@@ -1,5 +1,5 @@
 {
   "name": "Unseen Fist",
-  "description": "With such skill and discipline, this pokemon's strikes are near impossible to block!",
-  "effect": "All Non-Ranged Physical Attacks from this pokemon ignore Shield moves."
+  "description": "With such skill and discipline, this Pokemon's strikes are near impossible to block!",
+  "effect": "This Pokemon's Contact moves bypass Shield Moves and any active Screen Moves on the target's side of the battlefield. This pokemon may also choose to directly target an opponent who is behind a decoy (such as one set by Substitute/Shed Tail). Damaging moves used this way do not affect the decoy."
 }

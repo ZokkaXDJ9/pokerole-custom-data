@@ -1,0 +1,11 @@
+{
+  "name": "Feint",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Priority 2. This move ignores any shielding move.",
+  "description": "The Pokemon feints a strike then hits for real even if the foe attempts to protect itself.",
+  "category": "Physical"
+}
