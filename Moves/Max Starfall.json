@@ -6,5 +6,5 @@
   "target": "Foe",
   "effect": "This move replaces all fairy type moves when Dynamaxed. Deals the source move's damage + 2 to a single enemy and summons Misty Terrain for 5 turns.",
   "description": "A super-sized attack that has the Dynamaxed Pokemon knocking the stars from the sky to fall upon the foe.",
-  "category": "Special/Physical"
+  "category": "Physical/Special"
 }

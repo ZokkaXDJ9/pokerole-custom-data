@@ -6,5 +6,5 @@
   "target": "Foe",
   "effect": "This move replaces all dragon type moves when Dynamaxed. Deals the source move's damage + 2 to a single enemy and reduces all opponents Strength by 1.",
   "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a wild dracinic storm on the foe.",
-  "category": "Special/Physical"
+  "category": "Physical/Special"
 }

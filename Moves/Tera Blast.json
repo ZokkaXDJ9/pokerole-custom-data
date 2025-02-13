@@ -2,10 +2,10 @@
   "name": "Tera Blast",
   "type": "Normal",
   "power": 3,
-  "damage": "Strength/special",
+  "damage": "Strength/Special",
   "accuracy": "Dexterity",
   "target": "Foe",
   "effect": "The User can choose whether this uses Strength or Special. If the User is Terastalized, this move's type becomes the same as their Tera-Type.",
   "description": "Using the incredible power of Terastilization, the User launches an attack against the enemy in their preferred form.",
-  "category": "Physical/special"
+  "category": "Physical/Special"
 }

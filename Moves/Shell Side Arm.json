@@ -2,10 +2,10 @@
   "name": "Shell Side Arm",
   "type": "Poison",
   "power": 3,
-  "damage": "Strength/special",
+  "damage": "Strength/Special",
   "accuracy": "Insight",
   "target": "Foe",
   "effect": "User picks which stat to roll with. Move is physical/special in accordance with the choice. Roll 2 chance dice to poison the foe.",
   "description": "The Pokémon uses its arm mounted shell cannon to bombard the foe. It can either load physical ammo, or use its own mental powers to shoot, whichever it prefers in the moment.",
-  "category": "Physical/special"
+  "category": "Physical/Special"
 }

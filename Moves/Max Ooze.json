@@ -6,5 +6,5 @@
   "target": "Foe",
   "effect": "This move replaces all poison type moves when Dynamaxed. Deals the source move's damage + 1 to a single enemy and increases user and all allies Special by 1",
   "description": "A super-sized attack that has the Dynamaxed Pokemon coating the target in a massive amount of noxious ooze.",
-  "category": "Special/Physical"
+  "category": "Physical/Special"
 }

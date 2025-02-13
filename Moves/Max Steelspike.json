@@ -6,5 +6,5 @@
   "target": "Foe",
   "effect": "This move replaces all steel type moves when Dynamaxed. Deals the source move's damage + 1 to a single enemy and increases User and all allies defense by 1.",
   "description": "A super-sized attack that has the Dynamaxed Pokemon summoning a tower of spikes below its foe.",
-  "category": "Special/Physical"
+  "category": "Physical/Special"
 }

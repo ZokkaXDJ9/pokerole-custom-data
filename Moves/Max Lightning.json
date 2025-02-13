@@ -6,5 +6,5 @@
   "target": "Foe",
   "effect": "This move replaces all electric type moves when Dynamaxed. Deals the source move's damage + 2 to a single enemy and summons Electric Terrain for 5 rounds.",
   "description": "A super-sized attack that has the Dynamaxed Pokemon summon a flurry of stormclouds that strike the foe in succession.",
-  "category": "Special/Physical"
+  "category": "Physical/Special"
 }
