@@ -1,0 +1,5 @@
+{
+  "name": "Perish Body",
+  "description": "This Pokemon silently curses those who cross it. Condemning their souls to suffer as it has suffered. Avoid this Pokemon, lest you suffer its grudge.",
+  "effect": "If a foe makes contact with this Pokemon, both the Foe and the User will at the end of the second next round, take wound damage dice equal to their maximum HP (up to 20). This effect can be removed and the damage prevented by using an action to perform the Dodge action before the timer runs out."
+}

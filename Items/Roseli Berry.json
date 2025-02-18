@@ -1,0 +1,6 @@
+{
+  "name": "Roseli Berry",
+  "description": "Decreases damage from Fairy-type attacks by 5, to a minimum of 0 damage. Consumed as reaction to a damage roll.",
+  "category": "BattleItem",
+  "single_use": true
+}

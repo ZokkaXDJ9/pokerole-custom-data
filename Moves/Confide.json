@@ -1,0 +1,11 @@
+{
+  "name": "Confide",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Cute",
+  "target": "Foe",
+  "effect": "Sound Based. Reduce foe's Special.",
+  "description": "The Pokemon tells a secret to the target. The foe loses its ability to concentrate.",
+  "category": "Support"
+}

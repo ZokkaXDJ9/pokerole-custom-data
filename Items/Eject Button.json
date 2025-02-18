@@ -1,0 +1,6 @@
+{
+  "name": "Eject Button",
+  "description": "When the Pokemon is hit with a damaging move, it switches out immediately (As if they performed a Switcher Move) Evasion gained by this item does not expire after the user's next turn. This effect may only be used once per battle",
+  "category": "HeldItem",
+  "single_use": false
+}

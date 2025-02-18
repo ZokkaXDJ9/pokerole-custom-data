@@ -1,0 +1,11 @@
+{
+  "name": "Grav Apple",
+  "type": "Grass",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Ranged. Reduce the Foe's Defense. If the effect of the move Gravity is active, add 2 dice to the damage pool.",
+  "description": "The Pokemon rises on top of its foe and drops an apple on their head. The foe proceeds to eat the apple, distracting it from the fight.",
+  "category": "Physical"
+}

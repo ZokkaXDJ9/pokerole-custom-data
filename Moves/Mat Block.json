@@ -1,0 +1,11 @@
+{
+  "name": "Mat Block",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User and Allies",
+  "effect": "Reaction. Shield Move. Reduce the damage the User and/or Allies would take from an instigating attack by an amount equal to the User's Rank. Reduce minimum damage to 0. Prevent all secondary effects that would trigger on the User and Allies by guarded moves. This move may only be declared if the User has not taken a prior action or has used an Alternative Action (including Dodges granted by evasion) on the previous round.",
+  "description": "The Pokemon uses a mat or something similar as a shield.",
+  "category": "Support"
+}

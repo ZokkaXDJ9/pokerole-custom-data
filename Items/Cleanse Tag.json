@@ -1,0 +1,6 @@
+{
+  "name": "Cleanse Tag",
+  "description": "This Pokemon cannot have their accuracy lowered by Foe moves, items or abilities",
+  "category": "HeldItem",
+  "single_use": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fake Out",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Priority 1. Flinch the target. This move may only be declared if the User has not taken a prior action, or has used an Alternative Action (including Dodges granted by evasion) on the previous round",
+  "description": "While still preparing for battle, the user will suddenly attack the foe.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Heat Crash",
+  "type": "Fire",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Add 1 Extra Dice to the Damage Pool for every 25 kgs. of weight the User has above the target's weight. Up to +4 Extra Dice may be added this way. If the target has used the move Minimize during the scene gain an additional +2 Damage Dice and Never Fail.",
+  "description": "The user slams the target with a body engulfed in fire.",
+  "category": "Physical"
+}

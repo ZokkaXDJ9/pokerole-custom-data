@@ -1,0 +1,11 @@
+{
+  "name": "Constrict",
+  "type": "Normal",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance to lower the target's Dexterity",
+  "description": "The Pokemon uses its body to hold and constrict the foe. It won't let go easily.",
+  "category": "Physical"
+}

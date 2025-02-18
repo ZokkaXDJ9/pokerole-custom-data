@@ -1,0 +1,11 @@
+{
+  "name": "Grass Knot",
+  "type": "Grass",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Makes Contact. Add 1 Extra Dice to the Damage Pool for every 25 kgs. of weight on the foe. Up to +4 Extra Dice may be added this way. If the target's weight is 200 kgs. or greater, add 5 Extra Dice instead.",
+  "description": "The user snares the target's feet with grass, making it fall to the ground. The bigger the foe the harder the fall.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Clangorous Soul",
+  "type": "Dragon",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "User",
+  "effect": "Sound Based. User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+  "description": "The Pokemon shakes its scales around, to sharpen, shed, and rearrange them. It's a bit rough, but in the end the Pokemon feels more focused for battle.",
+  "category": "Support"
+}

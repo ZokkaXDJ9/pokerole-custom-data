@@ -1,0 +1,11 @@
+{
+  "name": "Spirit Shackle",
+  "type": "Ghost",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Blocks",
+  "description": "While attacking, the user sneakily binds its foe's shadow to the ground, restricting its movement and making it unable to escape.",
+  "category": "Physical"
+}

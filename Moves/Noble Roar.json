@@ -1,0 +1,11 @@
+{
+  "name": "Noble Roar",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "Sound Based. Reduce the foe's Strength and Special.",
+  "description": "The Pokemon makes a roar that commands respect and authority over anyone listening.",
+  "category": "Support"
+}

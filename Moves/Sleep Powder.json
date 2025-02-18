@@ -1,0 +1,11 @@
+{
+  "name": "Sleep Powder",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Makes the Target drowsy. Has no effect on Grass types. -2 Accuracy.",
+  "description": "The user scatters powder around, anyone who comes in contact with it will fall asleep.",
+  "category": "Support"
+}

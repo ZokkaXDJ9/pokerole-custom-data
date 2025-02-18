@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "High Critical. Inflicts Wounds. Roll 2 dice of damage against the foe at the end of each round. Lasts 4 rounds.",
+  "effect": "High Critical. Inflicts Wounds. Deal 1 damage to the foe at the end of each round. Lasts 4 rounds.",
   "description": "The user makes a merciless attack aimed for their enemies weak point. Splinters are left behind, which dig into the created wounds.",
   "category": "Physical"
 }

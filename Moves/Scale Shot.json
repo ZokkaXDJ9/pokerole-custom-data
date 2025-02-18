@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Successive Actions. Inflicts Wounds. Increases user's Dexterity by 1. Reduces user's Defense by 1. -1 Accuracy.",
+  "effect": "Ranged. Successive Actions. Inflicts Wounds. Increases user's Dexterity by 1. Reduces user's Defense by 1. -1 Accuracy.",
   "description": "The Pokémon tears off its own scales to throw at the target, leaving slices. This sheds some weight, but also leaves gaps in its armor.",
   "category": "Physical"
 }

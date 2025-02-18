@@ -1,0 +1,5 @@
+{
+  "name": "Wonder Guard",
+  "description": "This Pokemon's body is protected by an incredible otherworldly aura. Most things get through as if nothing was there.",
+  "effect": "This Pokemon ignores all damage from attacks that would hit for neutral or ineffective damage (Regardless of damage Calculation). Typeless attacks (such as struggle) ignore this restriction. Damage from Status Conditions, Hazards, Recoil, Items and Weather resolve normally."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pyro Ball",
+  "type": "Fire",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Ranged. Roll 1 Chance Dice to Apply Burn to the Foe. -1 Accuracy.",
+  "description": "The Pokemon lights a heavy stone on fire and kicks it while it's ablaze. The hit is pretty heavy already, the fire is just for showing off.",
+  "category": "Physical"
+}

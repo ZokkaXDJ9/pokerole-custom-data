@@ -1,0 +1,6 @@
+{
+  "name": "Red Card",
+  "description": "When the Pokemon is hit with a damaging move, the attacker switches out immediately with a backup mon of the the User's choice. If the foe has no backup, they instead become Blocked. This effect may only be used once per battle",
+  "category": "HeldItem",
+  "single_use": false
+}

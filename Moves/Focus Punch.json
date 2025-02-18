@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Fist Based. Charge Move. The attack will fail if the user gets hit before releasing this attack.",
-  "description": "A brutal punch that requires calm and concentration",
+  "effect": "Priority 6. Fist Based. At the start of the round, the user starts charging. At the end of the round, the move is unleashed. If the user received damage at any point during the round, this move fails",
+  "description": "A brutal punch that requires the user's pure focus. A strike of any kind may result in panic",
   "category": "Physical"
 }

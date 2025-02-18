@@ -1,0 +1,11 @@
+{
+  "name": "Pollen Puff",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "When this move is used against an ally it will heal 1 HP instead of dealing damage. The user may spend 1 will to increase the healing by 4. Only applies the healing under stress.",
+  "description": "The Pokemon creates a puff of pollen that explodes on the foe's face and gives them a terrible allergy. When consumed these puffs are sweet and very nutritious.",
+  "category": "Special"
+}

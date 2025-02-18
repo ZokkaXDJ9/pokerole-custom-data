@@ -1,0 +1,11 @@
+{
+  "name": "Rage Powder",
+  "type": "Bug",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Priority 2. During this Round, all damage moves from any foe must target the User. Moves used by Grass types may ignore this redirection.",
+  "description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
+  "category": "Support"
+}

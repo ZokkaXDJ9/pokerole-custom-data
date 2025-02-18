@@ -1,7 +1,7 @@
 {
-    "name": "Blocked",
-    "description": "You're blocked in, movement is getting harder!",
-    "resist": "Can't be resisted.",
-    "effect": "Blocked subjects suffer from -1 evasion. Additionally, subjects are incapable of escaping battle or switching out with backup members.",
-    "duration": "1 scene. Can not be removed by Lum Berry. This does not count as a traditional status with regards to items, moves and abilities."
+  "name": "Blocked",
+  "description": "You're blocked in, movement is getting harder!",
+  "resist": "Can't be resisted.",
+  "effect": "Blocked subjects suffer from -1 evasion and are unable to use the Dodge action by any means. Additionally, subjects are incapable of escaping battle or switching out with backup members.",
+  "duration": "1 scene. Cannot be removed by Lum Berry. This does not count as a traditional status with regards to items, moves and abilities."
 }

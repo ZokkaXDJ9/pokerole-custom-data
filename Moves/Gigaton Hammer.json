@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Strength",
   "target": "Foe",
-  "effect": "The User may not use this move again, until they use another move. Inflicts Wounds.",
+  "effect": "Ranged. The User may not use this move again, until they use another move. Inflicts Wounds.",
   "description": "The Pokémon swings its whole body around to attack with its huge hammer, dealing an absolutely crushing blow to its opponent. It's quite a struggle to pick it back up, though.",
   "category": "Physical"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Icicle Crash",
+  "type": "Ice",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Roll 3 Chance Dice to Flinch the Foe. -1 Accuracy.",
+  "description": "The user drops a big icicle over the foe, the impact may leave the opponent dazed.",
+  "category": "Physical"
+}

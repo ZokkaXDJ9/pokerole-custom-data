@@ -1,0 +1,6 @@
+{
+  "name": "Blunder Policy",
+  "description": "Raises Dexterity by 2 when the Holder misses or fails to do damage with an Attack.",
+  "category": "HeldItem",
+  "single_use": false
+}

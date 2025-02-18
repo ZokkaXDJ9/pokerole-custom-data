@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Insight",
   "target": "Foe",
-  "effect": "Sound based. Ignores substitute. The target is prevented from recovering HP for 2 rounds.",
+  "effect": "Sound Based. The target is prevented from recovering HP for 2 rounds.",
   "description": "The user interferes the target's psyche with an intense sound that projects directly into their head.",
   "category": "Special"
 }

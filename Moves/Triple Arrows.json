@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Inflicts Wounds. High Critical. Roll 5 chance dice to decrease the foe's Defense by 1. Roll 3 chance dice to flinch the foe.",
+  "effect": "Ranged. Inflicts Wounds. High Critical. Roll 5 chance dice to decrease the foe's Defense by 1. Roll 3 chance dice to flinch the foe.",
   "description": "Using the foe as a kickstand, the user backflips, before firing three arrows down upon their enemy. Each arrow is accurately aimed to inhibit the foe as much as possible.",
   "category": "Physical"
 }

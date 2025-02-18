@@ -1,11 +1,11 @@
 {
-    "name": "Powder",
-    "type": "Bug",
-    "power": 0,
-    "damage": "",
-    "accuracy": "Insight",
-    "target": "Foe",
-    "effect": "Reaction. This move is used in reaction to a Fire-type attacking move. Redirect the move used back at the user as a Typeless variant with no secondary effect.",
-    "description": "The foe is fully covered with a flammable powder, a source of fire might ignite it with explosive results.",
-    "category": "Support"
-  }
+  "name": "Powder",
+  "type": "Bug",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Reaction. This move is used in reaction to a Fire-type attacking move. Redirect the move used back at the user as a Typeless variant with no secondary effect. Has no effect on Grass types.",
+  "description": "The foe is fully covered with a flammable powder, a source of fire might ignite it with explosive results.",
+  "category": "Support"
+}

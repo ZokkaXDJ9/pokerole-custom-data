@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds.",
+  "effect": "Makes contact. Blocks. Deal 1 Damage at the end of each Round. Lasts 4 Rounds.",
   "description": "The Pokemon summons a huge swarm of bugs to prevent the foe from escaping. Sometimes the swarm may take a hit to the foe. The call extends for hundreds of yards.",
   "category": "Special"
 }

@@ -1,0 +1,6 @@
+{
+  "name": "Eject Pack",
+  "description": "When the Pokemon's stats are reduced, it switches out immediately (As if they performed a Switcher Move) Evasion gained by this item does not expire after the user's next turn. This effect may only be used once per battle",
+  "category": "HeldItem",
+  "single_use": false
+}

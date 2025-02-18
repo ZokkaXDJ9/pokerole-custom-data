@@ -1,0 +1,11 @@
+{
+  "name": "Poison Powder",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Poison the Foe. Has no effect on Grass types. -2 Accuracy.",
+  "description": "The user scatters a small cloud of venomous dust that immediately causes coughing and fever.",
+  "category": "Support"
+}

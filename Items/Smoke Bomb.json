@@ -1,0 +1,6 @@
+{
+  "name": "Smoke Bomb",
+  "description": "When a Pokemon throws this item, it switches out immediately (As if they performed a Switcher Move) Evasion gained by this item does not expire after the user's next turn",
+  "category": "BattleItem",
+  "single_use": true
+}

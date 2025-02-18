@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "This Move can only deal damage if the Foe has dealt Damage to the User this Round. Deal the same damage dealt to the user +2, ignoring Defenses. Can not be used if you called Reaction or Stalled this round.",
+  "effect": "Ranged. This Move can only deal damage if the Foe has dealt Damage to the User this Round. Deal the same damage dealt to the user +2, ignoring Defenses. Can not be used if you called Reaction or Stalled this round.",
   "description": "After receiving damage, the user bursts the tiny but sharp metal piece that came loose because of the foe's attack. The greater the impact the more metal it will shoot.",
   "category": "Physical"
 }

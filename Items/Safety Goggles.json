@@ -1,6 +1,6 @@
 {
   "name": "Safety Goggles",
-  "description": "The holder is immune to weather damage from Hail, Sandstorm, Locust Swarm and Thunderstorm. Powder Moves also have no effect on the holder. These include Cotton Spore, Magic Powder, Poison Powder, Powder, Rage Powder, Sleep Powder, Spore and Stun Spore.",
+  "description": "The holder is immune to weather damage from Hail, Sandstorm, Locust Swarm and Thunderstorm. Powder Moves also have no effect on the holder. These include Cotton Spore, Magic Powder, Poison Powder, Powder, Rage Powder, Sleep Powder, Spore and Stun Spore. The holder also cannot be affected by the Ability Effect Spore.",
   "category": "HeldItem",
   "single_use": false
 }

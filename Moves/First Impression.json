@@ -1,0 +1,11 @@
+{
+  "name": "First Impression",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Priority 2. This move may only be declared if the User has not taken a prior action or has used an Alternative Action (including Dodges granted by evasion) on the previous round",
+  "description": "The Pokemon makes a dramatic entrance to the battlefield, taking the foe by surprise as to who its opponent really is.",
+  "category": "Physical"
+}

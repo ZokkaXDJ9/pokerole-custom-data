@@ -1,0 +1,11 @@
+{
+  "name": "Self Destruct",
+  "type": "Normal",
+  "power": 8,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Area",
+  "effect": "Ranged. After performing the move, the user receives damage equal to its remaining HP.",
+  "description": "The Pokemon makes use of its ability to blow up parts of its own body in an impressive display of power.",
+  "category": "Physical"
+}

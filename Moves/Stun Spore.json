@@ -1,0 +1,11 @@
+{
+  "name": "Stun Spore",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Paralyze the Foe. Has no effect on Grass types. -2 Accuracy.",
+  "description": "A blow of dust that paralyzes the target on the spot and cramps its muscles.",
+  "category": "Support"
+}

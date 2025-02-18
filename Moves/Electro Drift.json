@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "If this move is super effective on the target, add 2 dice to the damage roll, in addition to the normal super effective damage. Inflicts Wounds.",
+  "effect": "Makes contact. If this move is super effective on the target, add 2 dice to the damage roll, in addition to the normal super effective damage. Inflicts Wounds.",
   "description": "The Pokémon races forward at ultrafast speeds, piercing its target with futuristic electricity. This electricty hurts certain pokemon much more than usual.",
   "category": "Special"
 }

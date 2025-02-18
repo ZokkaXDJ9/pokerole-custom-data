@@ -1,0 +1,11 @@
+{
+  "name": "Magnetic Flux",
+  "type": "Electric",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User and Allies",
+  "effect": " Increase the Defense and Sp. Defense of the User and its Allies. This boost only applies to targets that have either Steel or Electric typing.",
+  "description": "The Pokemon bends the magnetic field around itself, this also affects all allies who are sensible to it.",
+  "category": "Support"
+}

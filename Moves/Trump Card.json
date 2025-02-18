@@ -1,11 +1,11 @@
 {
-    "name": "Trump Card",
-    "type": "Normal",
-    "power": 2,
-    "damage": "Special",
-    "accuracy": "Will",
-    "target": "Foe",
-    "effect": "If the user's Will is half spent, add 1 Dice to the Damage Roll. If the User's Will is at 1, add +8 to the Damage Pool.",
-    "description": "The more exhausted the user is, the stronger this attack will become. When the Pokemon is at the last of its strength this move can be devastating.",
-    "category": "Special"
+  "name": "Trump Card",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Makes contact. If the user's Will is half spent, add 1 Dice to the Damage Roll. If the User's Will is at 1, add +8 to the Damage Pool.",
+  "description": "The more exhausted the user is, the stronger this attack will become. When the Pokemon is at the last of its strength this move can be devastating.",
+  "category": "Special"
 }

@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Deals 2 dice of damage to the inflicted pokemon at the end of the round. If the target is Water or Steel type, it deals 4 dice of damage instead. Lasts 4 rounds.",
+  "effect": "Ranged. Deals 1 of damage to the inflicted pokemon at the end of the round. If the target is Water or Steel type, it deals 2 of damage instead. Lasts 4 rounds.",
   "description": "The user throws some salt into the pokemon's wounds, aiming to make their injuries hurt more.",
   "category": "Physical"
 }

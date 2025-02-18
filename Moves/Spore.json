@@ -1,0 +1,11 @@
+{
+  "name": "Spore",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Makes the Target drowsy. Has no effect on Grass types.",
+  "description": "A powerful somniferous spore that is shot at the target to make it fall asleep.",
+  "category": "Support"
+}

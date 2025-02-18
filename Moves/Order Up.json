@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "If the user is Dondozo, and has a Tatsugiri in its mouth, the user gains a stat boost depending on the Tatsugiri's form. Curly form increases the user's Strength by 1, Droopy form increases the user's Defense by 1, and Stretchy form increases the User's Dexterity by 1.",
+  "effect": "Ranged. If the user is Dondozo, and has a Tatsugiri in its mouth, the user gains a stat boost depending on the Tatsugiri's form. Curly form increases the user's Strength by 1, Droopy form increases the user's Defense by 1, and Stretchy form increases the User's Dexterity by 1.",
   "description": "The Pokémon attacks with elegant poise. If it has an ally within its mouth, it uses some of said ally's power to bolster its own.",
   "category": "Physical"
 }

@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Inflicts Wounds. High Critical. Deals 2 dice of damage to the foe at the end of each round. Lasts 4 rounds.",
+  "effect": "High Critical. Inflicts Wounds. Deal 1 damage to the foe at the end of each round. Lasts 4 rounds.",
   "description": "The user strikes the opponent with a rock-coated limb, aiming to bury rocky splinters into their skin.",
   "category": "Physical"
 }

@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Clever",
   "target": "Area",
-  "effect": "The affected pokémons held items are corroded beyond use and must be repaired. Moves and abilities to recover items don't work on corroded items. Some items can't be corroded.",
-  "description": "The Pokémon fills the area with a highly corrosive gas that quickly eats away at anything the pokémon in the area are holding, rendering all effected items useless.",
+  "effect": "The affected pokémon cannot use their held item or items from their bag (if applicable). Z-Crystals and Mega Stones are unaffected. Lasts 4 rounds",
+  "description": "The Pokémon fills the area with a highly corrosive gas that quickly eats away at anything the pokémon in the area are holding, rendering all effected items useless",
   "category": "Support"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Petal Dance",
+  "type": "Grass",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Random Foe",
+  "effect": "Makes contact. Rampage",
+  "description": "The Pokemon starts swirling petals around in a true display of nature's power, the petals are guided by the wind to strike the foe.",
+  "category": "Special"
+}

@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Insight",
   "target": "User and Allies",
-  "effect": "Reaction. Shield Move. The User and its Allies are protected from the effects of a Support Move. Shield.",
+  "effect": "Reaction. Shield Move. The User and its Allies are protected from the effects of a Support Move. The opposing Pokemon that triggered crafty shield receives +1 minimum damage until end of round, to a minimum of 1. (This effect supersedes ineffectiveness and any other augmentations to minimum damage. This effect does not impact the base damage that the pokemon receives)",
   "description": "The Pokemon creates a magic shield to protect everyone from the bad tricks a foe might have under its sleeve. Under this shield, everyone can see dishonesty and bad intentions.",
   "category": "Support"
 }

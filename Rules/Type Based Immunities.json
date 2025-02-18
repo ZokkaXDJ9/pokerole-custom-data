@@ -1,0 +1,6 @@
+{
+  "name": "Type Based Immunities",
+  "flavor": "Different strokes ~~are better for taking out~~ different folks!",
+  "text": "- Fire Types are immune to the Burn Status.\n- Ice Types are immune to the Frostbite Status.\n- Electric Types are immune to the Paralysis Status.\n- Poison Types are immune to the Poisoned and Badly Poisoned Statuses.\n- Steel Types are immune to the Poisoned and Badly Poisoned Statuses.\n- Ghost Types are immune to the Blocked Status.\n- Flying Types and Pokemon with the ability levitate are unaffected by Terrain, and Hazard moves (such as Spikes and Sticky Web) except for Stealth Rock.\n- Dark Types are immune to Support moves used by foes benefitting from the Prankster Ability.\n- Grass Types are unaffected by moves that contain the word 'Powder' or 'Spore', as well as the Ability Effect Spore.",
+  "example": ""
+}
