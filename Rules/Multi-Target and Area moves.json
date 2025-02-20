@@ -1,6 +1,0 @@
-{
-  "name": "Multi-Target and Area moves",
-  "flavor": "Watch out, it's the 'Oops, I Did It Everywhere' attack!",
-  "text": "- Moves targeting **All Foes**: Declare the order in which your character focuses on enemies\n- Moves targeting **Area**: Use `/select_random` to determine the order in which combatants are hit; these moves target everyone except the user\n- Only the first target can receive a critical hit, and for each successive target, reduce the damage die count by 1\n- There is no target limit",
-  "example": ""
-}
