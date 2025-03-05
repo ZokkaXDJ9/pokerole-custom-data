@@ -1,0 +1,5 @@
+{
+  "name": "Quick Feet",
+  "description": "Most of the time this Pokemon will seem to be in a hurry. When Pressured it will move faster than normal.",
+  "effect": "While affected by a Status Condition, Increase 2 Points to this Pokemon's Dexterity Attribute. This Pokemon's Initiative isn't affected by Paralysis."
+}
