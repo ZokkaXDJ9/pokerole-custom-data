@@ -1,6 +1,6 @@
 {
   "name": "Rocky Helmet",
-  "description": "Deal 1 damage against a foe who has hit you with a non-ranged physical move.",
+  "description": "Whenever a foe makes contact with the User, they take 1 damage.",
   "category": "HeldItem",
   "single_use": false
 }

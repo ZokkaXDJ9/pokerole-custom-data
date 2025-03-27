@@ -1,0 +1,5 @@
+{
+  "name": "Friend Guard",
+  "description": "This Pokemon is adorable and wakes the parental instincts in others. Allies will seek to protect them at all times.",
+  "effect": "The User's allies take 1 less damage from attacking moves (before minimum damage is applied)."
+}

@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Ranged. Priority 2. This move ignores any shielding move.",
+  "effect": "Ranged. Priority 2. This move ignores Redirection and Shield Moves. Affected targets cannot use Shield Moves for the rest of the round.",
   "description": "The Pokemon feints a strike then hits for real even if the foe attempts to protect itself.",
   "category": "Physical"
 }

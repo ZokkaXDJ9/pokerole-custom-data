@@ -1,5 +1,5 @@
 {
   "name": "Lingering Aroma",
   "description": "The pungent scent of this pokemon is too strong to ignore, even at a mere touch!",
-  "effect": "When this Pokemon hits or gets hit with a Non-Ranged Physical Attack, the foe's ability (if applicable) is changed to Lingering Aroma."
+  "effect": "Whenever a foe makes contact with this pokemon, change their ability to Lingering Aroma. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard etc.) can't be switched at Storyteller's discretion."
 }

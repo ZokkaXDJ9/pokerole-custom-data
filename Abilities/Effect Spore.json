@@ -1,0 +1,5 @@
+{
+  "name": "Effect Spore",
+  "description": "When stressed, this Pokemon will leak spores through its body that scatter in the air causing severe allergies.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, roll 3 Chance Dice to Poison, Paralyze or inflict the Drowsy condition on the foe at random."
+}

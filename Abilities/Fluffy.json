@@ -1,0 +1,5 @@
+{
+  "name": "Fluffy",
+  "description": "This Pokemon's fur is so fluffy you could die. So soft and snuggly that it invites you to hug it. Tumble dry with no heat, do not iron.",
+  "effect": "This pokemon receives 1 less damage from contact attacks. This reduction does not impact minimum damage. All Fire type attacks deal 1 additional damage to this pokemon, after damage calculation."
+}

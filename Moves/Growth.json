@@ -1,0 +1,11 @@
+{
+  "name": "Growth",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "Increases the User's Strength and Special by 1. If Sunny Weather is in effect, the User's Strength and Special are instead increased by 2.",
+  "description": "The pokemon expands it's body. It grows bigger and stronger",
+  "category": "Support"
+}

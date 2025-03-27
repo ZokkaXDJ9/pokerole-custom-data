@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Insight",
-  "target": "Foe",
-  "effect": "Priority 2. During this Round, all damage moves from any foe must target the User. Moves used by Grass types may ignore this redirection.",
+  "target": "User",
+  "effect": "Priority 2. During this Round, all damaging moves from any foe must target the User. If a foe uses a move with All Foes or Area targeting the User becomes the primary target for damage calculation. Moves used by Grass types may ignore redirection from this move.",
   "description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
   "category": "Support"
 }

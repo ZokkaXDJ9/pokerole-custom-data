@@ -1,5 +1,5 @@
 {
   "name": "Tough Claws",
   "description": "This Pokemon's claws are so sturdy, they can tear through almost anything.",
-  "effect": "Whenever this Pokemon uses a Non-Ranged Physical Attack, Add 1 Damage."
+  "effect": "Whenever this Pokemon uses a contact attack, Add 1 Damage."
 }

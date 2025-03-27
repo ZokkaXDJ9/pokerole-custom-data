@@ -1,0 +1,5 @@
+{
+  "name": "Poison Touch",
+  "description": "Venomous substances will ooze through the body of this Pokemon, you'll become very sick if it touches you.",
+  "effect": "If this Pokemon makes contact with a foe with an attack, roll 3 Chance Dice to Poison the foe."
+}

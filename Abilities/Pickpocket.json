@@ -1,5 +1,5 @@
 {
   "name": "Pickpocket",
   "description": "The Pokemon will instinctively steal from others. It takes whatever it can when people are not looking.",
-  "effect": "If this Pokemon is not holding an Item it will steal the held Item of a foe that hits it with a Non-Ranged Physical Attack. "
+  "effect": "If this Pokemon is not holding an Item it will steal the held Item of a foe that hits it with a contact attack."
 }

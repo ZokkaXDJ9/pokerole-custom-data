@@ -1,0 +1,5 @@
+{
+  "name": "Flame Body",
+  "description": "This Pokemon can willingly ignite its body on fire, receiving no harm from it. Objects that come into contact with this Pokemon may catch fire.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, roll 3 Chance Dice to Burn the foe."
+}

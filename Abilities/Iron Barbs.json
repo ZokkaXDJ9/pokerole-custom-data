@@ -1,0 +1,5 @@
+{
+  "name": "Iron Barbs",
+  "description": "This Pokemon is covered with sharp steel quills that hurt anyone who may touch them carelessly.",
+  "effect": "Whenever a foe makes contact with this pokemon, they take 1 damage."
+}

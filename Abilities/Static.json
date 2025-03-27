@@ -1,0 +1,5 @@
+{
+  "name": "Static",
+  "description": "This Pokemon's body is always ready to let off a jolt of static electricity at the slightest touch.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, roll 3 Chance Dice to Paralyze the foe."
+}

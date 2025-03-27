@@ -1,0 +1,5 @@
+{
+  "name": "Gooey",
+  "description": "This Pokemon's sticky ooze will rub into anyone that touches it. This may become quite a burden. On the bright side, it is a natural and organic glue.",
+  "effect": "The first time a foe makes contact with this Pokemon, reduce 1 Point to its Dexterity Attribute."
+}

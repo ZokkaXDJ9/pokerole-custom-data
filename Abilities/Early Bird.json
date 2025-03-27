@@ -1,0 +1,5 @@
+{
+  "name": "Early Bird",
+  "description": "This Pokémon us a light sleeper that will easily rise from slumber. They feel energized even with only a few hours of sleep.",
+  "effect": "This pokemon may use their bonus action for the round to cure themself of the Drowsy status, or to ignore the 'Sleeping' turn from the move Rest. "
+}

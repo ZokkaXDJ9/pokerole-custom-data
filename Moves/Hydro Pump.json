@@ -1,0 +1,11 @@
+{
+  "name": "Hydro Pump",
+  "type": "Water",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. -2 Accuracy",
+  "description": "The user builds up pressure inside its body and then releases a tremendous amount of water at the target.",
+  "category": "Special"
+}

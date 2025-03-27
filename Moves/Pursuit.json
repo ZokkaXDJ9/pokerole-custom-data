@@ -1,0 +1,11 @@
+{
+  "name": "Pursuit",
+  "type": "Dark",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the target has a boost to their Evasion or Dodged this round, Add 2 Dice to the Damage Pool and Never Miss. ",
+  "description": "The Pokemon chases the foe to deliver a final blow before it escapes.",
+  "category": "Physical"
+}

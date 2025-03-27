@@ -1,0 +1,5 @@
+{
+  "name": "Battle Bond",
+  "description": "The Pokemon forges a strong bond with those who face the fiercest battles. After a victory, a surge of power surfaces thanks to their friendship.",
+  "effect": "If a foe faints because of an attack dealt by this Pokemon, the User may Increase 1 Point to its Strength, Dexterity or Special Attribute. Each option may only be chosen once, and these stat increases persist between scenes."
+}

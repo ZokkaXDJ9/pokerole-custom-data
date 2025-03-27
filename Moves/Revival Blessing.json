@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Will",
   "target": "Ally",
-  "effect": "User targets a fainted ally, if successful, they're brought back with 50% HP (rounded up). If successful, spend 3 Will points to activate. Can only be successfully used once per Battle. The initiative of the revived ally is equal to their dexterity, if they haven't acted this round yet.",
-  "description": "The Pokémon bestows a loving blessing, reviving a party Pokémon that has fainted. This leaves it feeling pensive and drained for quite awhile.",
+  "effect": "User targets a fainted ally, if successful, the user spends 3 Will points and the target is brought back with 50% HP (rounded up). Can only be successfully used once per Battle. The target acts immediately after the user if their place in initiative has passed in the current round.",
+  "description": "The Pokemon bestows a loving blessing, reviving a party Pokemon that has fainted. This leaves it feeling pensive and drained for quite awhile.",
   "category": "Support"
 }

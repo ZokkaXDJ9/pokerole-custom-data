@@ -1,0 +1,5 @@
+{
+  "name": "Poison Point",
+  "description": "The point thorns and scales on this Pokemon releases poison that will infect anyone who touches them roughly. Wear gloves when handling them.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, roll 3 Chance Dice to Poison the foe."
+}
