@@ -1,0 +1,11 @@
+{
+  "name": "Psychic",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Reduce the foe's Sp. Defense.",
+  "description": "The user's telekinetic force is enough to cause severe harm to their target. This telekinesis is not subtle.",
+  "category": "Special"
+}

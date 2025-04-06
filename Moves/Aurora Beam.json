@@ -1,0 +1,11 @@
+{
+  "name": "Aurora Beam",
+  "type": "Ice",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Reduce foe's Strength. If Hail/Snow Weather is active Reduce the foe's Strength (without rolling the Chance Dice).",
+  "description": "The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.",
+  "category": "Special"
+}

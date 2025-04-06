@@ -1,0 +1,11 @@
+{
+  "name": "Will-O-Wisp",
+  "type": "Fire",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Burn the Foe. -2 Accuracy. If Sunny Weather is active ignore this move's reduced Accuracy.",
+  "description": "The user calls a floating ember to consume the foe.",
+  "category": "Support"
+}

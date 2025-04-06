@@ -1,0 +1,11 @@
+{
+  "name": "Hone Claws",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Increase the User's Strength and Accuracy. For the rest of the scene while Unnatural Darkness Weather is active, the User may declare/use it's Dark Type moves with Priority 2.",
+  "description": "The Pokemon sharpens its claws to perform more precise attacks.",
+  "category": "Support"
+}

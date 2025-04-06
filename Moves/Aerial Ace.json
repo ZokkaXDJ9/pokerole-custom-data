@@ -1,0 +1,11 @@
+{
+  "name": "Aerial Ace",
+  "type": "Flying",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Never Fail. If Strong Winds Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon rises up in the air towards a light source, momentarily blinding the foe, then plummets quickly to attack the opponent.",
+  "category": "Physical"
+}

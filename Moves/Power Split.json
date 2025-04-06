@@ -1,0 +1,11 @@
+{
+  "name": "Power Split",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Ally",
+  "effect": "Average the User's Strength and Special with the target.",
+  "description": "The user employs its psychic power to average its capabilities with the foe. They both feel like they're equals in terms of strength.",
+  "category": "Support"
+}

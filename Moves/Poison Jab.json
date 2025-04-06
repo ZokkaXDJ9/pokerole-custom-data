@@ -1,0 +1,11 @@
+{
+  "name": "Poison Jab",
+  "type": "Poison",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Poison the Foe. If Pollution Weather is active instead inflict Badly Poisoned on a successful Chance Dice.",
+  "description": "The Pokemon stabs its foe with a sting or tentacle drenched with venom.",
+  "category": "Physical"
+}

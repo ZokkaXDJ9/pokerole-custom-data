@@ -1,0 +1,11 @@
+{
+  "name": "Signal Beam",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Confuse the foe. If Locust Swarm Weather is active reduce the Foe's Special Defense.",
+  "description": "The user emits an intense light that harms the foes and may leave them dazed like moths.",
+  "category": "Special"
+}

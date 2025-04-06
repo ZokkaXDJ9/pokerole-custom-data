@@ -4,8 +4,8 @@
   "power": 0,
   "damage": "",
   "accuracy": "Insight",
-  "target": "Self",
-  "effect": "The user swaps its Strength and Vitality stat. The user swaps its Special and Insight stat. Their HP and moves remain unchanged.",
+  "target": "User",
+  "effect": "Switch the User's Strength with its Vitality and the User's Special with its Insight. HP, Will and Active moves are unaffected.",
   "description": "Focusing in on their own body, the user suddenly switches their specialization.",
   "category": "Support"
 }

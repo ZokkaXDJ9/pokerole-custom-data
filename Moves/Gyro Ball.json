@@ -1,0 +1,11 @@
+{
+  "name": "Gyro Ball",
+  "type": "Steel",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Add 1 Extra Dice to the Damage pool for every point of Initiative the Foe has that surpasses the user's. Up to 5 Dice may be added.",
+  "description": "The user curls up in a ball and spins against the target at a high speed.",
+  "category": "Physical"
+}

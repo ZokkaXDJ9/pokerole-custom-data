@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Punch",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Roll 3 Chance Dice to Paralyze the foe.",
+  "description": "An Electrified punch to deal a shocking blow.",
+  "category": "Physical"
+}

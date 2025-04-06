@@ -1,0 +1,11 @@
+{
+  "name": "Snatch",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "Foe",
+  "effect": "Reaction. Redirect the effects of one beneficial Support Move that would affect the instigating foe or one or more of their Allies/their side of the battlefield, towards the User/the User's side of the battlefield respectively (ie. The foe used Reflect, with Snatch it will now affect the User's side of the battlefield instead of the target's).",
+  "description": "The user analyzes the advantages of the foe then makes them their own.",
+  "category": "Support"
+}

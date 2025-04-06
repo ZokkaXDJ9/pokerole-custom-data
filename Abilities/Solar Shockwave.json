@@ -1,0 +1,5 @@
+{
+  "name": "Solar Shockwave",
+  "description": "This pokemon can release a shockwave to disturb the nearby magnetic fields",
+  "effect": "This pokemon can start Ferromagnetic Storm Weather at the start of a round once per battle. The effects end when the Pokemon leaves the battle. (In case of stalemate, the Pokemon with higher Will might keep the dominant weather)"
+}

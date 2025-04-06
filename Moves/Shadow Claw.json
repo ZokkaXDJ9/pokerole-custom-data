@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Claw",
+  "type": "Ghost",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds. If Eerie Fog Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "Claws become semi-ethereal and are able to briefly pierce armor, hide, skin, and objects so it can strike the target on any weak spot.",
+  "category": "Physical"
+}

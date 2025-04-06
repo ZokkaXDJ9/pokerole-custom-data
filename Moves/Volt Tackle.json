@@ -1,0 +1,11 @@
+{
+  "name": "Volt Tackle",
+  "type": "Electric",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Recoil. Roll 3 Chance Dice to Paralyze the Foe. Cures the User of the Drowsy status.",
+  "description": "The user surrounds itself with big bolts of electricity, then it crashes against the foe.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wild Charge",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Recoil. Roll 3 Chance Dice to Paralyze the Foe. Cures the User of the Drowsy status. If Thunderstorm Weather is active this move may be declared/used as if it had Priority 2.",
+  "description": "The Pokemon surrounds itself with wild botls of lightning, then tackles recklessly.",
+  "category": "Physical"
+}

@@ -1,5 +1,5 @@
 {
   "name": "Shell Armor",
   "description": "This Pokemon's shell protects its vulnerable spots from its opponents.",
-  "effect": "If a Foe lands a Critical Hit on this Pokemon, it will not receive the 1.5 damage multiplier to damage."
+  "effect": "If a Foe lands a Critical Hit on the User, it will not receive a damage multiplier. If the Foe has a raised damage multiplier, instead resolve the damage with the normal multiplier for a Critical Hit."
 }

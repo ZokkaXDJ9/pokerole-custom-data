@@ -1,0 +1,11 @@
+{
+  "name": "Extrasensory",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 1 Chance Dice to Flinch the foe. If Cosmic Rays Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The user attacks with an odd, almost invisible power.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Electro Ball",
+  "type": "Electric",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "The user adds 1 Extra Dice to the Damage Pool for every point of Initiative the User has that surpasses the foe's. Up to 4 Dice may be added.",
+  "description": "The Pokemon creates a small electricity orb that is hurled at the target. If the user is faster, the impact will be bigger.",
+  "category": "Special"
+}

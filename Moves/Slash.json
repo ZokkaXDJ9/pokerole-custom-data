@@ -1,0 +1,11 @@
+{
+  "name": "Slash",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds. If Overcast Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "Using parts of its body as a blade the Pokemon pierces and tears the foe with a vicious force.",
+  "category": "Physical"
+}

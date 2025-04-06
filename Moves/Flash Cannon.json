@@ -1,0 +1,11 @@
+{
+  "name": "Flash Cannon",
+  "type": "Steel",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Reduce the foe's Sp. Defense.",
+  "description": "The Pokemon absorbs the reflecting light on its body, releasing a powerful beam against the foe.",
+  "category": "Special"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Drought",
+  "description": "The Sunlight will be harsly bright, and the heat will increase in the field for as long as this Pokemon wants to.",
+  "effect": "This Pokemon can start Sunny Weather at the start of the Round, once per battle. The effects end when the User faints, or leaves the battle. (In case of stalemate, the Pokemon with higher Will might keep the dominant weather)"
+}

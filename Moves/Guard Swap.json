@@ -1,0 +1,11 @@
+{
+  "name": "Guard Swap",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User and Allies",
+  "effect": "The User selects two allies (or themselves and one ally) swap their Defense and Sp. Defense, including stat changes.",
+  "description": "The Pokemon employs its psychic power to make the opponent feel like its got your fraily and make the user ffeel like it got the target's resilience.",
+  "category": "Support"
+}

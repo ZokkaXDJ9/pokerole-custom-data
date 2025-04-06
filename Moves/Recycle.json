@@ -1,0 +1,11 @@
+{
+  "name": "Recycle",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Activate the effect of any regular consumable item that has been used this scene. You determine the target of the item. Each individual item can only be recycled once. (ex: If an ally consumes a reviver seed and the Recycle User copies it, another ally can be revived and Recycle will be unable to use reviver seed for the rest of combat.)",
+  "description": "One Pokemon's trash is another one's treasure.",
+  "category": "Support"
+}

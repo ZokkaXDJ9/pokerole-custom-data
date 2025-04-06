@@ -1,0 +1,11 @@
+{
+  "name": "Avalanche",
+  "type": "Ice",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Low Priority 4. If the user received damage from the target this Round, Add 3 Extra Dice to the Damage Pool. If Hail/Snow Weather is active add 3 flat Damage instead.",
+  "description": "The user builds up a lot of snow around itself. If anything disturbs the snow, it will fall on the attacker like an avalanche.",
+  "category": "Physical"
+}

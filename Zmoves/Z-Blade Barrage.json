@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Blade Barrage",
+  "Type": "Fire",
+  "Power": 4,
+  "Damage1": "",
+  "Damage2": "Special",
+  "Accuracy1": "Will",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Double Action. Inflicts Wounds. If the Foe had their stats increased between their last action and this attack, this Move inflicts Burn. Increase the User‘s Dexterity by 1.",
+  "Description": "Erin compresses his burning emotions into two fans of flaming daggers, flinging them at the opponent.",
+  "_id": "",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Special"
+}

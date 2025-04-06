@@ -1,6 +1,6 @@
 {
   "name": "Choice Specs",
-  "description": "Increases the Special by 2 but the Pokemon loses 2 move slots.",
+  "description": "Increase the base Special of the User by 2. The User can use 2 fewer Active Moves (defaulting to the 2 bottom-most moves on their active move list). If the item is removed, the move restriction effect persists for 4 Rounds.",
   "category": "HeldItem",
   "single_use": false
 }

@@ -1,0 +1,5 @@
+{
+  "name": "Drizzle",
+  "description": "When this pokemon appears, dark clouds are conjured into the sky and it starts to rain heavily.",
+  "effect": "This Pokemon can start Rain Weather at the start of the Round, once per battle. The effects end when the User faints, or leaves the battle. (In case of stalemate, the Pokemon with higher Will might keep the dominant weather)"
+}

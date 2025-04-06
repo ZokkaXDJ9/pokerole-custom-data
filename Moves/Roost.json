@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Insight",
   "target": "Self",
-  "effect": "Basic Heal. The user loses the flying type for the remainder of the round. If successful, spend 1 Will to activate.",
+  "effect": "Heal 5HP. The User loses the flying type for the remainder of the round unless Strong Winds Weather is active. If successful, spend 1 Will to activate.",
   "description": "The pokemon lands on the ground to relax.",
   "category": "Support"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Cross Poison",
+  "type": "Poison",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Roll 2 Chance Dice to Poison the foe.",
+  "description": "The Pokemon drenches poison into its pincers to slash the enemy in a brutal way.",
+  "category": "Physical"
+}

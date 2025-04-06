@@ -1,0 +1,11 @@
+{
+  "name": "Flare Blitz",
+  "type": "Fire",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Recoil. Roll 2 Chance Dice to Apply Burn to the foe. Cures the User of the Frostbite status.",
+  "description": "The user sets itself on fire, recklessly charging against the target with a brutal strike.",
+  "category": "Physical"
+}

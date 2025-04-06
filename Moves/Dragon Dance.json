@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Dance",
+  "type": "Dragon",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "User",
+  "effect": "Increase the User's Strength and Dexterity. For the rest of the scene while Arcane Domain Weather is active, the User may declare/use it's Dragon Type moves with Priority 2.",
+  "description": "The user performs a vigorous and mystical dance that boosts the fighting spirit and reflexes.",
+  "category": "Support"
+}

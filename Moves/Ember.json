@@ -1,0 +1,11 @@
+{
+  "name": "Ember",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Burn the foe.",
+  "description": "The user shoots a small flame against the target that may cause a first-degree burn.",
+  "category": "Special"
+}

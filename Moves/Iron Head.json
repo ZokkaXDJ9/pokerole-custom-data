@@ -1,0 +1,11 @@
+{
+  "name": "Iron Head",
+  "type": "Steel",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Flinch the Foe. If Ferromagnetic Storm Weather is active increase the User's Defense.",
+  "description": "The Pokemon charges at the foe with a brutal headbutt that may leave the target knocked down on the ground.",
+  "category": "Physical"
+}

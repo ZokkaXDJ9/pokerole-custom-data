@@ -1,0 +1,11 @@
+{
+  "name": "Moonblast",
+  "type": "Fairy",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Reduce foe's Special. If Fairy Dust Weather is active roll 1 Chance die to inflict the Foe with a random status from Poison, Burn, Frostbite or Paralysis (e.g. by using the /select_random command).",
+  "description": "Summon power directly from the moon. The Pokemon blasts the foe with light.",
+  "category": "Special"
+}

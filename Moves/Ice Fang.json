@@ -5,7 +5,7 @@
   "damage": "Strength",
   "accuracy": "Dexterity",
   "target": "Foe",
-  "effect": "Roll 1 Chance Dice to Flinch the foe. Roll 1 Chance Dice to Frostbite the foe. -1 Accuracy.",
+  "effect": "Roll 3 Chance Dice to Flinch or inflict Frostbite to the foe at random using the `/select_random` command. -1 Accuracy.",
   "description": "The user bites the foe and releases a gelid breath through its mouth.",
   "category": "Physical"
 }

@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Sky-High Superslam Kick",
+  "Type": "Fighting",
+  "Power": 12,
+  "Damage1": "",
+  "Damage2": "Strength",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "Increase the User's Strength by 1. -2 Accuracy.",
+  "Description": "Mia jumps high in the air, and focuses her aura into her legs before careening down with a brutal kick.",
+  "_id": "High Jump Kick",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Physical"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Z-Psychic Examination",
+  "Type": "Psychic",
+  "Power": 0,
+  "Damage1": "",
+  "Damage2": "Special",
+  "Accuracy1": "Dexterity",
+  "Accuracy2": "Rank",
+  "Target": "Foe",
+  "Effect": "This Move is resisted with the Foe's Defense instead of its Sp. Defense. The User gains High Critical when targeting the foe. Deal 2 Damage at the end of each Round for 4 Rounds.",
+  "Description": "Silvius materialises tools for a very thorough and rushed investigation of the foe's body for his Pokemon Index. He learns their weak spots in the qutie painful process.",
+  "_id": "Psyshock",
+  "Attributes": {},
+  "AddedEffects": {},
+  "Category": "Special"
+}

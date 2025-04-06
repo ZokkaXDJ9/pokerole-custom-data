@@ -1,5 +1,5 @@
 {
   "name": "Duststorm",
   "description": "A dust devil is sending fine debris and dirt everywhere, blotting out the sky.",
-  "effect": "- Add 1 flat damage to Rock Type attacks.\n- Rock types gain +1 Defense."
+  "effect": "- Counts as active Sandstorm Weather for moves and abilities.\n-Add 1 flat damage to Rock Type attacks.\n- Rock types gain +1 Defense."
 }

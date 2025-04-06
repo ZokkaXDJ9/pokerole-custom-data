@@ -1,0 +1,11 @@
+{
+  "name": "Magnitude",
+  "type": "Ground",
+  "power": 0,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Ranged. Roll 1 Die to determine this Move's Power. Roll 2 Dice and use the higher result, if Quaking Ground Weather is active.",
+  "description": "The user quakes the ground plates. Some plates will move easier than others.",
+  "category": "Physical"
+}

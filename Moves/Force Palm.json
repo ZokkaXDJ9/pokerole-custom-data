@@ -1,0 +1,11 @@
+{
+  "name": "Force Palm",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Paralyze the foe. If Aura Field Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "A powerful open palm hit that knocks the foe away and may leave him unable to move.",
+  "category": "Physical"
+}

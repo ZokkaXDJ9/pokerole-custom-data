@@ -1,0 +1,11 @@
+{
+  "name": "Autotomize",
+  "type": "Steel",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Increase the User's Dexterity by 2. For the rest of scene the User's weight is halved and, while Ferromagnetic Storm Weather is active the User may ignore the effects of Hazards.",
+  "description": "The Pokemon sheds pieces and starts rotating other parts of its body for easier and lighter movement.",
+  "category": "Support"
+}

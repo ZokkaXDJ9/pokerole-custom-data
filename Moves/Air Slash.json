@@ -1,0 +1,11 @@
+{
+  "name": "Air Slash",
+  "type": "Flying",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Flinch the foe. If Strong Winds Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The user will surround the foe with razor-like wind that may knock it down.",
+  "category": "Special"
+}

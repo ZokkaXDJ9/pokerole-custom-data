@@ -1,0 +1,11 @@
+{
+  "name": "Leaf Blade",
+  "type": "Grass",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds. If Pollen Storm Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon uses the sharp leaves on its body to cut through the foe.",
+  "category": "Physical"
+}

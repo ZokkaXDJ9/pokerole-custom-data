@@ -1,0 +1,11 @@
+{
+  "name": "Thunderbolt",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Paralyze the foe. If Thunderstorm Weather is active this move gains High Critical and Never Fail.",
+  "description": "A strong electric attack that shocks and harms the foe. It can destroy most kinds of electric equipment.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ice Punch",
+  "type": "Ice",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Roll 3 Chance Dice to apply Frostbite to the foe.",
+  "description": "The Pokemon delivers a strike covered in ice. The user's hands can freeze anything they touch.",
+  "category": "Physical"
+}

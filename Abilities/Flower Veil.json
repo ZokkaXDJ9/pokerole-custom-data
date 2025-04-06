@@ -1,5 +1,5 @@
 {
   "name": "Flower Veil",
   "description": "This Pokemon makes flowers grow in gardens and near other Pokemon to protect them from harm.",
-  "effect": "This pokemon and their allies are immune to attribute and trait reduction from moves and status conditions targeting them, including the Initiative change of Paralysis."
+  "effect": "Grass typed users and allies are immune to attribute and trait reduction from foe's moves and status conditions targeting them, including the Initiative change of Paralysis. This protection extends to the User and Allies regardless of type while under grassy terrain."
 }

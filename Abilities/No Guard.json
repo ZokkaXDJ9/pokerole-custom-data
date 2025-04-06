@@ -1,0 +1,5 @@
+{
+  "name": "No Guard",
+  "description": "This Pokemon can focus on attacking perfectly but will be open to the attacks of its foes as it won't focus on anything but its precision.",
+  "effect": "You can declare you won't make any Evasion Action at the start of the Round. If you do, roll all moves of this Pokemon as if they had no reduced accuracy. This pokemon may not set Fissure, Horn Drill, Guillotine or Sheer Cold as active moves, but pokemon who gain this ability may still use those moves as normal."
+}

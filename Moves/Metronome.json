@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Dexterity",
   "target": "It's complicated",
-  "effect": "Use `/metronome` to determine what happens.",
+  "effect": "Use `/metronome` to determine what happens. If Overcast Weather is active, use the command twice and choose a move.",
   "description": "The Pokemon waves its hands or appendages with rhythm. The energy around follows the cadence and manifests with a (hopefully) impressive attack.",
   "category": "Physical/Special"
 }

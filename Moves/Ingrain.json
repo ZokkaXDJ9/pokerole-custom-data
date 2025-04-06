@@ -1,0 +1,11 @@
+{
+  "name": "Ingrain",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "If successful spend 1 Will point to activate. At the end of each Round, recover 2 HP. If Pollen Storm Weather is active recover 3 HP instead. The User's initiative cannot be overwritten by opponent's moves, but the User also cannot Dodge. Lasts 4 Rounds.",
+  "description": "The Pokemon roots itself to the ground, absorbing the nutrients and recovering health.",
+  "category": "Support"
+}

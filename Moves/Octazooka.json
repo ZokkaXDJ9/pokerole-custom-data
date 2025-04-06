@@ -1,0 +1,11 @@
+{
+  "name": "Octazooka",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the foe's Accuracy. -2 Accuracy.",
+  "description": "The user sprays ink at the target's face to obstruct its vison.",
+  "category": "Special"
+}

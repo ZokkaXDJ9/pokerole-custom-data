@@ -5,7 +5,7 @@
   "damage": "",
   "accuracy": "Insight",
   "target": "User",
-  "effect": "Priority 2. During this Round, all damaging moves from any foe must target the User. If a foe uses a move with All Foes or Area targeting the User becomes the primary target for damage calculation. Moves used by Grass types may ignore redirection from this move.",
+  "effect": "Priority 2. During this Round, all damaging moves from any foe must target the User. If a foe uses a move with All Foes or Area targeting the User becomes the primary target for damage calculation. Moves used by Grass types may ignore redirection from this move, unless Locust Swarm Weather is active.",
   "description": "The Pokemon releases an irritating powder that annoys and enrages foes into attacking.",
   "category": "Support"
 }

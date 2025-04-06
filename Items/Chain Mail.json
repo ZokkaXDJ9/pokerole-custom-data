@@ -1,0 +1,6 @@
+{
+  "name": "Chain Mail",
+  "description": "Increase the base Defense of the User by 2. After equipping this item, the user cannot use Support moves for the remainder of the battle. This effect persists even if the item is removed.",
+  "category": "HeldItem",
+  "single_use": false
+}

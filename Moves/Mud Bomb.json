@@ -1,0 +1,11 @@
+{
+  "name": "Mud Bomb",
+  "type": "Ground",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the Foe's Accuracy. -2 Accuracy. If Quaking Ground Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon shoots a ball made of mud that bursts on the target, some mud may get on its eyes.",
+  "category": "Special"
+}

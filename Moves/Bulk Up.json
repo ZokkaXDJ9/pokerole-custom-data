@@ -1,0 +1,11 @@
+{
+  "name": "Bulk Up",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Increase the User's Strength and Defense. If Aura Field Weather is active increase the User's Special Defense.",
+  "description": "The Pokemon shows its muscles with intimidating poses to look bigger and stronger.",
+  "category": "Support"
+}

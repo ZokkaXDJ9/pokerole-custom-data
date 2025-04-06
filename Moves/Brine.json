@@ -1,0 +1,11 @@
+{
+  "name": "Brine",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the foe is at half HP or less, add 3 Extra Dice to the Damage Pool. If Rain Weather is active add 3 flat Damage instead.",
+  "description": "The user blasts the foe with extremely dense water, if the target is tired he may be swept away easily by the pressure.",
+  "category": "Special"
+}

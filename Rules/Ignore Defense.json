@@ -1,0 +1,6 @@
+{
+  "name": "Ignores Defense",
+  "flavor": "The Trojan Horse of attacks.",
+  "text": "- Moves tagged with 'Ignores Defense' treat the Defense and Special Defense of their target as 0 during damage calculation. Ignores Defense moves do not gain or lose base damage from STAB, Super Effective or Resistances. These moves however still abide by immunities granted by typing, move effects, abilities, and items. If an Ignores Defense attack threatens a critical strike, multiply the base damage by 1.25 rounded up (instead of the standard 1.5 multiplier).",
+  "example": ""
+}

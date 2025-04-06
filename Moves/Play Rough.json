@@ -1,0 +1,11 @@
+{
+  "name": "Play Rough",
+  "type": "Fairy",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Reduce foe's Strength. -1 Accuracy. If Fairy Dust Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The user and the foe start a playful wrestle, it soon escalates into something not so pretty.",
+  "category": "Physical"
+}

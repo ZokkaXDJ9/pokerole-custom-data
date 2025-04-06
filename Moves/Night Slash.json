@@ -1,0 +1,11 @@
+{
+  "name": "Night Slash",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. High Critical. If Unnatural Darkness Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The user quickly slashes through the target as soon as it gets the chance. The intent to end the target's life is frightening.",
+  "category": "Physical"
+}

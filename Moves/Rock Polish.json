@@ -1,0 +1,11 @@
+{
+  "name": "Rock Polish",
+  "type": "Rock",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Increase User's Dexterity by 2. If Sandstorm/Duststorm Weather is active increase the User's Evasion by 1.",
+  "description": "The user polishes the rough ends of its rock body for easier and faster movement.",
+  "category": "Support"
+}

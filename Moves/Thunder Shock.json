@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Shock",
+  "type": "Electric",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Paralyze the foe.",
+  "description": "A small electric attack that shocks the foe and may leave it with muscular cramps. Some electric devices hit by this attack will malfunction.",
+  "category": "Special"
+}

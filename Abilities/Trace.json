@@ -1,0 +1,5 @@
+{
+  "name": "Trace",
+  "description": "This Pokemon mimics the special characteristics of others, making them look as if they were its own.",
+  "effect": "At the start of Round, the User copies the ability of a chosen Ally or of one Foe at random. This effect ends if the User faints or is removed from combat and may be reset on subsequent rounds. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard etc.) can't be copied."
+}

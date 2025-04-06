@@ -1,5 +1,5 @@
 {
   "name": "Snow Warning",
   "description": "The Pokemon is able to call a terrible hailstorm or a chilling snowstorm at will. Truly a master of tundra climates.",
-  "effect": "This pokemon can start either Hail Weather or Snow Weather at the start of a round once per battle. The effects end when the Pokemon leaves the battle. (In case of stalemate, the Pokemon with higher Will might keep the dominant weather)"
+  "effect": "This Pokemon can start either Hail Weather or Snow Weather at the start of the Round, once per battle. The effects end when the User faints, or leaves the battle. (In case of stalemate, the Pokemon with higher Will might keep the dominant weather)"
 }

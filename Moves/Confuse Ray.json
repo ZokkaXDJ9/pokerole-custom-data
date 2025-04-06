@@ -1,0 +1,11 @@
+{
+  "name": "Confuse Ray",
+  "type": "Ghost",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Confuse the Foe. If Eerie Fog Weather is active Burn the Foe.",
+  "description": "The user flashes a sinister ray of bright light that leaves the target disoriented and confused.",
+  "category": "Support"
+}

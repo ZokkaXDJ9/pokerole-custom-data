@@ -1,0 +1,11 @@
+{
+  "name": "Power Trick",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "Switch the User's Strength with its Vitality and the User's Special with its Insight. HP, Will and Active moves are unaffected.",
+  "description": "The user's mind is tricked into thinking that strength comes from their vitality, and their vitality is their power.",
+  "category": "Support"
+}

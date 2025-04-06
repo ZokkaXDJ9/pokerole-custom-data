@@ -1,0 +1,11 @@
+{
+  "name": "Hypnosis",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Makes the target drowsy. -4 Accuracy. If Cosmic Rays Weather is active ignore this move's reduced accuracy.",
+  "description": "Employ a hypnotic suggestion to make the target feel drowsy and fall into a deep slumber. Works better on a target that is not in danger.",
+  "category": "Support"
+}

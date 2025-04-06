@@ -1,0 +1,11 @@
+{
+  "name": "Magical Leaf",
+  "type": "Grass",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Never Fail. While Pollen Storm Weather is active, this Move is always a Critical Hit and it gets the proper bonus for it.",
+  "description": "The user sends out a floating leaf that will pursue the target until it hits.",
+  "category": "Special"
+}

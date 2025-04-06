@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Pulse",
+  "type": "Dragon",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If Arcane Domain Weather is active Reduce the Foe's Special Defense.",
+  "description": "The user opens its mouth and sends a powerful wave of energy.",
+  "category": "Special"
+}

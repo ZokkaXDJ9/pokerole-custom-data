@@ -1,5 +1,5 @@
 {
   "name": "Sniper",
   "description": "The Pokemon will stealthily locate an advantageous position to strike it's foe's weakest spots.",
-  "effect": "If this pokemon lands a critical hit, the damage will be increased by 100% instead of 50%."
+  "effect": "If this pokemon lands a critical hit, increase the crit multiplier to 2x for the base damage of the attack (1.5x for moves which Ignore Defense)."
 }

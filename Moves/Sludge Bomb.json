@@ -1,0 +1,11 @@
+{
+  "name": "Sludge Bomb",
+  "type": "Poison",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Poison the Foe. If Pollution Weather is active instead inflict Badly Poisoned on a successful Chance Dice.",
+  "description": "The user hurls a ball of toxic sludge that explodes on contact and covers the target.",
+  "category": "Special"
+}

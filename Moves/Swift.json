@@ -1,0 +1,11 @@
+{
+  "name": "Swift",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Never Fail. If Overcast Weather is active, this move gains High Critical",
+  "description": "The user shoots a star shaped light beam that hits the target at blinding speed.",
+  "category": "Special"
+}

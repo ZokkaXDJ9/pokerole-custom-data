@@ -5,7 +5,7 @@
   "damage": "Special",
   "accuracy": "Dexterity",
   "target": "All Foes",
-  "effect": "Inflicts Wounds. Roll 3 chance dice on each enemy hit to lower their Dexterity by 1. If the weather is Rainy, this move never fails. -2 accuracy.",
+  "effect": "Inflicts Wounds. Roll 3 chance dice to inflict Frostbite for each affected target. If the weather is Rainy, this move never fails. -2 accuracy.",
   "description": "Summoning cold winds, the user aims to chill their opposition down to the bone. The bite of this wind is harsh.",
   "category": "Special"
 }

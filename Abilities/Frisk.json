@@ -1,0 +1,5 @@
+{
+  "name": "Frisk",
+  "description": "This Pokemon can see the items others may be carrying, even if they are hidden and is adept at keeping track of their own belongings.",
+  "effect": "At the start of the User's turn, this pokemon may reveal a Foe's Held Item (of their choice).  Once per scene if the User would lose their Held Item (ex: Pickpocket, Trick), ignore it."
+}

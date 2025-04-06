@@ -1,0 +1,11 @@
+{
+  "name": "Power Gem",
+  "type": "Rock",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If Sandstorm/Duststorm Weather is active reduce the Foe's accuracy.",
+  "description": "The user attacks with a ray of light that comes out of the gem on its body.",
+  "category": "Special"
+}

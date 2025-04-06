@@ -1,0 +1,11 @@
+{
+  "name": "Flame Burst",
+  "type": "Fire",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "After dealing damage, the user may deal 1 Damage against two other Targets. If Sunny Weather is active increase the effect Damage to 2.",
+  "description": "A concentrated flameball that bursts on contact with the foe, scattering smaller flames around.",
+  "category": "Special"
+}

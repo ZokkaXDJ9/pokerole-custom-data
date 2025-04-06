@@ -1,0 +1,11 @@
+{
+  "name": "Sand Attack",
+  "type": "Ground",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the foe's Accuracy. If Quaking Ground Weather is active reduce the foe's Dexterity.",
+  "description": "The user shoots some sand into the opponent's eyes.",
+  "category": "Support"
+}

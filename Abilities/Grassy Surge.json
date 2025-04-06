@@ -1,0 +1,5 @@
+{
+  "name": "Grassy Surge",
+  "description": "The Pokemon can surround itself with a grass field that makes it easy to relax and laze around in the sun.",
+  "effect": "At the start of the Round the User may set Grassy Terrain (as the move). This effect may be used once per scene and lasts 4 Rounds. This ability's usage recharges after the User has used their action for the Round to perform an Alternative Action (Dodge, Struggle, etc)."
+}

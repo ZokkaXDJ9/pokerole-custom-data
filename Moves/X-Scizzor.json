@@ -1,0 +1,11 @@
+{
+  "name": "X-Scissor",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Wounds. If Locust Swarm Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The Pokemon uses its scythes or claws as if they were a pair of scissors to cut through the foe.",
+  "category": "Physical"
+}

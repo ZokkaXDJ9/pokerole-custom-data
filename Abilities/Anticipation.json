@@ -1,0 +1,5 @@
+{
+  "name": "Anticipation",
+  "description": "The Pokemon is always alert for threats and rarely sits to relax. If it perceives a potential danger it will get anxious and start shuddering.",
+  "effect": "The first time this pokemon is hit by an Effective or Super Effective attack during a scene, resolve damage (including minimum damage) as if the attack was Ineffective. As a bonus action on the User's turn, they may designate an opponent and reveal a move that would deal Effective damage against them (if applicable, as chosen by the GM)."
+}

@@ -1,5 +1,5 @@
 {
   "name": "Hospitality",
   "description": "This Pokemon is incredibly kind and generous. It always has some tea ready for its closest friends.",
-  "effect": "At the start of an encounter, an ally of the Pokemon's choice recovers 3 HP"
+  "effect": "At the start of the Round the User may choose an Ally to recover 3HP. This ability may be used a number of times equal to the User's Rank Bonus per Quest."
 }

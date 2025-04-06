@@ -1,0 +1,11 @@
+{
+  "name": "Haze",
+  "type": "Ice",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "Remove all Increased or Reduced Attributes and Traits on everyone on the Battlefield. If Hail/Snow Weather is active the User may exclude one target from this move's effect.",
+  "description": "The user sends out a haze that disturbs all the Pokemon engaged in battle. It may conceal whoever is inside.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flame Wheel",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Burn the foe. Cures the User of the Frostbite status. If Sunny Weather is active add 2 Extra Dice to the Damage Pool.",
+  "description": "The user cloaks itself in flames and rolls to tackle the target.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Claw",
+  "type": "Dragon",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If Arcane Domain Weather is active this move gains High Critical and Never Fail.",
+  "description": "The Pokemon uses its strong claws to deliver a fierce tearing blow.",
+  "category": "Physical"
+}

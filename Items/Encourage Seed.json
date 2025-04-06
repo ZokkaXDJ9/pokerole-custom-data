@@ -1,6 +1,6 @@
 {
   "name": "Encourage Seed",
-  "description": "The next time the user lands a hit it will be treated as if it were a Critical Hit.",
-  "category": "Seeds",
+  "description": "After rolling accuracy, the user may consume this seed as their Bonus Action to make their move resolve as if it were a Critical Hit. This must be done before damage is rolled if applicable.",
+  "category": "Consumable",
   "single_use": true
 }

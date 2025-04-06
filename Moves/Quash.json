@@ -1,0 +1,11 @@
+{
+  "name": "Quash",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "The target will go last in the order of Initiative and be unable to declare/use moves with increased Priority. Lasts 4 Rounds.",
+  "description": "The user represses the foe with intimidation so it has to think twice before acting.",
+  "category": "Support"
+}

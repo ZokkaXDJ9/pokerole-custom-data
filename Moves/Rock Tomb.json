@@ -1,0 +1,11 @@
+{
+  "name": "Rock Tomb",
+  "type": "Rock",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Reduce Foe's Dexterity. -1 Accuracy. This move inflicts Blocked Status, if Sandstorm/Duststorm Weather is active, for the Weather's duration.",
+  "description": "The Pokemon covers the foe in gravel and rocks, leaving it unable to move freely.",
+  "category": "Physical"
+}
