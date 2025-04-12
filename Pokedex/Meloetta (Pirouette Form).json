@@ -1,0 +1,37 @@
+{
+  "number": 648,
+  "api_id": 10018,
+  "name": "Meloetta (Pirouette Form)",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Quick Attack",
+      "Round",
+      "Sing"
+    ],
+    "silver": [
+      "Acrobatics",
+      "Psybeam",
+      "Teeter Dance"
+    ],
+    "gold": [
+      "Close Combat",
+      "Echoed Voice",
+      "Hyper Voice",
+      "Perish Song",
+      "Psychic",
+      "Relic Song",
+      "Role Play",
+      "U-turn",
+      "Wake-Up Slap"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

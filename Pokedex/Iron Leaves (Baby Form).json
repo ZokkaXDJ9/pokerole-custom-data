@@ -1,0 +1,37 @@
+{
+  "number": 1010,
+  "name": "Iron Leaves (Baby Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Helping Hand",
+      "Leer",
+      "Magical Leaf",
+      "Quick Attack",
+      "Work Up"
+    ],
+    "silver": [
+      "Night Slash",
+      "Quick Guard",
+      "Retaliate"
+    ],
+    "gold": [
+      "Ally Switch",
+      "Close Combat",
+      "Imprison",
+      "Leaf Blade",
+      "Megahorn",
+      "Psyblade",
+      "Sacred Sword",
+      "Solar Blade",
+      "Swords Dance"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 1008,
+  "name": "Miraidon (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Dragon Breath",
+      "Electric Terrain",
+      "Shock Wave",
+      "Thunder Shock"
+    ],
+    "silver": [
+      "Charge",
+      "Discharge",
+      "Parabolic Charge"
+    ],
+    "gold": [
+      "Agility",
+      "Dragon Pulse",
+      "Electro Drift",
+      "Hyper Beam",
+      "Metal Sound",
+      "Mirror Coat",
+      "Outrage",
+      "Overheat",
+      "Thunder"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

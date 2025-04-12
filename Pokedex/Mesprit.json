@@ -1,0 +1,36 @@
+{
+  "number": 481,
+  "name": "Mesprit",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Imprison",
+      "Rest",
+      "Swift"
+    ],
+    "silver": [
+      "Lucky Chant",
+      "Protect",
+      "Psybeam"
+    ],
+    "gold": [
+      "Charm",
+      "Copycat",
+      "Extrasensory",
+      "Flatter",
+      "Future Sight",
+      "Healing Wish",
+      "Mystical Power",
+      "Natural Gift",
+      "Psychic"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

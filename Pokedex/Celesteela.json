@@ -1,0 +1,38 @@
+{
+  "number": 797,
+  "name": "Celesteela",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Absorb",
+      "Harden",
+      "Smack Down",
+      "Tackle",
+      "Wide Guard"
+    ],
+    "silver": [
+      "Autotomize",
+      "Giga Drain",
+      "Ingrain",
+      "Iron Head",
+      "Leech Seed",
+      "Mega Drain",
+      "Metal Sound"
+    ],
+    "gold": [
+      "Double-Edge",
+      "Flash Cannon",
+      "Heavy Slam",
+      "Iron Defense",
+      "Seed Bomb",
+      "Skull Bash"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

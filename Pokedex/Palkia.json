@@ -1,0 +1,35 @@
+{
+  "number": 484,
+  "name": "Palkia",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "AncientPower",
+      "Dragon Breath",
+      "Scary Face",
+      "Water Pulse"
+    ],
+    "silver": [
+      "Aqua Ring",
+      "Aqua Tail",
+      "Dragon Claw",
+      "Earth Power",
+      "Power Gem",
+      "Slash"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Heal Block",
+      "Hydro Pump",
+      "Spacial Rend"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

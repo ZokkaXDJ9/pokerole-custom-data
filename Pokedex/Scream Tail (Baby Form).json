@@ -1,0 +1,36 @@
+{
+  "number": 985,
+  "name": "Scream Tail (Baby Form)",
+  "base_hp": 5,
+  "strength": "1/2",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "1/2",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Disable",
+      "Howl",
+      "Pound",
+      "Sing"
+    ],
+    "silver": [
+      "Bite",
+      "Body Slam",
+      "Noble Roar"
+    ],
+    "gold": [
+      "Boomburst",
+      "Crunch",
+      "Gyro Ball",
+      "Hyper Voice",
+      "Perish Song",
+      "Play Rough",
+      "Psychic Fangs",
+      "Rest",
+      "Wish"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "number": 787,
+  "name": "Tapu Bulu (Baby Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Disable",
+      "Horn Attack",
+      "Leafage",
+      "Rock Smash",
+      "Withdraw"
+    ],
+    "silver": [
+      "Giga Drain",
+      "Horn Leech",
+      "Leech Seed",
+      "Mega Drain",
+      "Scary Face",
+      "Whirlwind"
+    ],
+    "gold": [
+      "Grassy Terrain",
+      "Mean Look",
+      "Megahorn",
+      "Nature's Madness",
+      "Rototiller",
+      "Skull Bash",
+      "Wood Hammer",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

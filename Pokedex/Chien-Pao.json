@@ -2,16 +2,38 @@
   "number": 1002,
   "name": "Chien-Pao",
   "base_hp": 5,
-  "strength": "7/7",
-  "dexterity": "8/8",
-  "vitality": "5/5",
-  "special": "6/6",
-  "insight": "4/4",
+  "strength": "3/7",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/4",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Powder Snow", "Spite", "Mean Look", "Icy Wind", "Payback", "Mist", "Haze", "Ice Shard", "Swords Dance", "Snowscape", "Night Slash", "Dark Pulse", "Icicle Crash", "Ruination", "Sucker Punch", "Sacred Sword", "Recover", "Throat Chop", "Sheer Cold"],
+    "bronze": [
+      "Icy Wind",
+      "Mean Look",
+      "Payback",
+      "Powder Snow",
+      "Spite"
+    ],
+    "silver": [
+      "Haze",
+      "Ice Shard",
+      "Mist",
+      "Snowscape",
+      "Swords Dance"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Icicle Crash",
+      "Night Slash",
+      "Recover",
+      "Ruination",
+      "Sacred Sword",
+      "Sheer Cold",
+      "Sucker Punch",
+      "Throat Chop"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

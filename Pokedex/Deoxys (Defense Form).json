@@ -1,0 +1,40 @@
+{
+  "number": 386,
+  "api_id": 10002,
+  "name": "Deoxys (Defense Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "4/9",
+  "special": "2/4",
+  "insight": "4/9",
+  "moves": {
+    "bronze": [
+      "Leer",
+      "Night Shade",
+      "Teleport",
+      "Wrap"
+    ],
+    "silver": [
+      "Knock Off",
+      "Psychic",
+      "Psyshock",
+      "Pursuit",
+      "Snatch",
+      "Toxic Spikes"
+    ],
+    "gold": [
+      "Cosmic Power",
+      "Gravity",
+      "Hyper Beam",
+      "Psycho Boost",
+      "Psycho Shift",
+      "Recover",
+      "Skill Swap",
+      "Switcheroo",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

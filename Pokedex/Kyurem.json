@@ -1,0 +1,37 @@
+{
+  "number": 646,
+  "name": "Kyurem",
+  "base_hp": 7,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Dragon Breath",
+      "Freeze-Dry",
+      "Imprison",
+      "Noble Roar",
+      "Slash"
+    ],
+    "silver": [
+      "AncientPower",
+      "Dragon Pulse",
+      "DragonBreath",
+      "Endeavor",
+      "Ice Beam"
+    ],
+    "gold": [
+      "Blizzard",
+      "Glaciate",
+      "Hyper Voice",
+      "Outrage",
+      "Scary Face",
+      "Sheer Cold"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

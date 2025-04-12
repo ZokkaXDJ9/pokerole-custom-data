@@ -1,0 +1,37 @@
+{
+  "number": 898,
+  "name": "Calyrex",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Growth",
+      "Life Dew",
+      "Mega Drain",
+      "Pound"
+    ],
+    "silver": [
+      "Giga Drain",
+      "Helping Hand",
+      "Psyshock"
+    ],
+    "gold": [
+      "Aromatherapy",
+      "Energy Ball",
+      "Future Sight",
+      "Grassy Terrain",
+      "Heal Pulse",
+      "Leech Seed",
+      "Psychic",
+      "Psychic Terrain",
+      "Solar Beam"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

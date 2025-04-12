@@ -1,0 +1,43 @@
+{
+  "number": 146,
+  "name": "Moltres",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ember",
+      "Fire Spin",
+      "Gust",
+      "Leer",
+      "Peck",
+      "Safeguard",
+      "Wing Attack"
+    ],
+    "silver": [
+      "Agility",
+      "Ancient Power",
+      "AncientPower",
+      "Endure",
+      "Incinerate"
+    ],
+    "gold": [
+      "Air Slash",
+      "Burn Up",
+      "Flamethrower",
+      "Heat Wave",
+      "Hurricane",
+      "Overheat",
+      "Roost",
+      "Sky Attack",
+      "Solar Beam",
+      "SolarBeam",
+      "Sunny Day"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

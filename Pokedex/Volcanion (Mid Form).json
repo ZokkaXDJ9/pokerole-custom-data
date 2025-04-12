@@ -1,0 +1,39 @@
+{
+  "number": 721,
+  "name": "Volcanion (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Fire Spin",
+      "Leer",
+      "Mist",
+      "Steam Eruption",
+      "Water Gun"
+    ],
+    "silver": [
+      "Flame Charge",
+      "Haze",
+      "Scald",
+      "Scary Face",
+      "Stomp",
+      "Water Pulse",
+      "Weather Ball"
+    ],
+    "gold": [
+      "Body Slam",
+      "Explosion",
+      "Flare Blitz",
+      "Hydro Pump",
+      "Incinerate",
+      "Overheat",
+      "Take Down"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

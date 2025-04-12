@@ -1,0 +1,34 @@
+{
+  "number": 493,
+  "name": "Arceus (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Cosmic Power",
+      "Gravity",
+      "Seismic Toss"
+    ],
+    "silver": [
+      "Earth Power",
+      "Hyper Voice"
+    ],
+    "gold": [
+      "Extreme Speed",
+      "ExtremeSpeed",
+      "Future Sight",
+      "Healing Wish",
+      "Hyper Beam",
+      "Judgment",
+      "Perish Song",
+      "Recover",
+      "Refresh"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

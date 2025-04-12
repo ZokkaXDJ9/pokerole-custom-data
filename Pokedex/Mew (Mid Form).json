@@ -1,0 +1,36 @@
+{
+  "number": 151,
+  "name": "Mew (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Amnesia",
+      "Mega Punch",
+      "Pound",
+      "Reflect Type",
+      "Transform"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Baton Pass",
+      "Metronome",
+      "Psychic"
+    ],
+    "gold": [
+      "AncientPower",
+      "Aura Sphere",
+      "Barrier",
+      "Imprison",
+      "Life Dew",
+      "Me First",
+      "Nasty Plot"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

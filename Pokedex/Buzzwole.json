@@ -1,0 +1,38 @@
+{
+  "number": 794,
+  "name": "Buzzwole",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "4/8",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Comet Punch",
+      "Fell Stinger",
+      "Harden",
+      "Power-Up Punch",
+      "Taunt"
+    ],
+    "silver": [
+      "Bulk Up",
+      "Endure",
+      "Leech Life",
+      "Reversal",
+      "Vital Throw"
+    ],
+    "gold": [
+      "Counter",
+      "Dynamic Punch",
+      "Focus Energy",
+      "Focus Punch",
+      "Hammer Arm",
+      "Lunge",
+      "Mega Punch",
+      "Superpower"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

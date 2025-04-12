@@ -1,0 +1,38 @@
+{
+  "number": 487,
+  "api_id": 10007,
+  "name": "Giratina (Origin Form)",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "AncientPower",
+      "Defog",
+      "Dragon Breath",
+      "Ominous Wind",
+      "Shadow Sneak"
+    ],
+    "silver": [
+      "Destiny Bond",
+      "Dragon Claw",
+      "Earth Power",
+      "Hex",
+      "Slash"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Heal Block",
+      "Pain Split",
+      "Scary Face",
+      "Shadow Claw",
+      "Shadow Force"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 251,
+  "name": "Celebi (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Heal Bell",
+      "Leech Seed",
+      "Magical Leaf",
+      "Recover",
+      "Safeguard"
+    ],
+    "silver": [
+      "Ancient Power",
+      "AncientPower",
+      "Baton Pass",
+      "Future Sight"
+    ],
+    "gold": [
+      "Heal Block",
+      "Healing Wish",
+      "Leaf Storm",
+      "Life Dew",
+      "Natural Gift",
+      "Perish Song"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "number": 1006,
+  "name": "Iron Valiant (Mid Form)",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Disable",
+      "Double Team",
+      "Fury Cutter",
+      "Hypnosis",
+      "Shadow Sneak"
+    ],
+    "silver": [
+      "Dazzling Gleam",
+      "Feint",
+      "Future Sight"
+    ],
+    "gold": [
+      "Close Combat",
+      "Destiny Bond",
+      "Knock Off",
+      "Leaf Blade",
+      "Moonblast",
+      "Night Slash",
+      "Psycho Cut",
+      "Quick Guard",
+      "Spirit Break",
+      "Wide Guard"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "number": 249,
+  "name": "Lugia (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Aeroblast",
+      "Ancient Power",
+      "Dragon Rush",
+      "Gust",
+      "Mist",
+      "Safeguard",
+      "Weather Ball",
+      "Whirlwind"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Extrasensory",
+      "Hydro Pump",
+      "Rain Dance",
+      "Recover"
+    ],
+    "gold": [
+      "AncientPower",
+      "Future Sight",
+      "Natural Gift",
+      "Punishment",
+      "Sky Attack",
+      "Swift"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

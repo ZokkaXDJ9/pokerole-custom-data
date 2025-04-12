@@ -1,0 +1,36 @@
+{
+  "number": 647,
+  "name": "Keldeo (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Aqua Jet",
+      "Bubble Beam",
+      "Double Kick",
+      "Helping Hand",
+      "Leer",
+      "Secret Sword",
+      "Work Up"
+    ],
+    "silver": [
+      "BubbleBeam",
+      "Quick Guard",
+      "Retaliate",
+      "Take Down"
+    ],
+    "gold": [
+      "Aqua Tail",
+      "Close Combat",
+      "Hydro Pump",
+      "Sacred Sword",
+      "Swords Dance"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

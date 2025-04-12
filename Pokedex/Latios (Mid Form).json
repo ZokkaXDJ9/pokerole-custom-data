@@ -1,0 +1,43 @@
+{
+  "number": 381,
+  "name": "Latios (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Dragon Dance",
+      "Heal Block",
+      "Helping Hand",
+      "Memento",
+      "Protect",
+      "Recover",
+      "Stored Power"
+    ],
+    "silver": [
+      "Ally Switch",
+      "Confusion",
+      "Dragon Breath",
+      "DragonBreath",
+      "Heal Pulse",
+      "Luster Purge",
+      "Psycho Shift",
+      "Refresh",
+      "Safeguard",
+      "Tailwind"
+    ],
+    "gold": [
+      "Dragon Pulse",
+      "Power Split",
+      "Psychic",
+      "Simple Beam",
+      "Telekinesis",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "number": 645,
+  "api_id": 10021,
+  "name": "Landorus (Therian)",
+  "base_hp": 5,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Block",
+      "Imprison",
+      "Leer",
+      "Punishment",
+      "Rock Throw",
+      "Sand Tomb",
+      "Smack Down"
+    ],
+    "silver": [
+      "Bulldoze",
+      "Extrasensory",
+      "Rock Tomb",
+      "Swords Dance"
+    ],
+    "gold": [
+      "Earth Power",
+      "Earthquake",
+      "Fissure",
+      "Hammer Arm",
+      "Outrage",
+      "Rock Slide",
+      "Sandsear Storm",
+      "Sandstorm",
+      "Stone Edge"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

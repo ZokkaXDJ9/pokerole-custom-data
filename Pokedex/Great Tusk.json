@@ -8,9 +8,29 @@
   "special": "2/4",
   "insight": "2/4",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Sunny Day", "Horn Attack", "Defense Curl", "Rollout", "Bulldoze", "Taunt", "Rapid Spin", "Brick Break", "Stomping Tantrum", "Knock Off", "Earthquake", "Giga Impact", "Close Combat", "Endeavor", "Megahorn", "Head Smash", "Headlong Rush"],
+    "bronze": [
+      "Bulldoze",
+      "Defense Curl",
+      "Horn Attack",
+      "Rollout",
+      "Sunny Day"
+    ],
+    "silver": [
+      "Brick Break",
+      "Rapid Spin",
+      "Taunt"
+    ],
+    "gold": [
+      "Close Combat",
+      "Earthquake",
+      "Endeavor",
+      "Giga Impact",
+      "Head Smash",
+      "Headlong Rush",
+      "Knock Off",
+      "Megahorn",
+      "Stomping Tantrum"
+    ],
     "platinum": [],
     "diamond": []
   }

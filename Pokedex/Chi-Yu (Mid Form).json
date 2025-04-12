@@ -1,0 +1,38 @@
+{
+  "number": 1004,
+  "name": "Chi-Yu (Mid Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ember",
+      "Flame Wheel",
+      "Mean Look",
+      "Payback",
+      "Spite"
+    ],
+    "silver": [
+      "Confuse Ray",
+      "Flame Charge",
+      "Incinerate",
+      "Will-O-Wisp"
+    ],
+    "gold": [
+      "Bounce",
+      "Dark Pulse",
+      "Inferno",
+      "Lava Plume",
+      "Memento",
+      "Nasty Plot",
+      "Overheat",
+      "Ruination",
+      "Swagger"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

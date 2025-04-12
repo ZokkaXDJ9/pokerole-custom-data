@@ -8,9 +8,28 @@
   "special": "4/8",
   "insight": "4/8",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Confuse Ray", "Spite", "Astonish", "Sunny Day", "Psybeam", "Mean Look", "Memento", "Wish", "Dazzling Gleam", "Shadow Ball", "Mystical Fire", "Power Gem", "Psyshock", "Phantom Force", "Pain Split", "Moonblast", "Perish Song"],
+    "bronze": [
+      "Astonish",
+      "Confuse Ray",
+      "Psybeam",
+      "Spite"
+    ],
+    "silver": [
+      "Mean Look",
+      "Memento",
+      "Wish"
+    ],
+    "gold": [
+      "Dazzling Gleam",
+      "Moonblast",
+      "Mystical Fire",
+      "Pain Split",
+      "Perish Song",
+      "Phantom Force",
+      "Power Gem",
+      "Psyshock",
+      "Shadow Ball"
+    ],
     "platinum": [],
     "diamond": []
   }

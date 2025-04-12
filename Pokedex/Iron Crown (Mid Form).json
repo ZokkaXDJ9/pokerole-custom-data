@@ -1,0 +1,37 @@
+{
+  "number": 1023,
+  "name": "Iron Crown (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Electric Terrain",
+      "Leer",
+      "Metal Claw",
+      "Smart Strike"
+    ],
+    "silver": [
+      "Iron Defense",
+      "Psyshock",
+      "Slash"
+    ],
+    "gold": [
+      "Flash Cannon",
+      "Future Sight",
+      "Hyper Beam",
+      "Metal Burst",
+      "Psycho Cut",
+      "Quick Guard",
+      "Sacred Sword",
+      "Tachyon Cutter",
+      "Volt Switch"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

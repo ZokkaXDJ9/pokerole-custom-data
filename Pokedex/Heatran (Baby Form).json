@@ -1,0 +1,34 @@
+{
+  "number": 485,
+  "name": "Heatran (Baby Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "1/3",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Fire Spin",
+      "Leer",
+      "Metal Claw"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Crunch",
+      "Fire Fang",
+      "Iron Head",
+      "Metal Sound",
+      "Scary Face"
+    ],
+    "gold": [
+      "Earth Power",
+      "Heat Wave",
+      "Lava Plume",
+      "Magma Storm",
+      "Stone Edge"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

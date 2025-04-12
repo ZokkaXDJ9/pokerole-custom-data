@@ -1,0 +1,41 @@
+{
+  "number": 718,
+  "name": "Zygarde (Cell Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Bind",
+      "Bite",
+      "Bulldoze",
+      "Core Enforcer",
+      "Dig",
+      "Dragon Breath",
+      "Haze",
+      "Safeguard",
+      "Thousand Arrows",
+      "Thousand Waves"
+    ],
+    "silver": [
+      "Crunch",
+      "Land's Wrath"
+    ],
+    "gold": [
+      "Camouflage",
+      "Coil",
+      "Dragon Dance",
+      "Dragon Pulse",
+      "Earthquake",
+      "Extreme Speed",
+      "Glare",
+      "Outrage",
+      "Sandstorm"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

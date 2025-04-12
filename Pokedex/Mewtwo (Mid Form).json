@@ -1,0 +1,41 @@
+{
+  "number": 150,
+  "name": "Mewtwo (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Barrier",
+      "Confusion",
+      "Disable",
+      "Laser Focus",
+      "Life Dew",
+      "Psychic",
+      "Swift"
+    ],
+    "silver": [
+      "Amnesia",
+      "Future Sight",
+      "Miracle Eye",
+      "Psych Up",
+      "Psycho Cut",
+      "Safeguard"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Guard Swap",
+      "Me First",
+      "Mist",
+      "Power Swap",
+      "Psystrike",
+      "Recover"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

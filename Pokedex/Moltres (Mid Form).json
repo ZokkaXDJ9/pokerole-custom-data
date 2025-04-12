@@ -1,0 +1,43 @@
+{
+  "number": 146,
+  "name": "Moltres (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Ember",
+      "Fire Spin",
+      "Gust",
+      "Leer",
+      "Peck",
+      "Safeguard",
+      "Wing Attack"
+    ],
+    "silver": [
+      "Agility",
+      "Ancient Power",
+      "AncientPower",
+      "Endure",
+      "Incinerate"
+    ],
+    "gold": [
+      "Air Slash",
+      "Burn Up",
+      "Flamethrower",
+      "Heat Wave",
+      "Hurricane",
+      "Overheat",
+      "Roost",
+      "Sky Attack",
+      "Solar Beam",
+      "SolarBeam",
+      "Sunny Day"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

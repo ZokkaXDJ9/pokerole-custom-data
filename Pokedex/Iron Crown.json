@@ -8,9 +8,29 @@
   "special": "3/7",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Leer", "Electric Terrain", "Confusion", "Metal Claw", "Smart Strike", "Slash", "Iron Defense", "Psyshock", "Psycho Cut", "Flash Cannon", "Sacred Sword", "Tachyon Cutter", "Future Sight", "Volt Switch", "Quick Guard", "Metal Burst", "Hyper Beam"],
+    "bronze": [
+      "Confusion",
+      "Electric Terrain",
+      "Leer",
+      "Metal Claw",
+      "Smart Strike"
+    ],
+    "silver": [
+      "Iron Defense",
+      "Psyshock",
+      "Slash"
+    ],
+    "gold": [
+      "Flash Cannon",
+      "Future Sight",
+      "Hyper Beam",
+      "Metal Burst",
+      "Psycho Cut",
+      "Quick Guard",
+      "Sacred Sword",
+      "Tachyon Cutter",
+      "Volt Switch"
+    ],
     "platinum": [],
     "diamond": []
   }

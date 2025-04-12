@@ -1,0 +1,39 @@
+{
+  "number": 785,
+  "name": "Tapu Koko",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Fairy Wind",
+      "Quick Attack",
+      "Spark",
+      "Thunder Shock",
+      "Withdraw"
+    ],
+    "silver": [
+      "Charge",
+      "False Swipe",
+      "Screech",
+      "Shock Wave",
+      "Wild Charge"
+    ],
+    "gold": [
+      "Agility",
+      "Brave Bird",
+      "Discharge",
+      "Electric Terrain",
+      "Electro Ball",
+      "Mean Look",
+      "Mirror Move",
+      "Nature's Madness",
+      "Power Swap"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

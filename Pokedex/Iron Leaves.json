@@ -8,9 +8,29 @@
   "special": "2/5",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Quick Attack", "Leer", "Helping Hand", "Work Up", "Electric Terrain", "Quash", "Magical Leaf", "Retaliate", "Quick Guard", "Night Slash", "Swords Dance", "Sacred Sword", "Leaf Blade", "Psyblade", "Close Combat", "Imprison", "Megahorn", "Ally Switch", "Solar Blade"],
+    "bronze": [
+      "Helping Hand",
+      "Leer",
+      "Magical Leaf",
+      "Quick Attack",
+      "Work Up"
+    ],
+    "silver": [
+      "Night Slash",
+      "Quick Guard",
+      "Retaliate"
+    ],
+    "gold": [
+      "Ally Switch",
+      "Close Combat",
+      "Imprison",
+      "Leaf Blade",
+      "Megahorn",
+      "Psyblade",
+      "Sacred Sword",
+      "Solar Blade",
+      "Swords Dance"
+    ],
     "platinum": [],
     "diamond": []
   }

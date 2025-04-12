@@ -1,0 +1,37 @@
+{
+  "number": 383,
+  "name": "Groudon",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Earth Power",
+      "Lava Plume",
+      "Mud Shot",
+      "Precipice Blades",
+      "Scary Face"
+    ],
+    "silver": [
+      "AncientPower",
+      "Bulk Up",
+      "Earthquake",
+      "Hammer Arm",
+      "Rest",
+      "Slash"
+    ],
+    "gold": [
+      "Eruption",
+      "Fire Blast",
+      "Fissure",
+      "Solar Beam",
+      "SolarBeam"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

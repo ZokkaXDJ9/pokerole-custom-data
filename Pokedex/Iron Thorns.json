@@ -8,9 +8,29 @@
   "special": "2/4",
   "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Rock Throw", "Fire Fang", "Ice Fang", "Iron Defense", "Thunder Fang", "Electric Terrain", "Screech", "Rock Tomb", "Bite", "Charge", "Rock Slide", "Sandstorm", "Wild Charge", "Pin Missile", "Earthquake", "Stealth Rock", "Stone Edge", "Giga Impact"],
+    "bronze": [
+      "Fire Fang",
+      "Ice Fang",
+      "Iron Defense",
+      "Rock Throw",
+      "Screech",
+      "Thunder Fang"
+    ],
+    "silver": [
+      "Bite",
+      "Rock Tomb"
+    ],
+    "gold": [
+      "Charge",
+      "Earthquake",
+      "Giga Impact",
+      "Pin Missile",
+      "Rock Slide",
+      "Sandstorm",
+      "Stealth Rock",
+      "Stone Edge",
+      "Wild Charge"
+    ],
     "platinum": [],
     "diamond": []
   }

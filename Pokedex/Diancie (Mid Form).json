@@ -1,0 +1,40 @@
+{
+  "number": 719,
+  "name": "Diancie (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Diamond Storm",
+      "Guard Split",
+      "Harden",
+      "Rock Throw",
+      "Sharpen",
+      "Smack Down",
+      "Tackle"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Flail",
+      "Reflect",
+      "Stealth Rock"
+    ],
+    "gold": [
+      "Light Screen",
+      "Moonblast",
+      "Power Gem",
+      "Rock Polish",
+      "Rock Slide",
+      "Safeguard",
+      "Skill Swap",
+      "Stone Edge",
+      "Trick Room"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

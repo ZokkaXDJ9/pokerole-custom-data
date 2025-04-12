@@ -1,0 +1,39 @@
+{
+  "number": 787,
+  "name": "Tapu Bulu (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Disable",
+      "Horn Attack",
+      "Leafage",
+      "Rock Smash",
+      "Withdraw"
+    ],
+    "silver": [
+      "Giga Drain",
+      "Horn Leech",
+      "Leech Seed",
+      "Mega Drain",
+      "Scary Face",
+      "Whirlwind"
+    ],
+    "gold": [
+      "Grassy Terrain",
+      "Mean Look",
+      "Megahorn",
+      "Nature's Madness",
+      "Rototiller",
+      "Skull Bash",
+      "Wood Hammer",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "number": 483,
+  "name": "Dialga (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "AncientPower",
+      "Dragon Breath",
+      "Metal Claw",
+      "Scary Face"
+    ],
+    "silver": [
+      "Dragon Claw",
+      "Earth Power",
+      "Flash Cannon",
+      "Metal Burst",
+      "Power Gem",
+      "Slash"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Heal Block",
+      "Iron Tail",
+      "Roar of Time"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

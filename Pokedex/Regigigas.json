@@ -1,0 +1,37 @@
+{
+  "number": 486,
+  "name": "Regigigas",
+  "base_hp": 7,
+  "strength": "4/9",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Confuse Ray",
+      "Payback",
+      "Pound"
+    ],
+    "silver": [
+      "Facade",
+      "Knock Off",
+      "Protect",
+      "Revenge",
+      "Stomp",
+      "Superpower"
+    ],
+    "gold": [
+      "Body Press",
+      "Crush Grip",
+      "Giga Impact",
+      "Hammer Arm",
+      "Heavy Slam",
+      "Mega Punch",
+      "Wide Guard",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

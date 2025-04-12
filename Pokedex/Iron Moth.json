@@ -8,9 +8,29 @@
   "special": "4/8",
   "insight": "3/7",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Gust", "Whirlwind", "Ember", "Acid Spray", "Elect=ic Terrain", "Struggle Bug", "Fire Spin", "Take Down", "Lunge", "Screech", "Discharge", "Sludge Wave", "Fiery Dance", "Metal Sound", "Morning Sun", "Hurricane", "Bug Buzz", "Overheat"],
+    "bronze": [
+      "Acid Spray",
+      "Ember",
+      "Gust",
+      "Struggle Bug",
+      "Whirlwind"
+    ],
+    "silver": [
+      "Fire Spin",
+      "Lunge",
+      "Take Down"
+    ],
+    "gold": [
+      "Bug Buzz",
+      "Discharge",
+      "Fiery Dance",
+      "Hurricane",
+      "Metal Sound",
+      "Morning Sun",
+      "Overheat",
+      "Screech",
+      "Sludge Wave"
+    ],
     "platinum": [],
     "diamond": []
   }

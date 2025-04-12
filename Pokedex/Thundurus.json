@@ -1,0 +1,41 @@
+{
+  "number": 642,
+  "name": "Thundurus",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "2/4",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Bite",
+      "Leer",
+      "Swagger",
+      "Thunder Shock"
+    ],
+    "silver": [
+      "Agility",
+      "Charge",
+      "Heal Block",
+      "Revenge",
+      "Shock Wave"
+    ],
+    "gold": [
+      "Crunch",
+      "Dark Pulse",
+      "Discharge",
+      "Hammer Arm",
+      "Nasty Plot",
+      "Rain Dance",
+      "Thrash",
+      "Thunder",
+      "Uproar",
+      "Volt Switch",
+      "Wildbolt Storm"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "number": 485,
+  "name": "Heatran (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Fire Spin",
+      "Leer",
+      "Metal Claw"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Crunch",
+      "Fire Fang",
+      "Iron Head",
+      "Metal Sound",
+      "Scary Face"
+    ],
+    "gold": [
+      "Earth Power",
+      "Heat Wave",
+      "Lava Plume",
+      "Magma Storm",
+      "Stone Edge"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

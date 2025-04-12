@@ -8,9 +8,30 @@
   "special": "3/7",
   "insight": "2/4",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Disable", "Double Team", "Shadow Sneak", "Fury Cutter", "Electric Terrain", "Hypnosis", "Feint", "Future Sight", "Dazzling Gleam", "Psycho Cut", "Night Slash", "Leaf Blade", "Moonblast", "Close Combat", "Knock Off", "Destiny Bond", "Wide Guard", "Quick Guard", "Spirit Break"],
+    "bronze": [
+      "Disable",
+      "Double Team",
+      "Fury Cutter",
+      "Hypnosis",
+      "Shadow Sneak"
+    ],
+    "silver": [
+      "Dazzling Gleam",
+      "Feint",
+      "Future Sight"
+    ],
+    "gold": [
+      "Close Combat",
+      "Destiny Bond",
+      "Knock Off",
+      "Leaf Blade",
+      "Moonblast",
+      "Night Slash",
+      "Psycho Cut",
+      "Quick Guard",
+      "Spirit Break",
+      "Wide Guard"
+    ],
     "platinum": [],
     "diamond": []
   }

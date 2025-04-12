@@ -1,0 +1,35 @@
+{
+  "number": 1009,
+  "name": "Walking Wake (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Aqua Jet",
+      "Bite",
+      "Leer",
+      "Roar",
+      "Twister"
+    ],
+    "silver": [
+      "Dragon Breath",
+      "Noble Roar",
+      "Water Pulse"
+    ],
+    "gold": [
+      "Breaking Swipe",
+      "Dragon Pulse",
+      "Dragon Rush",
+      "Flamethrower",
+      "Hydro Pump",
+      "Hydro Steam",
+      "Outrage"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

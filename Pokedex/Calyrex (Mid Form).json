@@ -1,0 +1,37 @@
+{
+  "number": 898,
+  "name": "Calyrex (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Growth",
+      "Life Dew",
+      "Mega Drain",
+      "Pound"
+    ],
+    "silver": [
+      "Giga Drain",
+      "Helping Hand",
+      "Psyshock"
+    ],
+    "gold": [
+      "Aromatherapy",
+      "Energy Ball",
+      "Future Sight",
+      "Grassy Terrain",
+      "Heal Pulse",
+      "Leech Seed",
+      "Psychic",
+      "Psychic Terrain",
+      "Solar Beam"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

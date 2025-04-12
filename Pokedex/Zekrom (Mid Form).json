@@ -1,0 +1,37 @@
+{
+  "number": 644,
+  "name": "Zekrom (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Dragon Breath",
+      "Imprison",
+      "Noble Roar",
+      "Slash",
+      "Thunder Fang"
+    ],
+    "silver": [
+      "AncientPower",
+      "Crunch",
+      "Dragon Claw",
+      "DragonBreath",
+      "Thunderbolt",
+      "Zen Headbutt"
+    ],
+    "gold": [
+      "Bolt Strike",
+      "Fusion Bolt",
+      "Hyper Voice",
+      "Outrage",
+      "Thunder"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

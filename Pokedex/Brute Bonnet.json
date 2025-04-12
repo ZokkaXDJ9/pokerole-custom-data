@@ -8,9 +8,27 @@
   "special": "2/5",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Absorb", "Growth", "Astonish", "Sunny Day", "Stun Spore", "Mega Drain", "Synthesis", "Clear Smog", "Payback", "Thrash", "Giga Drain", "Sucker Punch", "Spore", "Ingrain", "Rage Powder", "Solar Beam"],
+    "bronze": [
+      "Absorb",
+      "Astonish",
+      "Growth",
+      "Stun Spore"
+    ],
+    "silver": [
+      "Clear Smog",
+      "Mega Drain",
+      "Synthesis"
+    ],
+    "gold": [
+      "Giga Drain",
+      "Ingrain",
+      "Payback",
+      "Rage Powder",
+      "Solar Beam",
+      "Spore",
+      "Sucker Punch",
+      "Thrash"
+    ],
     "platinum": [],
     "diamond": []
   }

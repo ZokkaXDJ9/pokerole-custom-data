@@ -8,9 +8,29 @@
   "special": "2/5",
   "insight": "3/7",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Gust", "Ember", "Bug Bite", "Sunny Day", "Poison Powder", "Stun Spore", "Flame Charge", "Stomp", "Low Sweep", "Morning Sun", "Lunge", "Superpower", "Bulk Up", "Dual Wingbeat", "First Impression", "Whirlwind", "Leech Life", "Thrash"],
+    "bronze": [
+      "Bug Bite",
+      "Ember",
+      "Gust",
+      "Poison Powder",
+      "Stun Spore"
+    ],
+    "silver": [
+      "Flame Charge",
+      "Low Sweep",
+      "Stomp"
+    ],
+    "gold": [
+      "Bulk Up",
+      "Dual Wingbeat",
+      "First Impression",
+      "Leech Life",
+      "Lunge",
+      "Morning Sun",
+      "Superpower",
+      "Thrash",
+      "Whirlwind"
+    ],
     "platinum": [],
     "diamond": []
   }

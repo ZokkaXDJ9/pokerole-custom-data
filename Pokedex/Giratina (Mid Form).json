@@ -1,0 +1,37 @@
+{
+  "number": 487,
+  "name": "Giratina (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "AncientPower",
+      "Defog",
+      "Dragon Breath",
+      "Ominous Wind",
+      "Shadow Sneak"
+    ],
+    "silver": [
+      "Destiny Bond",
+      "Dragon Claw",
+      "Earth Power",
+      "Hex",
+      "Slash"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Heal Block",
+      "Pain Split",
+      "Scary Face",
+      "Shadow Claw",
+      "Shadow Force"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

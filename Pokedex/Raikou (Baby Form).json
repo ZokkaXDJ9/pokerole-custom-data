@@ -1,0 +1,39 @@
+{
+  "number": 243,
+  "name": "Raikou (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Charge",
+      "Extreme Speed",
+      "Leer",
+      "Quick Attack",
+      "Spark",
+      "Thunder Shock",
+      "ThunderShock"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Roar",
+      "Thunder Fang"
+    ],
+    "gold": [
+      "Crunch",
+      "Discharge",
+      "Extrasensory",
+      "Howl",
+      "Rain Dance",
+      "Reflect",
+      "Thunder",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

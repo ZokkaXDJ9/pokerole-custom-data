@@ -1,0 +1,40 @@
+{
+  "number": 788,
+  "name": "Tapu Fini (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Disarming Voice",
+      "Haze",
+      "Mist",
+      "Water Gun",
+      "Water Pulse",
+      "Withdraw"
+    ],
+    "silver": [
+      "Aqua Ring",
+      "Brine",
+      "Defog",
+      "Refresh",
+      "Soak",
+      "Whirlpool"
+    ],
+    "gold": [
+      "Heal Pulse",
+      "Hydro Pump",
+      "Mean Look",
+      "Misty Terrain",
+      "Moonblast",
+      "Muddy Water",
+      "Nature's Madness",
+      "Surf"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

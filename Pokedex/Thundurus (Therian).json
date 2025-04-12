@@ -1,0 +1,42 @@
+{
+  "number": 642,
+  "api_id": 10020,
+  "name": "Thundurus (Therian)",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Bite",
+      "Leer",
+      "Swagger",
+      "Thunder Shock"
+    ],
+    "silver": [
+      "Agility",
+      "Charge",
+      "Heal Block",
+      "Revenge",
+      "Shock Wave"
+    ],
+    "gold": [
+      "Crunch",
+      "Dark Pulse",
+      "Discharge",
+      "Hammer Arm",
+      "Nasty Plot",
+      "Rain Dance",
+      "Thrash",
+      "Thunder",
+      "Uproar",
+      "Volt Switch",
+      "Wildbolt Storm"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

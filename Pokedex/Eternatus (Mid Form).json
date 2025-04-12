@@ -1,0 +1,36 @@
+{
+  "number": 890,
+  "name": "Eternatus (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Agility",
+      "Confuse Ray",
+      "Dragon Tail",
+      "Poison Tail",
+      "Toxic"
+    ],
+    "silver": [
+      "Cross Poison",
+      "Dragon Dance",
+      "Venoshock"
+    ],
+    "gold": [
+      "Cosmic Power",
+      "Dragon Pulse",
+      "Dynamax Cannon",
+      "Eternabeam",
+      "Flamethrower",
+      "Hyper Beam",
+      "Outrage",
+      "Recover"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

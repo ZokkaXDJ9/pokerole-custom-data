@@ -8,9 +8,29 @@
   "special": "3/7",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Thunder Wave", "Electric Terrain", "Supersonic", "Thunder Shock", "Sunny Day", "Spark", "Bulldoze", "Charge Beam", "Tri Attack", "Screech", "Heavy Slam", "Metal Sound", "Discharge", "Earth Power", "Mirror Coat", "Gravity", "Zap Cannon", "Magnetic Flux"],
+    "bronze": [
+      "Electric Terrain",
+      "Spark",
+      "Supersonic",
+      "Thunder Shock",
+      "Thunder Wave"
+    ],
+    "silver": [
+      "Bulldoze",
+      "Charge Beam",
+      "Tri Attack"
+    ],
+    "gold": [
+      "Discharge",
+      "Earth Power",
+      "Gravity",
+      "Heavy Slam",
+      "Magnetic Flux",
+      "Metal Sound",
+      "Mirror Coat",
+      "Screech",
+      "Zap Cannon"
+    ],
     "platinum": [],
     "diamond": []
   }

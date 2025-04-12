@@ -1,0 +1,27 @@
+{
+  "number": 145,
+  "api_id": 10170,
+  "name": "Zapdos (Galarian)",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Focus Energy", "Peck", "Rock Smash", "Light Screen"],
+    "silver": ["Pluck", "Agility", "Ancient Power", "Brick Break"],
+    "gold": [
+      "Drill Peck",
+      "Quick Guard",
+      "Thunderous Kick",
+      "Bulk Up",
+      "Counter",
+      "Detect",
+      "Close Combat",
+      "Reversal"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

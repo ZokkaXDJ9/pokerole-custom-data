@@ -1,0 +1,41 @@
+{
+  "number": 244,
+  "name": "Entei",
+  "base_hp": 7,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Ember",
+      "Extreme Speed",
+      "Flame Wheel",
+      "Leer",
+      "Sacred Fire",
+      "Smokescreen",
+      "Stomp"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Fire Fang",
+      "Fire Spin",
+      "Roar"
+    ],
+    "gold": [
+      "Crunch",
+      "Eruption",
+      "Extrasensory",
+      "Fire Blast",
+      "Flamethrower",
+      "Lava Plume",
+      "Scary Face",
+      "Sunny Day",
+      "Swagger"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "number": 796,
+  "name": "Xurkitree",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "5/10",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Charge",
+      "Thunder Shock",
+      "Thunder Wave",
+      "Wrap"
+    ],
+    "silver": [
+      "Eerie Impulse",
+      "Hypnosis",
+      "Ingrain",
+      "Shock Wave",
+      "Signal Beam",
+      "Spark",
+      "Thunder Punch"
+    ],
+    "gold": [
+      "Discharge",
+      "Electric Terrain",
+      "Ion Deluge",
+      "Magnet Rise",
+      "Power Whip",
+      "Thunderbolt",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

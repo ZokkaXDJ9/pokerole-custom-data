@@ -1,0 +1,36 @@
+{
+  "number": 382,
+  "name": "Kyogre (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Aqua Tail",
+      "Body Slam",
+      "Origin Pulse",
+      "Scary Face",
+      "Water Pulse"
+    ],
+    "silver": [
+      "AncientPower",
+      "Aqua Ring",
+      "Calm Mind",
+      "Muddy Water"
+    ],
+    "gold": [
+      "Double-Edge",
+      "Hydro Pump",
+      "Ice Beam",
+      "Rest",
+      "Sheer Cold",
+      "Water Spout"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

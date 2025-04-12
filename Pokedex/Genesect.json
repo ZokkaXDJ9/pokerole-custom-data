@@ -1,0 +1,41 @@
+{
+  "number": 649,
+  "name": "Genesect",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Fury Cutter",
+      "Quick Attack",
+      "Screech"
+    ],
+    "silver": [
+      "Fell Stinger",
+      "Flame Charge",
+      "Lock-On",
+      "Magnet Bomb",
+      "Metal Claw",
+      "Metal Sound",
+      "Slash"
+    ],
+    "gold": [
+      "Bug Buzz",
+      "Hyper Beam",
+      "Magnet Rise",
+      "Self-Destruct",
+      "Selfdestruct",
+      "Signal Beam",
+      "Simple Beam",
+      "Techno Blast",
+      "Tri Attack",
+      "X-Scissor",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

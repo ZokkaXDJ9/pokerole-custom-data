@@ -1,0 +1,38 @@
+{
+  "number": 800,
+  "name": "Necrozma (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Charge Beam",
+      "Confusion",
+      "Gravity",
+      "Metal Claw",
+      "Moonlight",
+      "Morning Sun",
+      "Slash",
+      "Stealth Rock"
+    ],
+    "silver": [
+      "Night Slash",
+      "Psycho Cut",
+      "Rock Blast",
+      "Stored Power"
+    ],
+    "gold": [
+      "Autotomize",
+      "Iron Defense",
+      "Photon Geyser",
+      "Power Gem",
+      "Prismatic Laser",
+      "Wring Out"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

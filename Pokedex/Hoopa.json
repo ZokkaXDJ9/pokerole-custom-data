@@ -1,0 +1,39 @@
+{
+  "number": 720,
+  "name": "Hoopa",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "4/8",
+  "insight": "4/8",
+  "moves": {
+    "bronze": [
+      "Ally Switch",
+      "Astonish",
+      "Confusion",
+      "Destiny Bond",
+      "Magic Coat",
+      "Trick"
+    ],
+    "silver": [
+      "Guard Split",
+      "Light Screen",
+      "Power Split",
+      "Psybeam",
+      "Skill Swap"
+    ],
+    "gold": [
+      "Hyperspace Hole",
+      "Nasty Plot",
+      "Phantom Force",
+      "Psychic",
+      "Shadow Ball",
+      "Trick Room",
+      "Wonder Room",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

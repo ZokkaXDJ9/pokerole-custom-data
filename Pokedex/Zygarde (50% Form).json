@@ -1,0 +1,41 @@
+{
+  "number": 718,
+  "name": "Zygarde (50% Form)",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Bind",
+      "Bite",
+      "Bulldoze",
+      "Core Enforcer",
+      "Dig",
+      "Dragon Breath",
+      "Haze",
+      "Safeguard",
+      "Thousand Arrows",
+      "Thousand Waves"
+    ],
+    "silver": [
+      "Crunch",
+      "Land's Wrath"
+    ],
+    "gold": [
+      "Camouflage",
+      "Coil",
+      "Dragon Dance",
+      "Dragon Pulse",
+      "Earthquake",
+      "Extreme Speed",
+      "Glare",
+      "Outrage",
+      "Sandstorm"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

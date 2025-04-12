@@ -1,0 +1,38 @@
+{
+  "number": 806,
+  "name": "Blacephalon",
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "2/4",
+  "special": "4/9",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Ember",
+      "Fire Spin",
+      "Light Screen",
+      "Magic Coat"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Confuse Ray",
+      "Flame Burst",
+      "Incinerate",
+      "Night Shade",
+      "Stored Power"
+    ],
+    "gold": [
+      "Fire Blast",
+      "Hypnosis",
+      "Mind Blown",
+      "Mystical Fire",
+      "Shadow Ball",
+      "Trick",
+      "Will-O-Wisp"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

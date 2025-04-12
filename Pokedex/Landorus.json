@@ -1,0 +1,40 @@
+{
+  "number": 645,
+  "name": "Landorus",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Block",
+      "Imprison",
+      "Leer",
+      "Punishment",
+      "Rock Throw",
+      "Sand Tomb",
+      "Smack Down"
+    ],
+    "silver": [
+      "Bulldoze",
+      "Extrasensory",
+      "Rock Tomb",
+      "Swords Dance"
+    ],
+    "gold": [
+      "Earth Power",
+      "Earthquake",
+      "Fissure",
+      "Hammer Arm",
+      "Outrage",
+      "Rock Slide",
+      "Sandsear Storm",
+      "Sandstorm",
+      "Stone Edge"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

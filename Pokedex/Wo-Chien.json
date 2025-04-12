@@ -2,16 +2,38 @@
   "number": 1001,
   "name": "Wo-Chien",
   "base_hp": 5,
-  "strength": "5/5",
-  "dexterity": "5/5",
-  "vitality": "6/6",
-  "special": "6/6",
-  "insight": "8/8",
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "4/8",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Absorb", "Spite", "Mean Look", "Tickle", "Payback", "Poison Powder", "Stun Spore", "Mega Drain", "Leech Seed", "Growth", "Ingrain", "Dark Pulse", "Giga Drain", "Ruination", "Foul Play", "Power Whip", "Grassy Terrain", "Knock Off", "Leaf Storm"],
+    "bronze": [
+      "Absorb",
+      "Mean Look",
+      "Payback",
+      "Spite",
+      "Tickle"
+    ],
+    "silver": [
+      "Growth",
+      "Leech Seed",
+      "Mega Drain",
+      "Poison Powder",
+      "Stun Spore"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Foul Play",
+      "Giga Drain",
+      "Grassy Terrain",
+      "Ingrain",
+      "Knock Off",
+      "Leaf Storm",
+      "Power Whip",
+      "Ruination"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

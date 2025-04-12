@@ -1,0 +1,37 @@
+{
+  "number": 993,
+  "name": "Iron Jugulis (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Air Cutter",
+      "Electric Terrain",
+      "Focus Energy",
+      "Roar",
+      "Tri Attack",
+      "Work Up"
+    ],
+    "silver": [
+      "Assurance",
+      "Dragon Breath",
+      "Snarl"
+    ],
+    "gold": [
+      "Air Slash",
+      "Crunch",
+      "Dark Pulse",
+      "Dragon Pulse",
+      "Hyper Beam",
+      "Hyper Voice",
+      "Knock Off",
+      "Outrage"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

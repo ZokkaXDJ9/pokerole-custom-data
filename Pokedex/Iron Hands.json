@@ -8,9 +8,29 @@
   "special": "2/4",
   "insight": "2/4",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Sand Attack", "Tackle", "Focus Energy", "Arm Thrust", "Electric Terrain", "Fake Out", "Whirlwind", "Thunder Punch", "Slam", "Force Palm", "Seismic Toss", "Charge", "Wild Charge", "Close Combat", "Detect", "Heavy Slam", "Belly Drum", "Focus Punch"],
+    "bronze": [
+      "Arm Thrust",
+      "Fake Out",
+      "Focus Energy",
+      "Sand Attack",
+      "Tackle"
+    ],
+    "silver": [
+      "Slam",
+      "Thunder Punch",
+      "Whirlwind"
+    ],
+    "gold": [
+      "Belly Drum",
+      "Charge",
+      "Close Combat",
+      "Detect",
+      "Focus Punch",
+      "Force Palm",
+      "Heavy Slam",
+      "Seismic Toss",
+      "Wild Charge"
+    ],
     "platinum": [],
     "diamond": []
   }

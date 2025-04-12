@@ -1,0 +1,39 @@
+{
+  "number": 243,
+  "name": "Raikou (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Charge",
+      "Extreme Speed",
+      "Leer",
+      "Quick Attack",
+      "Spark",
+      "Thunder Shock",
+      "ThunderShock"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Roar",
+      "Thunder Fang"
+    ],
+    "gold": [
+      "Crunch",
+      "Discharge",
+      "Extrasensory",
+      "Howl",
+      "Rain Dance",
+      "Reflect",
+      "Thunder",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "number": 888,
+  "name": "Zacian",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Howl",
+      "Metal Claw",
+      "Quick Attack",
+      "Quick Guard",
+      "Sacred Sword"
+    ],
+    "silver": [
+      "Iron Head",
+      "Slash",
+      "Swords Dance"
+    ],
+    "gold": [
+      "Close Combat",
+      "Crunch",
+      "Giga Impact",
+      "Laser Focus",
+      "Moonblast",
+      "Noble Roar"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

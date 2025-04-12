@@ -1,0 +1,35 @@
+{
+  "number": 1009,
+  "name": "Walking Wake (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Aqua Jet",
+      "Bite",
+      "Leer",
+      "Roar",
+      "Twister"
+    ],
+    "silver": [
+      "Dragon Breath",
+      "Noble Roar",
+      "Water Pulse"
+    ],
+    "gold": [
+      "Breaking Swipe",
+      "Dragon Pulse",
+      "Dragon Rush",
+      "Flamethrower",
+      "Hydro Pump",
+      "Hydro Steam",
+      "Outrage"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

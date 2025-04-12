@@ -1,0 +1,40 @@
+{
+  "number": 905,
+  "name": "Enamorus (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Bite",
+      "Fairy Wind",
+      "Flatter",
+      "Tackle",
+      "Torment"
+    ],
+    "silver": [
+      "Draining Kiss",
+      "Extrasensory",
+      "Imprison",
+      "Iron Defense",
+      "Twister"
+    ],
+    "gold": [
+      "Crunch",
+      "Dazzling Gleam",
+      "Healing Wish",
+      "Moonblast",
+      "Mystical Fire",
+      "Outrage",
+      "Springtide Storm",
+      "Superpower",
+      "Uproar"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

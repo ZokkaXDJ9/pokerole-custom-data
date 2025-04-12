@@ -1,0 +1,41 @@
+{
+  "number": 250,
+  "name": "Ho-oh",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "Gust",
+      "Life Dew",
+      "Sacred Fire",
+      "Safeguard",
+      "Weather Ball",
+      "Whirlwind"
+    ],
+    "silver": [
+      "Brave Bird",
+      "Calm Mind",
+      "Extrasensory",
+      "Fire Blast",
+      "Recover",
+      "Sunny Day"
+    ],
+    "gold": [
+      "AncientPower",
+      "Burn Up",
+      "Future Sight",
+      "Natural Gift",
+      "Overheat",
+      "Punishment",
+      "Sky Attack",
+      "Swift"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

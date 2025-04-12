@@ -1,0 +1,36 @@
+{
+  "number": 251,
+  "name": "Celebi",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Heal Bell",
+      "Leech Seed",
+      "Magical Leaf",
+      "Recover",
+      "Safeguard"
+    ],
+    "silver": [
+      "Ancient Power",
+      "AncientPower",
+      "Baton Pass",
+      "Future Sight"
+    ],
+    "gold": [
+      "Heal Block",
+      "Healing Wish",
+      "Leaf Storm",
+      "Life Dew",
+      "Natural Gift",
+      "Perish Song"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

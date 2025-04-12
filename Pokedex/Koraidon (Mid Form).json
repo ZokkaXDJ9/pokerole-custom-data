@@ -1,0 +1,36 @@
+{
+  "number": 1007,
+  "name": "Koraidon (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Breaking Swipe",
+      "Rock Smash",
+      "Sunny Day"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Brick Break",
+      "Drain Punch"
+    ],
+    "gold": [
+      "Agility",
+      "Close Combat",
+      "Collision Course",
+      "Counter",
+      "Dragon Claw",
+      "Flamethrower",
+      "Flare Blitz",
+      "Giga Impact",
+      "Outrage",
+      "Screech"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

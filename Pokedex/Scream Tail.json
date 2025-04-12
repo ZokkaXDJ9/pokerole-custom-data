@@ -8,9 +8,28 @@
   "special": "2/4",
   "insight": "3/7",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Pound", "Sing", "Disable", "Sunny Day", "Howl", "Noble Roar", "Bite", "Body Slam", "Rest", "Play Rough", "Hyper Voice", "Psychic Fangs", "Crunch", "Wish", "Gyro Ball", "Perish Song", "Boomburst"],
+    "bronze": [
+      "Disable",
+      "Howl",
+      "Pound",
+      "Sing"
+    ],
+    "silver": [
+      "Bite",
+      "Body Slam",
+      "Noble Roar"
+    ],
+    "gold": [
+      "Boomburst",
+      "Crunch",
+      "Gyro Ball",
+      "Hyper Voice",
+      "Perish Song",
+      "Play Rough",
+      "Psychic Fangs",
+      "Rest",
+      "Wish"
+    ],
     "platinum": [],
     "diamond": []
   }

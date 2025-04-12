@@ -1,0 +1,45 @@
+{
+  "number": 801,
+  "name": "Magearna",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Defense Curl",
+      "Gyro Ball",
+      "Helping Hand",
+      "Lucky Chant"
+    ],
+    "silver": [
+      "Aurora Beam",
+      "Gear Up",
+      "Iron Defense",
+      "Magnetic Flux",
+      "Mind Reader",
+      "Mirror Shot",
+      "Psybeam",
+      "Rollout"
+    ],
+    "gold": [
+      "Aura Sphere",
+      "Crafty Shield",
+      "Flash Cannon",
+      "Fleur Cannon",
+      "Heart Swap",
+      "Iron Head",
+      "Lock-On",
+      "Pain Split",
+      "Shift Gear",
+      "Synchronoise",
+      "Trick",
+      "Trump Card",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

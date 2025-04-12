@@ -1,0 +1,38 @@
+{
+  "number": 144,
+  "api_id": 10169,
+  "name": "Articuno (Galarian Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Gust",
+      "Psycho Shift",
+      "Confusion",
+      "Reflect"
+    ],
+    "silver": [
+      "Hypnosis",
+      "Agility",
+      "Ancient Power",
+      "Tailwind"
+    ],
+    "gold": [
+      "Psycho Cut",
+      "Recover",
+      "Freezing Glare",
+      "Dream Eater",
+      "Hurricane",
+      "Mind Reader",
+      "Future Sight",
+      "Trick Room",
+      "Double Team"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

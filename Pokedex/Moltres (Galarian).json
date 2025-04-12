@@ -1,0 +1,27 @@
+{
+  "number": 146,
+  "api_id": 10171,
+  "name": "Moltres (Galarian)",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Gust", "Leer", "Payback", "Safeguard"],
+    "silver": ["Wing Attack", "Agility", "Ancient Power", "Sucker Punch"],
+    "gold": [
+      "Air Slash",
+      "After You",
+      "Fiery Wrath",
+      "Nasty Plot",
+      "Hurricane",
+      "Endure",
+      "Memento",
+      "Sky Attack"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

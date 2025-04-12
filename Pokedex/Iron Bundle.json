@@ -8,9 +8,26 @@
   "special": "3/7",
   "insight": "2/4",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Present", "Electric Terrain", "Powder Snow", "Whirlpool", "Take Down", "Drill Peck", "Helping Hand", "Freeze-Dry", "Flip Turn", "Ice Beam", "Agility", "Snowscape", "Hydro Pump", "Aurora Veil", "Blizzard"],
+    "bronze": [
+      "Powder Snow",
+      "Present"
+    ],
+    "silver": [
+      "Drill Peck",
+      "Take Down",
+      "Whirlpool"
+    ],
+    "gold": [
+      "Agility",
+      "Aurora Veil",
+      "Blizzard",
+      "Flip Turn",
+      "Freeze-Dry",
+      "Helping Hand",
+      "Hydro Pump",
+      "Ice Beam",
+      "Snowscape"
+    ],
     "platinum": [],
     "diamond": []
   }

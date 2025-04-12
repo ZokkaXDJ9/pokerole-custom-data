@@ -8,9 +8,29 @@
   "special": "2/4",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Dragon Breath", "Leer", "Bite", "Focus Energy", "Sunny Day", "Jaw Lock", "Breaking Swipe", "Scale Shot", "Incinerate", "Headbutt", "Scary Face", "Dragon Claw", "Zen Headbutt", "Flamethrower", "Night Slash", "Dragon Dance", "Dragon Rush", "Fly", "Throat Chop", "Roost", "Double-Edge"],
+    "bronze": [
+      "Bite",
+      "Dragon Breath",
+      "Focus Energy",
+      "Incinerate",
+      "Leer"
+    ],
+    "silver": [
+      "Dragon Claw",
+      "Headbutt",
+      "Scary Face"
+    ],
+    "gold": [
+      "Double-Edge",
+      "Dragon Dance",
+      "Dragon Rush",
+      "Flamethrower",
+      "Fly",
+      "Night Slash",
+      "Roost",
+      "Throat Chop",
+      "Zen Headbutt"
+    ],
     "platinum": [],
     "diamond": []
   }

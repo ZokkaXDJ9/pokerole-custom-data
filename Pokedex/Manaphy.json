@@ -1,0 +1,34 @@
+{
+  "number": 490,
+  "name": "Manaphy",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Charm",
+      "Heart Swap",
+      "Tail Glow",
+      "Water Gun"
+    ],
+    "silver": [
+      "Acid Armor",
+      "Bubble Beam",
+      "BubbleBeam",
+      "Supersonic"
+    ],
+    "gold": [
+      "Aqua Ring",
+      "Dive",
+      "Rain Dance",
+      "Take Heart",
+      "Water Pulse",
+      "Whirlpool"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

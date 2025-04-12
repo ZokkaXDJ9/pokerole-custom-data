@@ -1,0 +1,39 @@
+{
+  "number": 793,
+  "name": "Nihilego (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "1/3",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Acid",
+      "Clear Smog",
+      "Pound",
+      "Tickle",
+      "Wrap"
+    ],
+    "silver": [
+      "Acid Spray",
+      "Guard Split",
+      "Headbutt",
+      "Power Split",
+      "Psywave",
+      "Safeguard",
+      "Toxic Spikes",
+      "Venoshock"
+    ],
+    "gold": [
+      "Head Smash",
+      "Mirror Coat",
+      "Power Gem",
+      "Stealth Rock",
+      "Venom Drench",
+      "Wonder Room"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

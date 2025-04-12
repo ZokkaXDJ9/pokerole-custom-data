@@ -1,0 +1,39 @@
+{
+  "number": 717,
+  "name": "Yveltal",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Air Slash",
+      "Double Team",
+      "Gust",
+      "Snarl",
+      "Taunt"
+    ],
+    "silver": [
+      "Disable",
+      "Oblivion Wing",
+      "Roost",
+      "Sucker Punch",
+      "Tailwind"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Dragon Rush",
+      "Focus Blast",
+      "Foul Play",
+      "Hurricane",
+      "Hyper Beam",
+      "Phantom Force",
+      "Psychic",
+      "Sky Attack"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

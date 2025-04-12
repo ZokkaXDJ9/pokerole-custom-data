@@ -2,16 +2,31 @@
   "number": 1024,
   "name": "Terapagos",
   "base_hp": 6,
-  "strength": "4/4",
-  "dexterity": "4/4",
-  "vitality": "5/5",
-  "special": "4/4",
-  "insight": "6/6",
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Withdraw", "Tri Attack", "Rapid Spin", "Ancient Power", "Headbutt", "Protect", "Earth Power", "Heavy Slam", "Tera Starstorm", "Double-Edge", "Rock Polish", "Gyro Ball"],
+    "bronze": [
+      "Ancient Power",
+      "Rapid Spin",
+      "Tri Attack",
+      "Withdraw"
+    ],
+    "silver": [
+      "Headbutt",
+      "Protect"
+    ],
+    "gold": [
+      "Double-Edge",
+      "Earth Power",
+      "Gyro Ball",
+      "Heavy Slam",
+      "Rock Polish",
+      "Tera Starstorm"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

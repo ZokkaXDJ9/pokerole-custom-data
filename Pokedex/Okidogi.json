@@ -2,16 +2,31 @@
   "number": 1014,
   "name": "Okidogi",
   "base_hp": 5,
-  "strength": "8/8",
-  "dexterity": "5/5",
-  "vitality": "7/7",
-  "special": "4/4",
-  "insight": "5/5",
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/4",
+  "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Bite", "Low Kick", "Bulk Up", "Howl", "Poison Fang", "Force Palm", "Counter", "Poison Jab", "Brutal Swing", "Crunch", "Superpower", "Giga Impact"],
+    "bronze": [
+      "Bite",
+      "Bulk Up",
+      "Howl",
+      "Low Kick"
+    ],
+    "silver": [
+      "Counter",
+      "Force Palm",
+      "Poison Fang"
+    ],
+    "gold": [
+      "Brutal Swing",
+      "Crunch",
+      "Giga Impact",
+      "Poison Jab",
+      "Superpower"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

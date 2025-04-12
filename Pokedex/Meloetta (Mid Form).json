@@ -1,0 +1,36 @@
+{
+  "number": 648,
+  "name": "Meloetta (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Quick Attack",
+      "Round",
+      "Sing"
+    ],
+    "silver": [
+      "Acrobatics",
+      "Psybeam",
+      "Teeter Dance"
+    ],
+    "gold": [
+      "Close Combat",
+      "Echoed Voice",
+      "Hyper Voice",
+      "Perish Song",
+      "Psychic",
+      "Relic Song",
+      "Role Play",
+      "U-turn",
+      "Wake-Up Slap"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

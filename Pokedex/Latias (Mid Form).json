@@ -1,0 +1,41 @@
+{
+  "number": 380,
+  "name": "Latias (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Charm",
+      "Helping Hand",
+      "Recover",
+      "Stored Power",
+      "Water Sport",
+      "Wish"
+    ],
+    "silver": [
+      "Confusion",
+      "Dragon Breath",
+      "DragonBreath",
+      "Heal Pulse",
+      "Mist Ball",
+      "Psycho Shift",
+      "Refresh",
+      "Safeguard",
+      "Tailwind"
+    ],
+    "gold": [
+      "Dragon Pulse",
+      "Guard Split",
+      "Healing Wish",
+      "Psychic",
+      "Reflect Type",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

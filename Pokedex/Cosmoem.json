@@ -1,0 +1,20 @@
+{
+  "number": 790,
+  "name": "Cosmoem",
+  "base_hp": 3,
+  "strength": "1/2",
+  "dexterity": "1/3",
+  "vitality": "4/8",
+  "special": "1/2",
+  "insight": "4/8",
+  "moves": {
+    "bronze": [
+      "Cosmic Power",
+      "Teleport"
+    ],
+    "silver": [],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}

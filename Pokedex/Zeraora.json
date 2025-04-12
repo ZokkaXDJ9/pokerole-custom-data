@@ -1,0 +1,38 @@
+{
+  "number": 807,
+  "name": "Zeraora",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "4/8",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Fake Out",
+      "Fury Swipes",
+      "Hone Claws",
+      "Power-Up Punch",
+      "Quick Attack",
+      "Scratch",
+      "Snarl",
+      "Spark"
+    ],
+    "silver": [
+      "Charge",
+      "Quick Guard",
+      "Slash",
+      "Thunder Punch",
+      "Volt Switch"
+    ],
+    "gold": [
+      "Agility",
+      "Close Combat",
+      "Discharge",
+      "Plasma Fists",
+      "Wild Charge"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -8,9 +8,29 @@
   "special": "2/5",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Horn Attack", "Leer", "Rock Throw", "Electric Terrain", "Quick Attack", "Slash", "Agility", "Psycho Cut", "Counter", "Rock Tomb", "Sacred Sword", "Mighty Cleave", "Swords Dance", "Megahorn", "Quick Guard", "Stone Edge", "Giga Impact"],
+    "bronze": [
+      "Electric Terrain",
+      "Horn Attack",
+      "Leer",
+      "Quick Attack",
+      "Rock Throw"
+    ],
+    "silver": [
+      "Agility",
+      "Psycho Cut",
+      "Slash"
+    ],
+    "gold": [
+      "Counter",
+      "Giga Impact",
+      "Megahorn",
+      "Mighty Cleave",
+      "Quick Guard",
+      "Rock Tomb",
+      "Sacred Sword",
+      "Stone Edge",
+      "Swords Dance"
+    ],
     "platinum": [],
     "diamond": []
   }

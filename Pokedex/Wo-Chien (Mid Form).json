@@ -1,0 +1,39 @@
+{
+  "number": 1001,
+  "name": "Wo-Chien (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Absorb",
+      "Mean Look",
+      "Payback",
+      "Spite",
+      "Tickle"
+    ],
+    "silver": [
+      "Growth",
+      "Leech Seed",
+      "Mega Drain",
+      "Poison Powder",
+      "Stun Spore"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Foul Play",
+      "Giga Drain",
+      "Grassy Terrain",
+      "Ingrain",
+      "Knock Off",
+      "Leaf Storm",
+      "Power Whip",
+      "Ruination"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "number": 795,
+  "name": "Pheromosa (Mid Form)",
+  "base_hp": 4,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "1/2",
+  "special": "3/6",
+  "insight": "1/2",
+  "moves": {
+    "bronze": [
+      "Feint",
+      "Leer",
+      "Quick Guard",
+      "Rapid Spin",
+      "Swift"
+    ],
+    "silver": [
+      "Bounce",
+      "Bug Bite",
+      "Double Kick",
+      "Jump Kick",
+      "Low Kick",
+      "Silver Wind",
+      "Stomp",
+      "Triple Kick"
+    ],
+    "gold": [
+      "Agility",
+      "Bug Buzz",
+      "High Jump Kick",
+      "Lunge",
+      "Me First",
+      "Quiver Dance",
+      "Speed Swap"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

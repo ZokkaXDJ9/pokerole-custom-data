@@ -1,0 +1,38 @@
+{
+  "number": 491,
+  "name": "Darkrai",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "4/8",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Confuse Ray",
+      "Disable"
+    ],
+    "silver": [
+      "Faint Attack",
+      "Feint Attack",
+      "Hypnosis",
+      "Pursuit",
+      "Quick Attack",
+      "Sucker Punch"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Dark Void",
+      "Double Team",
+      "Dream Eater",
+      "Embargo",
+      "Foul Play",
+      "Haze",
+      "Nasty Plot",
+      "Night Shade",
+      "Nightmare"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

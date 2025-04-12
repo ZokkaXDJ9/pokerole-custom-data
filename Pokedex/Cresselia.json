@@ -1,0 +1,36 @@
+{
+  "number": 488,
+  "name": "Cresselia",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Double Team",
+      "Mist"
+    ],
+    "silver": [
+      "Ally Switch",
+      "Aurora Beam",
+      "Psybeam",
+      "Psycho Shift",
+      "Safeguard",
+      "Slash"
+    ],
+    "gold": [
+      "Future Sight",
+      "Lunar Blessing",
+      "Lunar Dance",
+      "Moonblast",
+      "Moonlight",
+      "Psychic",
+      "Psycho Cut"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

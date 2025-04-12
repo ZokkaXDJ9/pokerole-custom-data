@@ -1,0 +1,31 @@
+{
+  "number": 483,
+  "api_id": 10245,
+  "name": "Dialga (Origin Form)",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "4/8",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Ancient Power",
+      "AncientPower",
+      "Dragon Breath",
+      "Metal Claw",
+      "Scary Face"
+    ],
+    "silver": [
+      "Dragon Claw",
+      "Earth Power",
+      "Flash Cannon",
+      "Metal Burst",
+      "Power Gem",
+      "Slash"
+    ],
+    "gold": ["Aura Sphere", "Heal Block", "Iron Tail", "Roar of Time"],
+    "platinum": [],
+    "diamond": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "number": 897,
+  "name": "Spectrier (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Double Kick",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "silver": [
+      "Confuse Ray",
+      "Haze",
+      "Hex",
+      "Stomp"
+    ],
+    "gold": [
+      "Agility",
+      "Disable",
+      "Double-Edge",
+      "Nasty Plot",
+      "Shadow Ball",
+      "Take Down",
+      "Thrash"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

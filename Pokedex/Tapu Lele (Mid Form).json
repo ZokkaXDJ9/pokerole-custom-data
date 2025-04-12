@@ -1,0 +1,38 @@
+{
+  "number": 786,
+  "name": "Tapu Lele (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Aromatherapy",
+      "Astonish",
+      "Confusion",
+      "Psywave",
+      "Withdraw"
+    ],
+    "silver": [
+      "Aromatic Mist",
+      "Draining Kiss",
+      "Flatter",
+      "Psybeam",
+      "Psyshock",
+      "Skill Swap",
+      "Sweet Scent"
+    ],
+    "gold": [
+      "Extrasensory",
+      "Mean Look",
+      "Moonblast",
+      "Nature's Madness",
+      "Psychic Terrain",
+      "Tickle"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

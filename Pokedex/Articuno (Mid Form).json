@@ -1,0 +1,40 @@
+{
+  "number": 144,
+  "name": "Articuno",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Gust",
+      "Ice Beam",
+      "Mist",
+      "Peck",
+      "Powder Snow",
+      "Reflect"
+    ],
+    "silver": [
+      "Agility",
+      "Ancient Power",
+      "AncientPower",
+      "Ice Shard",
+      "Mind Reader",
+      "Tailwind"
+    ],
+    "gold": [
+      "Blizzard",
+      "Freeze-Dry",
+      "Hail",
+      "Haze",
+      "Hurricane",
+      "Roost",
+      "Sheer Cold",
+      "Snowscape"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

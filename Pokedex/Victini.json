@@ -1,0 +1,39 @@
+{
+  "number": 494,
+  "name": "Victini",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Endure",
+      "Flame Charge",
+      "Focus Energy",
+      "Quick Attack",
+      "V-create",
+      "Work Up"
+    ],
+    "silver": [
+      "Headbutt",
+      "Incinerate",
+      "Reversal",
+      "Stored Power"
+    ],
+    "gold": [
+      "Double-Edge",
+      "Final Gambit",
+      "Flame Burst",
+      "Flare Blitz",
+      "Inferno",
+      "Overheat",
+      "Searing Shot",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

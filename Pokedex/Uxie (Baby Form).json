@@ -1,0 +1,35 @@
+{
+  "number": 480,
+  "name": "Uxie (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Imprison",
+      "Rest",
+      "Swift"
+    ],
+    "silver": [
+      "Endure",
+      "Psybeam",
+      "Yawn"
+    ],
+    "gold": [
+      "Amnesia",
+      "Extrasensory",
+      "Flail",
+      "Future Sight",
+      "Memento",
+      "Mystical Power",
+      "Natural Gift",
+      "Psychic"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

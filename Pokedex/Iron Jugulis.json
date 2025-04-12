@@ -4,13 +4,33 @@
   "base_hp": 6,
   "strength": "2/5",
   "dexterity": "3/6",
-  "vitality": "3/6",
+  "vitality": "2/5",
   "special": "3/7",
   "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Electric Terrain", "Work Up", "Focus Energy", "Tri Attack", "Air Cutter", "Roar", "Assurance", "Dragon Breath", "Snarl", "Crunch", "Hyper Voice", "Air Slash", "Knock Off", "Dark Pulse", "Outrage", "Dragon Pulse", "Hyper Beam"],
+    "bronze": [
+      "Air Cutter",
+      "Electric Terrain",
+      "Focus Energy",
+      "Roar",
+      "Tri Attack",
+      "Work Up"
+    ],
+    "silver": [
+      "Assurance",
+      "Dragon Breath",
+      "Snarl"
+    ],
+    "gold": [
+      "Air Slash",
+      "Crunch",
+      "Dark Pulse",
+      "Dragon Pulse",
+      "Hyper Beam",
+      "Hyper Voice",
+      "Knock Off",
+      "Outrage"
+    ],
     "platinum": [],
     "diamond": []
   }

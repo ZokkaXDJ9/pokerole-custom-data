@@ -1,17 +1,36 @@
 {
   "number": 1007,
   "name": "Koraidon",
-  "base_hp": 6,
-  "strength": "8/8",
-  "dexterity": "8/8",
-  "vitality": "7/7",
-  "special": "5/5",
-  "insight": "6/6",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "2/5",
+  "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Sunny Day", "Breaking Swipe", "Rock Smash", "Ancient Power", "Drain Punch", "Brick Break", "Agility", "Dragon Claw", "Flamethrower", "Collision Course", "Screech", "Counter", "Outrage", "Close Combat", "Flare Blitz", "Giga Impact"],
+    "bronze": [
+      "Breaking Swipe",
+      "Rock Smash",
+      "Sunny Day"
+    ],
+    "silver": [
+      "Ancient Power",
+      "Brick Break",
+      "Drain Punch"
+    ],
+    "gold": [
+      "Agility",
+      "Close Combat",
+      "Collision Course",
+      "Counter",
+      "Dragon Claw",
+      "Flamethrower",
+      "Flare Blitz",
+      "Giga Impact",
+      "Outrage",
+      "Screech"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

@@ -1,0 +1,37 @@
+{
+  "number": 1021,
+  "name": "Raging Bolt (Mid Form)",
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Charge",
+      "Shock Wave",
+      "Stomp",
+      "Sunny Day",
+      "Twister"
+    ],
+    "silver": [
+      "Discharge",
+      "Dragon Breath",
+      "Electric Terrain"
+    ],
+    "gold": [
+      "Body Press",
+      "Calm Mind",
+      "Dragon Hammer",
+      "Dragon Pulse",
+      "Dragon Tail",
+      "Rising Voltage",
+      "Thunder",
+      "Thunderclap",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

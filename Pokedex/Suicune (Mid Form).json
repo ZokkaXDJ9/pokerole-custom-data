@@ -1,0 +1,42 @@
+{
+  "number": 245,
+  "name": "Suicune (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/5",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Bubble Beam",
+      "BubbleBeam",
+      "Extreme Speed",
+      "Gust",
+      "Leer",
+      "Mist",
+      "Sheer Cold",
+      "Water Gun",
+      "Water Pulse"
+    ],
+    "silver": [
+      "Aurora Beam",
+      "Calm Mind",
+      "Ice Fang",
+      "Rain Dance",
+      "Roar"
+    ],
+    "gold": [
+      "Blizzard",
+      "Crunch",
+      "Extrasensory",
+      "Hydro Pump",
+      "Mirror Coat",
+      "Surf",
+      "Tailwind"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

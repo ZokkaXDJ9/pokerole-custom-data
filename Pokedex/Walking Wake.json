@@ -8,9 +8,27 @@
   "special": "3/7",
   "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Roar", "Leer", "Twister", "Aqua Jet", "Sunny Day", "Hone Claws", "Bite", "Water Pulse", "Noble Roar", "Dragon Breath", "Breaking Swipe", "Dragon Rush", "Hydro Steam", "Dragon Pulse", "Outrage", "Flamethrower", "Hydro Pump"],
+    "bronze": [
+      "Aqua Jet",
+      "Bite",
+      "Leer",
+      "Roar",
+      "Twister"
+    ],
+    "silver": [
+      "Dragon Breath",
+      "Noble Roar",
+      "Water Pulse"
+    ],
+    "gold": [
+      "Breaking Swipe",
+      "Dragon Pulse",
+      "Dragon Rush",
+      "Flamethrower",
+      "Hydro Pump",
+      "Hydro Steam",
+      "Outrage"
+    ],
     "platinum": [],
     "diamond": []
   }

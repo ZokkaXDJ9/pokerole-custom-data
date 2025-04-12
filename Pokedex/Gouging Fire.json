@@ -8,10 +8,30 @@
   "special": "2/4",
   "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Stomp", "Leer", "Incinerate", "Sunny Day", "Ancient Power", "Double Kick", "Noble Roar", "Fire Fang", "Howl", "Bite", "Dragon Claw", "Crush Claw", "Morning Sun", "Burning Bulwark", "Dragon Rush", "Fire Blast", "Lava Plume", "Outrage", "Flare Blitz", "Raging Fury"],
-    "platinum": ["move1", "move2"],
+    "bronze": [
+      "Fire Fang",
+      "Incinerate",
+      "Leer",
+      "Stomp",
+      "Sunny Day"
+    ],
+    "silver": [
+      "Bite",
+      "Dragon Claw",
+      "Howl"
+    ],
+    "gold": [
+      "Burning Bulwark",
+      "Crush Claw",
+      "Dragon Rush",
+      "Fire Blast",
+      "Flare Blitz",
+      "Lava Plume",
+      "Morning Sun",
+      "Outrage",
+      "Raging Fury"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

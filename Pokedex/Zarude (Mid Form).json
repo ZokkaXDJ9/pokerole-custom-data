@@ -1,0 +1,37 @@
+{
+  "number": 893,
+  "name": "Zarude (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Bind",
+      "Leer",
+      "Scratch"
+    ],
+    "silver": [
+      "Fury Swipes",
+      "Growth",
+      "Scary Face",
+      "Vine Whip"
+    ],
+    "gold": [
+      "Bite",
+      "Energy Ball",
+      "Grass Knot",
+      "Hammer Arm",
+      "Jungle Healing",
+      "Power Whip",
+      "Swagger",
+      "Synthesis",
+      "Thrash",
+      "U-turn"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

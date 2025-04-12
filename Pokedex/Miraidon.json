@@ -1,17 +1,36 @@
 {
   "number": 1008,
   "name": "Miraidon",
-  "base_hp": 6,
-  "strength": "5/5",
-  "dexterity": "8/8",
-  "vitality": "6/6",
-  "special": "8/8",
-  "insight": "7/7",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/7",
+  "vitality": "3/6",
+  "special": "3/7",
+  "insight": "3/6",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Electric Terrain", "Thunder Shock", "Dragon Breath", "Shockwave", "Charge", "Parabolic Charge", "Discharge", "Agility", "Dragon Pulse", "Electro Drift", "Metal Sound", "Mirror Coat", "Outrage", "Thunder", "Overheat", "Hyper Beam"],
+    "bronze": [
+      "Dragon Breath",
+      "Electric Terrain",
+      "Shock Wave",
+      "Thunder Shock"
+    ],
+    "silver": [
+      "Charge",
+      "Discharge",
+      "Parabolic Charge"
+    ],
+    "gold": [
+      "Agility",
+      "Dragon Pulse",
+      "Electro Drift",
+      "Hyper Beam",
+      "Metal Sound",
+      "Mirror Coat",
+      "Outrage",
+      "Overheat",
+      "Thunder"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

@@ -1,0 +1,37 @@
+{
+  "number": 989,
+  "name": "Sandy Shocks (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Electric Terrain",
+      "Spark",
+      "Supersonic",
+      "Thunder Shock",
+      "Thunder Wave"
+    ],
+    "silver": [
+      "Bulldoze",
+      "Charge Beam",
+      "Tri Attack"
+    ],
+    "gold": [
+      "Discharge",
+      "Earth Power",
+      "Gravity",
+      "Heavy Slam",
+      "Magnetic Flux",
+      "Metal Sound",
+      "Mirror Coat",
+      "Screech",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

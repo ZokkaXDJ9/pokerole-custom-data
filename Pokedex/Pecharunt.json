@@ -1,0 +1,33 @@
+{
+  "number": 1025,
+  "name": "Pecharunt",
+  "base_hp": 6,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "4/9",
+  "special": "2/5",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Memento",
+      "Poison Gas",
+      "Smog",
+      "Withdraw"
+    ],
+    "silver": [
+      "Destiny Bond",
+      "Fake Tears",
+      "Parting Shot"
+    ],
+    "gold": [
+      "Malignant Chain",
+      "Nasty Plot",
+      "Recover",
+      "Shadow Ball",
+      "Toxic"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

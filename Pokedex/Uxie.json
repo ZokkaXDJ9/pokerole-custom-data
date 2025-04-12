@@ -1,0 +1,35 @@
+{
+  "number": 480,
+  "name": "Uxie",
+  "base_hp": 5,
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/7",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Imprison",
+      "Rest",
+      "Swift"
+    ],
+    "silver": [
+      "Endure",
+      "Psybeam",
+      "Yawn"
+    ],
+    "gold": [
+      "Amnesia",
+      "Extrasensory",
+      "Flail",
+      "Future Sight",
+      "Memento",
+      "Mystical Power",
+      "Natural Gift",
+      "Psychic"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

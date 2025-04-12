@@ -1,0 +1,35 @@
+{
+  "number": 888,
+  "name": "Zacian (Baby Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Howl",
+      "Metal Claw",
+      "Quick Attack",
+      "Quick Guard",
+      "Sacred Sword"
+    ],
+    "silver": [
+      "Iron Head",
+      "Slash",
+      "Swords Dance"
+    ],
+    "gold": [
+      "Close Combat",
+      "Crunch",
+      "Giga Impact",
+      "Laser Focus",
+      "Moonblast",
+      "Noble Roar"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

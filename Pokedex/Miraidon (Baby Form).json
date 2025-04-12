@@ -1,0 +1,36 @@
+{
+  "number": 1008,
+  "name": "Miraidon (Baby Form)",
+  "base_hp": 3,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Dragon Breath",
+      "Electric Terrain",
+      "Shock Wave",
+      "Thunder Shock"
+    ],
+    "silver": [
+      "Charge",
+      "Discharge",
+      "Parabolic Charge"
+    ],
+    "gold": [
+      "Agility",
+      "Dragon Pulse",
+      "Electro Drift",
+      "Hyper Beam",
+      "Metal Sound",
+      "Mirror Coat",
+      "Outrage",
+      "Overheat",
+      "Thunder"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

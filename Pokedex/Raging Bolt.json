@@ -8,9 +8,29 @@
   "special": "4/8",
   "insight": "2/5",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": ["Twister", "Sunny Day", "Shock Wave", "Stomp", "Ancient Power", "Charge", "Dragon Breath", "Electric Terrain", "Discharge", "Dragon Tail", "Calm Mind", "Thunderclap", "Dragon Hammer", "Rising Voltage", "Dragon Pulse", "Zap Cannon", "Body Press", "Thunder"],
+    "bronze": [
+      "Charge",
+      "Shock Wave",
+      "Stomp",
+      "Sunny Day",
+      "Twister"
+    ],
+    "silver": [
+      "Discharge",
+      "Dragon Breath",
+      "Electric Terrain"
+    ],
+    "gold": [
+      "Body Press",
+      "Calm Mind",
+      "Dragon Hammer",
+      "Dragon Pulse",
+      "Dragon Tail",
+      "Rising Voltage",
+      "Thunder",
+      "Thunderclap",
+      "Zap Cannon"
+    ],
     "platinum": [],
     "diamond": []
   }

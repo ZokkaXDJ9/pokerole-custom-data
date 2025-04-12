@@ -1,0 +1,39 @@
+{
+  "number": 716,
+  "name": "Xerneas",
+  "base_hp": 6,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Aurora Beam",
+      "Gravity",
+      "Light Screen",
+      "Tackle"
+    ],
+    "silver": [
+      "Aromatherapy",
+      "Geomancy",
+      "Nature Power",
+      "Night Slash",
+      "Psych Up"
+    ],
+    "gold": [
+      "Close Combat",
+      "Giga Impact",
+      "Heal Pulse",
+      "Horn Leech",
+      "Ingrain",
+      "Megahorn",
+      "Misty Terrain",
+      "Moonblast",
+      "Outrage",
+      "Take Down"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

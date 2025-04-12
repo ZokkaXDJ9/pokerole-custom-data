@@ -1,0 +1,37 @@
+{
+  "number": 892,
+  "name": "Urshifu (Single Strike)",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "2/4",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Endure",
+      "Focus Energy",
+      "Leer",
+      "Rock Smash",
+      "Sucker Punch",
+      "Wicked Blow"
+    ],
+    "silver": [
+      "Aerial Ace",
+      "Brick Break",
+      "Bulk Up",
+      "Detect",
+      "Headbutt",
+      "Scary Face"
+    ],
+    "gold": [
+      "Close Combat",
+      "Counter",
+      "Dynamic Punch",
+      "Focus Punch",
+      "Iron Head"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

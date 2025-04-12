@@ -1,0 +1,35 @@
+{
+  "number": 482,
+  "name": "Azelf (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Confusion",
+      "Imprison",
+      "Rest",
+      "Swift"
+    ],
+    "silver": [
+      "Detect",
+      "Psybeam",
+      "Uproar"
+    ],
+    "gold": [
+      "Explosion",
+      "Extrasensory",
+      "Future Sight",
+      "Last Resort",
+      "Mystical Power",
+      "Nasty Plot",
+      "Natural Gift",
+      "Psychic"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

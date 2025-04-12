@@ -1,0 +1,34 @@
+{
+  "number": 889,
+  "name": "Zamazenta",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "3/7",
+  "special": "2/5",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Howl",
+      "Metal Burst",
+      "Metal Claw",
+      "Quick Attack",
+      "Wide Guard"
+    ],
+    "silver": [
+      "Iron Defense",
+      "Iron Head",
+      "Slash"
+    ],
+    "gold": [
+      "Close Combat",
+      "Crunch",
+      "Giga Impact",
+      "Laser Focus",
+      "Moonblast"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

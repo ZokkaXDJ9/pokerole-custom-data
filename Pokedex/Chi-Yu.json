@@ -2,16 +2,37 @@
   "number": 1004,
   "name": "Chi-Yu",
   "base_hp": 4,
-  "strength": "5/5",
-  "dexterity": "6/6",
-  "vitality": "5/5",
-  "special": "8/8",
-  "insight": "7/7",
+  "strength": "2/5",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "4/8",
+  "insight": "3/7",
   "moves": {
-    "bronze": [],
-    "silver": [],
-    "gold": [],
-    "platinum": ["Ember", "Spite", "Mean Look", "Flame Wheel", "Payback", "Will-O-Wisp", "Flame Charge", "Incinerate", "Confuse Ray", "Nasty Plot", "Dark Pulse", "Lava Plume", "Ruination", "Bounce", "Swagger", "Inferno", "Memento", "Overheat"],
+    "bronze": [
+      "Ember",
+      "Flame Wheel",
+      "Mean Look",
+      "Payback",
+      "Spite"
+    ],
+    "silver": [
+      "Confuse Ray",
+      "Flame Charge",
+      "Incinerate",
+      "Will-O-Wisp"
+    ],
+    "gold": [
+      "Bounce",
+      "Dark Pulse",
+      "Inferno",
+      "Lava Plume",
+      "Memento",
+      "Nasty Plot",
+      "Overheat",
+      "Ruination",
+      "Swagger"
+    ],
+    "platinum": [],
     "diamond": []
   }
 }

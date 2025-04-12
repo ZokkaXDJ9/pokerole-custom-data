@@ -1,0 +1,41 @@
+{
+  "number": 799,
+  "name": "Guzzlord (Baby Form)",
+  "base_hp": 7,
+  "strength": "2/4",
+  "dexterity": "1/2",
+  "vitality": "1/2",
+  "special": "2/4",
+  "insight": "1/2",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Dragon Tail",
+      "Knock Off",
+      "Stockpile",
+      "Stomp",
+      "Swallow"
+    ],
+    "silver": [
+      "Brutal Swing",
+      "Crunch",
+      "Iron Tail",
+      "Steamroller",
+      "Stomping Tantrum",
+      "Wide Guard"
+    ],
+    "gold": [
+      "Belch",
+      "Body Slam",
+      "Dragon Rush",
+      "Gastro Acid",
+      "Giga Impact",
+      "Hammer Arm",
+      "Heavy Slam",
+      "Thrash",
+      "Wring Out"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

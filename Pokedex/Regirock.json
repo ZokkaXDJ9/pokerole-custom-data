@@ -1,0 +1,36 @@
+{
+  "number": 377,
+  "name": "Regirock",
+  "base_hp": 5,
+  "strength": "3/6",
+  "dexterity": "2/4",
+  "vitality": "5/10",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Bulldoze",
+      "Charge Beam",
+      "Rock Throw"
+    ],
+    "silver": [
+      "Ancient Power",
+      "AncientPower",
+      "Curse",
+      "Rock Slide",
+      "Stomp",
+      "Superpower"
+    ],
+    "gold": [
+      "Explosion",
+      "Hammer Arm",
+      "Hyper Beam",
+      "Iron Defense",
+      "Lock-On",
+      "Stone Edge",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

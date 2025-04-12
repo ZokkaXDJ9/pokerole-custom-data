@@ -1,0 +1,39 @@
+{
+  "number": 386,
+  "name": "Deoxys (Mid Form)",
+  "base_hp": 4,
+  "strength": "2/5",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Leer",
+      "Night Shade",
+      "Teleport",
+      "Wrap"
+    ],
+    "silver": [
+      "Knock Off",
+      "Psychic",
+      "Psyshock",
+      "Pursuit",
+      "Snatch",
+      "Toxic Spikes"
+    ],
+    "gold": [
+      "Cosmic Power",
+      "Gravity",
+      "Hyper Beam",
+      "Psycho Boost",
+      "Psycho Shift",
+      "Recover",
+      "Skill Swap",
+      "Switcheroo",
+      "Zen Headbutt"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}
