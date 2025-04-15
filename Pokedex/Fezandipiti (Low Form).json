@@ -1,0 +1,34 @@
+{
+  "number": 1016,
+  "name": "Fezandipiti (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Disarming Voice",
+      "Double Kick",
+      "Peck",
+      "Poison Gas",
+      "Quick Attack"
+    ],
+    "silver": [
+      "Attract",
+      "Cross Poison",
+      "Wing Attack"
+    ],
+    "gold": [
+      "Beat Up",
+      "Flatter",
+      "Moonblast",
+      "Roost",
+      "Swagger",
+      "Tail Slap"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

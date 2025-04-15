@@ -1,0 +1,35 @@
+{
+  "number": 640,
+  "name": "Virizion (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Double Kick",
+      "Helping Hand",
+      "Leer",
+      "Magical Leaf",
+      "Quick Attack",
+      "Take Down",
+      "Work Up"
+    ],
+    "silver": [
+      "Giga Drain",
+      "Quick Guard",
+      "Retaliate",
+      "Sacred Sword"
+    ],
+    "gold": [
+      "Close Combat",
+      "Leaf Blade",
+      "Swords Dance",
+      "Synthesis"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

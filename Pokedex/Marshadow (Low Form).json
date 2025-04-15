@@ -1,0 +1,40 @@
+{
+  "number": 802,
+  "name": "Marshadow (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "1/3",
+  "insight": "2/4",
+  "moves": {
+    "bronze": [
+      "Copycat",
+      "Counter",
+      "Feint",
+      "Fire Punch",
+      "Force Palm",
+      "Ice Punch",
+      "Role Play",
+      "Shadow Sneak",
+      "Thunder Punch"
+    ],
+    "silver": [
+      "Rolling Kick",
+      "Shadow Punch"
+    ],
+    "gold": [
+      "Assurance",
+      "Close Combat",
+      "Drain Punch",
+      "Endeavor",
+      "Jump Kick",
+      "Laser Focus",
+      "Psych Up",
+      "Spectral Thief",
+      "Sucker Punch"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

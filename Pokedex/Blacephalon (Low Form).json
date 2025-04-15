@@ -1,0 +1,38 @@
+{
+  "number": 806,
+  "name": "Blacephalon (Low Form)",
+  "base_hp": 2,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/2",
+  "special": "3/6",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Ember",
+      "Fire Spin",
+      "Light Screen",
+      "Magic Coat"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Confuse Ray",
+      "Flame Burst",
+      "Incinerate",
+      "Night Shade",
+      "Stored Power"
+    ],
+    "gold": [
+      "Fire Blast",
+      "Hypnosis",
+      "Mind Blown",
+      "Mystical Fire",
+      "Shadow Ball",
+      "Trick",
+      "Will-O-Wisp"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

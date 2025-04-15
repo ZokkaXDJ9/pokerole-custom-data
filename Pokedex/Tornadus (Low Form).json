@@ -1,0 +1,39 @@
+{
+  "number": 641,
+  "name": "Tornadus (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Astonish",
+      "Bite",
+      "Gust",
+      "Leer",
+      "Swagger"
+    ],
+    "silver": [
+      "Agility",
+      "Air Cutter",
+      "Extrasensory",
+      "Revenge",
+      "Tailwind"
+    ],
+    "gold": [
+      "Air Slash",
+      "Bleakwind Storm",
+      "Crunch",
+      "Dark Pulse",
+      "Hammer Arm",
+      "Hurricane",
+      "Rain Dance",
+      "Thrash",
+      "Uproar"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

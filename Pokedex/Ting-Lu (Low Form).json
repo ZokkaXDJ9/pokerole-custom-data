@@ -1,0 +1,38 @@
+{
+  "number": 1003,
+  "name": "Ting-Lu (Low Form)",
+  "base_hp": 6,
+  "strength": "2/4",
+  "dexterity": "0/1",
+  "vitality": "2/5",
+  "special": "1/2",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Mean Look",
+      "Payback",
+      "Sand Tomb",
+      "Spikes",
+      "Spite"
+    ],
+    "silver": [
+      "Bulldoze",
+      "Stomp",
+      "Taunt",
+      "Whirlwind"
+    ],
+    "gold": [
+      "Dark Pulse",
+      "Earthquake",
+      "Fissure",
+      "Memento",
+      "Rock Slide",
+      "Ruination",
+      "Stomping Tantrum",
+      "Thrash",
+      "Throat Chop"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

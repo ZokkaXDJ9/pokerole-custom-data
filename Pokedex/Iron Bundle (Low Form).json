@@ -1,0 +1,34 @@
+{
+  "number": 991,
+  "name": "Iron Bundle (Low Form)",
+  "base_hp": 2,
+  "strength": "1/3",
+  "dexterity": "2/5",
+  "vitality": "2/4",
+  "special": "2/5",
+  "insight": "1/2",
+  "moves": {
+    "bronze": [
+      "Powder Snow",
+      "Present"
+    ],
+    "silver": [
+      "Drill Peck",
+      "Take Down",
+      "Whirlpool"
+    ],
+    "gold": [
+      "Agility",
+      "Aurora Veil",
+      "Blizzard",
+      "Flip Turn",
+      "Freeze-Dry",
+      "Helping Hand",
+      "Hydro Pump",
+      "Ice Beam",
+      "Snowscape"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

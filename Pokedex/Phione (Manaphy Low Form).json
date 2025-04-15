@@ -1,0 +1,32 @@
+{
+  "number": 489,
+  "name": "Phione (Manaphy Low Form)",
+  "base_hp": 4,
+  "strength": "1/3",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Charm",
+      "Water Gun"
+    ],
+    "silver": [
+      "Acid Armor",
+      "Bubble Beam",
+      "BubbleBeam",
+      "Supersonic"
+    ],
+    "gold": [
+      "Aqua Ring",
+      "Dive",
+      "Rain Dance",
+      "Take Heart",
+      "Water Pulse",
+      "Whirlpool"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

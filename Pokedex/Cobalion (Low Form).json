@@ -1,0 +1,34 @@
+{
+  "number": 638,
+  "name": "Cobalion (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Double Kick",
+      "Helping Hand",
+      "Leer",
+      "Metal Claw",
+      "Quick Attack",
+      "Take Down",
+      "Work Up"
+    ],
+    "silver": [
+      "Iron Head",
+      "Quick Guard",
+      "Retaliate",
+      "Sacred Sword"
+    ],
+    "gold": [
+      "Close Combat",
+      "Metal Burst",
+      "Swords Dance"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

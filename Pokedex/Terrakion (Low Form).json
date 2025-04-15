@@ -1,0 +1,34 @@
+{
+  "number": 639,
+  "name": "Terrakion (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "2/4",
+  "special": "1/3",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Double Kick",
+      "Helping Hand",
+      "Leer",
+      "Quick Attack",
+      "Smack Down",
+      "Take Down",
+      "Work Up"
+    ],
+    "silver": [
+      "Quick Guard",
+      "Retaliate",
+      "Rock Slide",
+      "Sacred Sword"
+    ],
+    "gold": [
+      "Close Combat",
+      "Stone Edge",
+      "Swords Dance"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

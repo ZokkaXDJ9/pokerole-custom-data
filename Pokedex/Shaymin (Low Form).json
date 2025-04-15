@@ -1,0 +1,36 @@
+{
+  "number": 492,
+  "name": "Shaymin (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Growth",
+      "Magical Leaf"
+    ],
+    "silver": [
+      "Leech Seed",
+      "Synthesis"
+    ],
+    "gold": [
+      "Aromatherapy",
+      "Energy Ball",
+      "GrassWhistle",
+      "Grassy Terrain",
+      "Healing Wish",
+      "Lucky Chant",
+      "Natural Gift",
+      "Play Rough",
+      "Seed Flare",
+      "Sweet Kiss",
+      "Sweet Scent",
+      "Worry Seed"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

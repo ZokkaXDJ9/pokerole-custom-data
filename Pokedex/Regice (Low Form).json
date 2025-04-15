@@ -1,0 +1,36 @@
+{
+  "number": 378,
+  "name": "Regice (Low Form)",
+  "base_hp": 3,
+  "strength": "1/2",
+  "dexterity": "1/2",
+  "vitality": "2/4",
+  "special": "2/4",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [
+      "Bulldoze",
+      "Charge Beam",
+      "Icy Wind"
+    ],
+    "silver": [
+      "Ancient Power",
+      "AncientPower",
+      "Curse",
+      "Ice Beam",
+      "Stomp",
+      "Superpower"
+    ],
+    "gold": [
+      "Amnesia",
+      "Blizzard",
+      "Explosion",
+      "Hammer Arm",
+      "Hyper Beam",
+      "Lock-On",
+      "Zap Cannon"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}

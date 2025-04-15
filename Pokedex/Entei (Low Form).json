@@ -1,0 +1,41 @@
+{
+  "number": 244,
+  "name": "Entei (Low Form)",
+  "base_hp": 3,
+  "strength": "2/4",
+  "dexterity": "2/4",
+  "vitality": "1/3",
+  "special": "2/4",
+  "insight": "1/3",
+  "moves": {
+    "bronze": [
+      "Bite",
+      "Ember",
+      "Extreme Speed",
+      "Flame Wheel",
+      "Leer",
+      "Sacred Fire",
+      "Smokescreen",
+      "Stomp"
+    ],
+    "silver": [
+      "Calm Mind",
+      "Fire Fang",
+      "Fire Spin",
+      "Roar"
+    ],
+    "gold": [
+      "Crunch",
+      "Eruption",
+      "Extrasensory",
+      "Fire Blast",
+      "Flamethrower",
+      "Lava Plume",
+      "Scary Face",
+      "Sunny Day",
+      "Swagger"
+    ],
+    "platinum": [],
+    "diamond": []
+  }
+}
