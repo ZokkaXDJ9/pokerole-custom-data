@@ -1,5 +1,6 @@
 {
   "number": 1007,
+  "api_id": 10509,
   "name": "Koraidon (Mid Form)",
   "base_hp": 4,
   "strength": "2/5",
@@ -8,16 +9,8 @@
   "special": "2/4",
   "insight": "2/4",
   "moves": {
-    "bronze": [
-      "Breaking Swipe",
-      "Rock Smash",
-      "Sunny Day"
-    ],
-    "silver": [
-      "Ancient Power",
-      "Brick Break",
-      "Drain Punch"
-    ],
+    "bronze": ["Breaking Swipe", "Rock Smash", "Sunny Day"],
+    "silver": ["Ancient Power", "Brick Break", "Drain Punch"],
     "gold": [
       "Agility",
       "Close Combat",

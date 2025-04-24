@@ -1,5 +1,6 @@
 {
   "number": 151,
+  "api_id": 10507,
   "name": "Mew (Mid Form)",
   "base_hp": 5,
   "strength": "2/4",
@@ -8,19 +9,8 @@
   "special": "2/5",
   "insight": "2/5",
   "moves": {
-    "bronze": [
-      "Amnesia",
-      "Mega Punch",
-      "Pound",
-      "Reflect Type",
-      "Transform"
-    ],
-    "silver": [
-      "Ancient Power",
-      "Baton Pass",
-      "Metronome",
-      "Psychic"
-    ],
+    "bronze": ["Amnesia", "Mega Punch", "Pound", "Reflect Type", "Transform"],
+    "silver": ["Ancient Power", "Baton Pass", "Metronome", "Psychic"],
     "gold": [
       "AncientPower",
       "Aura Sphere",
