@@ -1,5 +1,5 @@
 {
-  "name": "Anger Shell",
-  "description": "When this pokemon's shell breaks, it's anger is almost palpable!",
-  "effect": "When this pokemon drops to or below half health, Defense and Special Defense lower by 1 while Strength, Special and Dexterity raise by 1."
+  "name": "Forecast",
+  "description": "This Pokemon can absorb the elements around to adapt and survive even under extreme conditions.",
+  "effect": "The Type of this Pokemon will change depending on the active weather. Fire under Sun, Water under Rain, Ice under Hail and Rock under Sand etc."
 }
