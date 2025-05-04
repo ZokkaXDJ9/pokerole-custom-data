@@ -1,0 +1,17 @@
+{
+  "number": 21001,
+  "name": "Mizutsune",
+  "base_hp": 8,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "2/5",
+  "special": "3/6",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fire Lash", "Bubble"],
+    "silver": ["Searing Shot", "Curse"],
+    "gold": ["Inferno", "Future Sight"],
+    "platinum": [],
+    "diamond": []
+  }
+}
