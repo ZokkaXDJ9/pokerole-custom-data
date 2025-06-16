@@ -1,5 +1,6 @@
 {
   "number": 888,
+  "api_id": 10511,
   "name": "Zacian (Mid Form)",
   "base_hp": 4,
   "strength": "2/5",
@@ -16,11 +17,7 @@
       "Quick Guard",
       "Sacred Sword"
     ],
-    "silver": [
-      "Iron Head",
-      "Slash",
-      "Swords Dance"
-    ],
+    "silver": ["Iron Head", "Slash", "Swords Dance"],
     "gold": [
       "Close Combat",
       "Crunch",

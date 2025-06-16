@@ -1,0 +1,19 @@
+{
+    "number": 20006,
+    "api_id": 20006,
+    "name": "Storm Cloak",
+    "base_hp": 6,
+    "strength": "2/4",
+    "dexterity": "3/6",
+    "vitality": "2/5",
+    "special": "3/7",
+    "insight": "4/8",
+    "moves": {
+      "bronze": ["Fire Lash", "Bubble"],
+      "silver": ["Searing Shot", "Curse"],
+      "gold": ["Inferno", "Future Sight"],
+      "platinum": [],
+      "diamond": []
+    }
+  }
+  
