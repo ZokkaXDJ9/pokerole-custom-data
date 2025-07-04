@@ -1,0 +1,18 @@
+{
+    "number": 20007,
+    "api_id": 20007,
+    "name": "Transcendent Data",
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "3/6",
+    "vitality": "3/6",
+    "special": "4/9",
+    "insight": "3/6",
+    "moves": {
+      "bronze": ["Wonder Room", "Swift"],
+      "silver": ["Cosmic Power", "Baton Pass"],
+      "gold": ["Phantom Force", "Amnesia"],
+      "platinum": [],
+      "diamond": []
+    }
+}
