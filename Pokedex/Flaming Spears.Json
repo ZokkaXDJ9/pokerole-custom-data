@@ -1,0 +1,42 @@
+{
+    "number": 20005,
+    "api_id": 20005,
+    "name": "Flaming Spears",
+    "base_hp": 6,
+    "strength": "4/8",
+    "dexterity": "3/6",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Focus Energy",
+            "Protect",
+            "Rock Smash",
+            "Tackle",
+            "Flame Charge",
+            "Spiky Shield"
+        ],
+        "silver": [
+            "Fury Attack",
+            "Sacred Sword",
+            "Bulk Up",
+            "Endure",
+            "Headbutt",
+            "Reversal"
+        ],
+        "gold": [
+            "Close Combat",
+            "Counter",
+            "First Impression",
+            "Iron Defense",
+            "Megahorn",
+            "No Retreat",
+            "Flare Blitz",
+            "Morning Sun"
+        ],
+      "platinum": [],
+      "diamond": []
+    }
+  }
+  
