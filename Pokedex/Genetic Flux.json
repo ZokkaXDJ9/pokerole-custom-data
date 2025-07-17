@@ -1,0 +1,18 @@
+{
+    "number": 20008,
+    "api_id": 20008,
+    "name": "Genetic Flux",
+    "base_hp": 4,
+    "strength": "3/7",
+    "dexterity": "2/4",
+    "vitality": "3/7",
+    "special": "3/7",
+    "insight": "3/7",
+    "moves": {
+      "bronze": ["Rapid Spin", "Growth"],
+      "silver": ["Tri - Attack", "Shell Smash"],
+      "gold": ["Razor Wing", "Belly Drum"],
+      "platinum": [],
+      "diamond": []
+    }
+}
