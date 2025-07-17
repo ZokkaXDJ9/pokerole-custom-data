@@ -1,13 +1,13 @@
 {
   "number": 492,
-  "api_id": 10514,
-  "name": "Shaymin (Low Form)",
-  "base_hp": 3,
-  "strength": "2/4",
-  "dexterity": "2/4",
-  "vitality": "1/3",
-  "special": "2/4",
-  "insight": "1/3",
+  "api_id": 10006,
+  "name": "Shaymin (Sky Form)",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/7",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
   "moves": {
     "bronze": [
       "Growth",
