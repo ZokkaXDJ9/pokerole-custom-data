@@ -1,0 +1,18 @@
+{
+  "number": 20010,
+  "api_id": 20010,
+  "name": "Iron Valiant (Z3R0 Variant)",
+  "base_hp": 5,
+  "strength": "3/7",
+  "dexterity": "2/5",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Fire Lash", "Bubble"],
+    "silver": ["Searing Shot", "Curse"],
+    "gold": ["Inferno", "Future Sight"],
+    "platinum": [],
+    "diamond": []
+  }
+}
