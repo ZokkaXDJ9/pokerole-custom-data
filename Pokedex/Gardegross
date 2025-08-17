@@ -1,0 +1,24 @@
+{
+    "number": 20001,
+    "api_id": 20001,
+    "name": "Gardegross",
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "3/6",
+    "special": "3/7",
+    "insight": "3/7",
+    "moves": {
+        "bronze": [
+
+        ],
+        "silver": [
+
+        ],
+        "gold": [
+
+        ],
+      "platinum": [],
+      "diamond": []
+    }
+  }
