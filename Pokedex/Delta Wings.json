@@ -1,0 +1,25 @@
+{
+    "number": 20009,
+    "api_id": 20009,
+    "name": "Delta Wings",
+    "base_hp": 5,
+    "strength": "1/2",
+    "dexterity": "4/8",
+    "vitality": "3/7",
+    "special": "3/7",
+    "insight": "3/7",
+    "moves": {
+        "bronze": [
+
+        ],
+        "silver": [
+
+        ],
+        "gold": [
+
+        ],
+      "platinum": [],
+      "diamond": []
+    }
+  }
+  
