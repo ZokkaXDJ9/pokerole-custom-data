@@ -10,13 +10,13 @@
     "insight": "3/7",
     "moves": {
         "bronze": [
-
+            "Magnet Bomb", "Mirror Shot"
         ],
         "silver": [
-
+            "Flash Cannon", "Moonblast"
         ],
         "gold": [
-
+            "Steel Beam", "Echoed Voice"
         ],
       "platinum": [],
       "diamond": []
