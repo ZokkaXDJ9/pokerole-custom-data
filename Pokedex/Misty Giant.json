@@ -1,0 +1,18 @@
+{
+  "number": 20012,
+  "api_id": 20012,
+  "name": "Misty Giant",
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}
