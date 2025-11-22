@@ -2,11 +2,11 @@
   "number": 888,
   "name": "Zacian",
   "base_hp": 5,
-  "strength": "3/6",
+  "strength": "3/7",
   "dexterity": "3/7",
   "vitality": "3/6",
   "special": "2/5",
-  "insight": "3/7",
+  "insight": "3/6",
   "moves": {
     "bronze": [
       "Bite",
