@@ -1,0 +1,5 @@
+{
+  "name": "Thick Cream",
+  "description": "This Pokemon's body has a thick layer of cream that protects it against becoming wet or baked.",
+  "effect": "Reduce by 1 the damage taken from Fire and Water-Type moves."
+}

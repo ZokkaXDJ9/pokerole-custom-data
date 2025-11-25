@@ -1,0 +1,5 @@
+{
+  "name": "Lock Jaw",
+  "description": "Using their unnaturally strong jaws, this pokemon easily restrains anything it can bite into.",
+  "effect": "This pokemon’s Biting Based moves inflict the Blocked status when dealing damage to an enemy (only one target may be Blocked by this ability at a time). The User adds 1 Extra Damage Dice to their Biting Based attacks against opponents with the Blocked status."
+}
