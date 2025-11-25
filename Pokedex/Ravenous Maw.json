@@ -1,0 +1,18 @@
+{
+    "number": 20014,
+    "api_id": 20014,
+    "name": "Ravenous Maw",
+    "base_hp": 6,
+    "strength": "4/9",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "3/7",
+    "insight": "2/4",
+    "moves": {
+      "bronze": [],
+      "silver": [],
+      "gold": [],
+      "platinum": [],
+      "diamond": []
+    }
+}
