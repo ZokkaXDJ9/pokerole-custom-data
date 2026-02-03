@@ -1,0 +1,18 @@
+{
+  "number": 20016,
+  "api_id": 20016,
+  "name": "Sylpunny",
+  "base_hp": 6,
+  "strength": "3/6",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "3/6",
+  "insight": "3/6",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}
