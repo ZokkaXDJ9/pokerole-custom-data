@@ -1,0 +1,18 @@
+{
+  "number": 20017,
+  "api_id": 20017,
+  "name": "Feral Ear",
+    "base_hp": 6,
+    "strength": "4/8",
+    "dexterity": "3/6",
+    "vitality": "3/7",
+    "special": "1/2",
+    "insight": "3/7",
+  "moves": {
+    "bronze": [],
+    "silver": [],
+    "gold": [],
+    "platinum": [],
+    "diamond": []
+  }
+}
